@@ -1,0 +1,33 @@
+# One regex pattern per line. Matched case-insensitively against title.
+# Lines are OR'd together. Use word boundaries (\b) for short tokens.
+
+\bartificial intelligence\b
+\bmachine learning\b
+\bdeep learning\b
+\bneural network[s]?\b
+\bfoundation model[s]?\b
+\blarge language model[s]?\b
+\bllm[s]?\b
+\bgen[- ]?ai\b
+\bgenerative ai\b
+\bagi\b
+\bxai\b
+\banthropic\b
+\bclaude\b
+\bopenai\b
+\bchatgpt\b
+\bgpt[- ]?[0-9]+\b
+\bgemini\b
+\bdeepmind\b
+\bcopilot\b
+\bperplexity\b
+\bmistral\b
+\bhugging ?face\b
+\bllama\b
+\bdall[- ]?e\b
+\bmidjourney\b
+\bstable diffusion\b
+\bsora\b
+\b ai \b
+^ai[ ,:]
+[ ,:]ai$

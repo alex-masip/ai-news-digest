@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI news — {{ day }}</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --fg: #1a1a1a;
+    --muted: #666;
+    --accent: #2563eb;
+    --rule: #e5e5e0;
+    --card: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1115;
+      --fg: #e6e6e6;
+      --muted: #8a8f98;
+      --accent: #60a5fa;
+      --rule: #2a2e36;
+      --card: #1a1d23;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 2rem 1rem 4rem;
+    line-height: 1.55;
+  }
+  header h1 { margin: 0; font-size: 1.5rem; letter-spacing: -0.01em; }
+  header .subtitle { color: var(--muted); margin: 0.25rem 0 1.5rem; font-size: 0.95rem; }
+  .intro {
+    border-left: 3px solid var(--accent);
+    padding: 0.75rem 1rem;
+    margin: 1rem 0 2.5rem;
+    background: var(--card);
+    border-radius: 0 4px 4px 0;
+    font-size: 1.02rem;
+  }
+  h2 {
+    font-size: 1.05rem;
+    margin: 2.5rem 0 1rem;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.3rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+  }
+  .story { margin: 0.9rem 0 1.4rem; }
+  .story a {
+    color: var(--fg);
+    text-decoration: none;
+    font-weight: 600;
+    border-bottom: 1px solid transparent;
+  }
+  .story a:hover { border-bottom-color: var(--accent); color: var(--accent); }
+  .meta { font-size: 0.82rem; color: var(--muted); margin-top: 0.2rem; }
+  .desc { font-size: 0.92rem; color: var(--muted); margin-top: 0.35rem; }
+  .count-pill {
+    display: inline-block;
+    font-size: 0.72rem;
+    background: var(--accent);
+    color: white;
+    padding: 0.05rem 0.5rem;
+    border-radius: 999px;
+    margin-left: 0.4rem;
+    vertical-align: 1px;
+    font-weight: 500;
+  }
+  footer {
+    margin-top: 4rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+    text-align: center;
+    border-top: 1px solid var(--rule);
+    padding-top: 1rem;
+  }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>AI news — {{ day }}</h1>
+  <p class="subtitle">Daily English-language digest, sourced from GDELT GAL.</p>
+</header>
+
+<div class="intro">{{ intro }}</div>
+
+{% if whitelist %}
+<h2>Tier 1 · {{ whitelist|length }}</h2>
+{% for s in whitelist %}
+<div class="story">
+  <a href="{{ s.url }}">{{ s.title }}</a>
+  {% if s.cluster_size > 1 %}<span class="count-pill">×{{ s.cluster_size }}</span>{% endif %}
+  <div class="meta">{{ s.outlet }}{% if s.other_outlets %} · also: {{ s.other_outlets|join(', ') }}{% endif %}</div>
+  {% if s.desc %}<div class="desc">{{ s.desc[:280] }}{% if s.desc|length > 280 %}…{% endif %}</div>{% endif %}
+</div>
+{% endfor %}
+{% endif %}
+
+{% if longtail %}
+<h2>Long tail · {{ longtail|length }}</h2>
+{% for s in longtail %}
+<div class="story">
+  <a href="{{ s.url }}">{{ s.title }}</a>
+  {% if s.cluster_size > 1 %}<span class="count-pill">×{{ s.cluster_size }}</span>{% endif %}
+  <div class="meta">{{ s.outlet }}</div>
+</div>
+{% endfor %}
+{% endif %}
+
+<footer>
+  Generated {{ day }} ·
+  <a href="https://github.com/alex-masip/ai-news-digest">source</a>
+</footer>
+
+</body>
+</html>

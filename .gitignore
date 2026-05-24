@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+/tmp/
+*.swp
+.DS_Store
+.vercel/
+sa.json

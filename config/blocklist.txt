@@ -1,0 +1,36 @@
+# Domains excluded entirely. Content farms, press-release sites,
+# stock-bot autogen, aggregators that resurface old articles.
+# Seeded from observed noise in 7-day GAL sample.
+
+# stock / finance autogen
+finance.yahoo.com
+fool.com
+benzinga.com
+insidermonkey.com
+seekingalpha.com
+tickerreport.com
+dailypolitical.com
+finanznachrichten.de
+markets.financialcontent.com
+moneycontrol.com
+
+# press releases
+prnewswire.com
+openpr.com
+pr-inside.com
+itnewsonline.com
+miragenews.com
+
+# aggregators / republishers
+digg.com
+aninews.in
+
+# content farms / local outlets observed re-syndicating old wire stories
+digbycourier.ca
+northernpen.ca
+westcentralonline.com
+geneamusings.com
+
+# gaming/clickbait that triggers on "AI" matches
+attackofthefanboy.com
+gameranx.com

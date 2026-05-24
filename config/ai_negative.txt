@@ -1,0 +1,16 @@
+# Patterns that, if matched, REMOVE the article even if AI-positive matched.
+# Targets ambiguous-acronym noise (Gemini astrology, Claude Monet, etc.)
+# and clearly off-topic content that slipped through.
+
+\bhoroscope\b
+\bzodiac\b
+\bastrology\b
+gemini (today|horoscope|love|tomorrow|man|woman|forecast|sign|compatibility)
+(daily|weekly|monthly) (astrology|stars|prediction|forecast for)
+\bclaude monet\b
+\baries\b
+\btaurus\b
+\bsagittarius\b
+\bcapricorn\b
+\baquarius\b
+\bpisces\b
