@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "intro": "As AI automates white-collar work, a partnership between Toyota and Huntsville Center for Technology is training high school students for skilled trades paying $40 an hour that resist automation. The White House approved $9 billion to purchase advanced chips and infrastructure for CIA and NSA systems, addressing capacity gaps for running latest AI models. Claude's latest update integrates with QuickBooks, PayPal, and HubSpot to automate payroll, month-end accounting, and campaign management directly within business tools.",
+  "intro": "As AI adoption accelerates, skilled trades are emerging as a more resilient job market—Toyota and a Huntsville high school are partnering to train students for roles paying $40 per hour that resist automation. The White House approved $9 billion to purchase advanced AI chips for U.S. intelligence agencies, addressing capacity gaps at the CIA and NSA needed to run current models. Claude's latest update integrates with business tools like QuickBooks and HubSpot, enabling users to automate payroll and campaign management within a single interface.",
   "whitelist": [
     {
       "title": "As AI wipes out white-collar jobs, one Alabama high school and Toyota are training students for roles that pay $40 an hour and can't be automated | Fortune",
@@ -11,14 +11,14 @@
       "desc": "The Huntsville Center for Technology gives high school students a foothold in the skilled trades amid a job market starved for that talent.",
       "date": "2026-05-24T09:01:00+00:00",
       "tier": "whitelist",
-      "cluster_size": 36,
+      "cluster_size": 35,
       "other_outlets": [
         "ABC News",
-        "ABC17NEWS",
         "Business Insider",
-        "CNN",
         "Chiang Rai Times (CTN NEWS) - Chiang Rai News",
-        "Forbes"
+        "Forbes",
+        "Gamereactor UK",
+        "Haiti Sun"
       ]
     },
     {
@@ -406,7 +406,7 @@
       "desc": "Global hedge funds sharply increased their bets on artificial intelligence-linked companies at the start of the second quarter of 2026, with semiconductor and AI infrastructure firms emerging as the biggest beneficiaries, according to a latest Goldman Sachs Hedge Fund Trend Monitor report. Hedge funds entered Q2 2026 doubling down on the AI trade, Goldman Sachs said in the report. The report, which analysed holdings of 1,059 hedge funds with USD 4.6 trillion in gross equity positions, said funds...",
       "date": "2026-05-24T20:16:00+00:00",
       "tier": "longtail",
-      "cluster_size": 68,
+      "cluster_size": 66,
       "other_outlets": [
         "Afghanistan News",
         "Afghanistan Sun",
@@ -433,6 +433,25 @@
         "Niagara Falls Review",
         "St. Catharines Standard",
         "Taylorville Daily News"
+      ]
+    },
+    {
+      "title": "AI is learning to fly airplanes — and aviation is starting to embrace it",
+      "url": "https://www.kten.com/news/national/ai-is-learning-to-fly-airplanes-and-aviation-is-starting-to-embrace-it/article_7eae0960-a9bb-5833-9d2e-bcee367eff3b.html",
+      "domain": "kten.com",
+      "outlet": "KTEN",
+      "image": "",
+      "desc": "Quonset State Airport, Rhode Island (CNN) — The small Cessna Caravan accelerates down the runway and climbs into the air, all while the pilot beside me keeps his hands off",
+      "date": "2026-05-24T21:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 9,
+      "other_outlets": [
+        "ABC17NEWS",
+        "CNN",
+        "KESQ",
+        "KRDO",
+        "KTVZ",
+        "Local News 8"
       ]
     },
     {
@@ -474,6 +493,25 @@
       ]
     },
     {
+      "title": "AI in Civil Engineering",
+      "url": "https://link.springer.com/journal/43503",
+      "domain": "link.springer.com",
+      "outlet": "SpringerLink",
+      "image": "https://media.springernature.com/w92/springer-static/cover/journal/43503.jpg",
+      "desc": "AI in Civil Engineering (AICE) is the first international and prominent journal to publish original research papers, reviews, comments, and perspectives on AI ...",
+      "date": "2026-05-24T20:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "BusinessLine",
+        "Daily Excelsior",
+        "Odisha News, Odisha Latest news, Odisha Daily - OrissaPOST",
+        "The Economic Times",
+        "The New Indian Express",
+        "deccanchronicle.com"
+      ]
+    },
+    {
       "title": "Bangladesh puts AI in driving seat to tackle terrible traffic",
       "url": "http://thepeninsulaqatar.com/article/24/05/2026/bangladesh-puts-ai-in-driving-seat-to-tackle-terrible-traffic",
       "domain": "thepeninsulaqatar.com",
@@ -493,25 +531,6 @@
       ]
     },
     {
-      "title": "Delhi Red Fort blast: NIA chargesheet reveals abuse of AI platform for ‘terror engineering’ - The Tribune",
-      "url": "https://www.tribuneindia.com/news/india/delhi-red-fort-blast-nia-chargesheet-reveals-abuse-of-ai-platform-for-terror-engineering/",
-      "domain": "tribuneindia.com",
-      "outlet": "The Tribune",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI0MmRhNzQwLTU3NWEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "desc": "The National Investigation Agency (NIA) probe into the Red Fort area car blast case in Delhi has found that a chargesheeted accused, linked to an offshoot of global terrorist outfit Al-Qaida, allegedly misused an artificial intelligence (AI) platform for “terror engineering”, official sources said on Sunday.",
-      "date": "2026-05-24T11:16:00+00:00",
-      "tier": "longtail",
-      "cluster_size": 7,
-      "other_outlets": [
-        "BusinessLine",
-        "Daily Excelsior",
-        "Northlines",
-        "Odisha News, Odisha Latest news, Odisha Daily - OrissaPOST",
-        "The Economic Times",
-        "deccanchronicle.com"
-      ]
-    },
-    {
       "title": "St. Cloud Tech Students Join AI Festival In Boston This July",
       "url": "https://1037theloon.com/ixp/67/p/st-cloud-tech-ai-festival/",
       "domain": "1037theloon.com",
@@ -520,30 +539,12 @@
       "desc": "Two St. Cloud Tech High School students will represent their school at the upcoming Americas Youth AI Festival, focusing on AI in education.",
       "date": "2026-05-24T17:46:00+00:00",
       "tier": "longtail",
-      "cluster_size": 6,
+      "cluster_size": 5,
       "other_outlets": [
         "1520 The Ticket",
         "AM 1240 WJON",
         "KDHL AM 920",
-        "KFIL Radio",
         "MIX 94.9"
-      ]
-    },
-    {
-      "title": "StanChart plans 7,000 job cuts, cites AI and automation drive",
-      "url": "http://www.haitisun.com/news/279061601/stanchart-plans-7-000-job-cuts-cites-ai-and-automation-drive",
-      "domain": "haitisun.com",
-      "outlet": "Haiti Sun",
-      "image": "https://image.chitra.live/api/v1/wps/90d75ae/c736f287-6ca7-423e-b2b3-f16881b1ee4a/1/Standard-Chartered-Bank-600x315.jpg",
-      "desc": "Standard Chartered said on May 19 that it will eliminate more than 7,000 jobs over the next four years as the bank increases its use of artificial intelligence and automation to streamline operations and improve profitability",
-      "date": "2026-05-24T18:31:00+00:00",
-      "tier": "longtail",
-      "cluster_size": 5,
-      "other_outlets": [
-        "Caribbean Herald",
-        "Jamaican Times",
-        "London Mercury",
-        "Trinidad Times"
       ]
     },
     {
@@ -564,16 +565,16 @@
     },
     {
       "title": "Pope Leo's first encyclical will address AI and 'magnificent humanity'",
-      "url": "https://www.kvnf.org/2026-05-24/pope-leos-first-encyclical-will-address-ai-and-magnificent-humanity",
-      "domain": "kvnf.org",
-      "outlet": "KVNF Community Radio",
+      "url": "https://www.ksmu.org/2026-05-24/pope-leos-first-encyclical-will-address-ai-and-magnificent-humanity",
+      "domain": "ksmu.org",
+      "outlet": "KSMU Radio",
       "image": "",
       "desc": "Pope Leo plans to release an encyclical on \"safeguarding the human person in the time of artificial intelligence.\" NPR's Ayesha Rascoe talks to University of Notre Dame professor Meghan Sullivan.",
       "date": "2026-05-24T12:18:07+00:00",
       "tier": "longtail",
       "cluster_size": 5,
       "other_outlets": [
-        "KSMU Radio",
+        "KVNF Community Radio",
         "Public Radio East",
         "Red River Radio",
         "WAER"
@@ -595,13 +596,29 @@
       ]
     },
     {
-      "title": "when artificial intelligence becomes a (real) drug - IrishDentist.ie",
-      "url": "https://www.irishdentist.ie/when-artificial-intelligence-becomes-a-real-drug/18562/",
-      "domain": "irishdentist.ie",
-      "outlet": "IrishDentist.ie",
-      "image": "https://www.irishdentist.ie/wp-content/uploads/2026/05/when-artificial-intelligence-becomes-a-real-drug.jpg",
-      "desc": "Not just jobs at risk: the experts’ warning about chatbots capable of replacing friends and loves by entering into our intimacy. «Yes, I fell in",
-      "date": "2026-05-24T17:35:14+00:00",
+      "title": "StanChart plans 7,000 job cuts, cites AI and automation drive",
+      "url": "http://www.haitisun.com/news/279061601/stanchart-plans-7-000-job-cuts-cites-ai-and-automation-drive",
+      "domain": "haitisun.com",
+      "outlet": "Haiti Sun",
+      "image": "https://image.chitra.live/api/v1/wps/90d75ae/c736f287-6ca7-423e-b2b3-f16881b1ee4a/1/Standard-Chartered-Bank-600x315.jpg",
+      "desc": "Standard Chartered said on May 19 that it will eliminate more than 7,000 jobs over the next four years as the bank increases its use of artificial intelligence and automation to streamline operations and improve profitability",
+      "date": "2026-05-24T18:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Caribbean Herald",
+        "Jamaican Times",
+        "Trinidad Times"
+      ]
+    },
+    {
+      "title": "Artificial intelligence can help halve road deaths by 2030 – UN envoys",
+      "url": "https://quicknews-africa.net/artificial-intelligence-can-help-halve-road-deaths-by-2030-un-envoys/",
+      "domain": "quicknews-africa.net",
+      "outlet": "quicknews-africa.net",
+      "image": "https://quicknews-africa.net/wp-content/uploads/2016/05/softbank-pepper.jpg",
+      "desc": "​Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Ro…",
+      "date": "2026-05-24T15:47:00+00:00",
       "tier": "longtail",
       "cluster_size": 4,
       "other_outlets": [
@@ -653,20 +670,6 @@
       "other_outlets": [
         "East Bay Times",
         "Silicon Valley"
-      ]
-    },
-    {
-      "title": "AI in Civil Engineering",
-      "url": "https://link.springer.com/journal/43503",
-      "domain": "link.springer.com",
-      "outlet": "SpringerLink",
-      "image": "https://media.springernature.com/w92/springer-static/cover/journal/43503.jpg",
-      "desc": "AI in Civil Engineering (AICE) is the first international and prominent journal to publish original research papers, reviews, comments, and perspectives on AI ...",
-      "date": "2026-05-24T20:46:00+00:00",
-      "tier": "longtail",
-      "cluster_size": 2,
-      "other_outlets": [
-        "The New Indian Express"
       ]
     },
     {
@@ -743,6 +746,18 @@
       "image": "https://www.bankingnews.gr/media/k2/items/cache/ad9a71fe3203cb3ada5c2b18a0d63ba0_M.jpg",
       "desc": "Alarm on Wall Street: The AI bubble pushes banks into dangerous derivatives worth billions",
       "date": "2026-05-24T15:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Memory Shortage: AMD's Lisa Su Identifies High-Bandwidth Memory as AI Chip Supply's Next Cap",
+      "url": "http://www.techtimes.com/articles/317078/20260524/ai-memory-shortage-amds-lisa-su-identifies-high-bandwidth-memory-ai-chip-supplys-next-cap.htm",
+      "domain": "techtimes.com",
+      "outlet": "Tech Times",
+      "image": "https://d.techtimes.com/en/full/465304/amd-primus-projection-allows-estimating-memory-performance-before.png",
+      "desc": "AI memory shortage enters a new phase as AMD CEO Lisa Su identifies high-bandwidth memory — not advanced packaging — as the binding constraint on AI chip supply. DRAM contract prices surged a record",
+      "date": "2026-05-24T15:24:43+00:00",
       "tier": "longtail",
       "cluster_size": 2,
       "other_outlets": []
