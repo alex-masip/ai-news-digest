@@ -2,8 +2,9 @@ name: daily-ai-digest
 
 on:
   schedule:
-    # 06:00 UTC = 07:00 CET (winter) / 08:00 CEST (summer). Accept the DST drift.
-    - cron: '0 6 * * *'
+    # 06:13 UTC = 07:13 CET / 08:13 CEST. Off-the-hour to dodge GH Actions'
+    # scheduled-workflow delays at :00, which silently dropped the 2026-05-25 run.
+    - cron: '13 6 * * *'
   workflow_dispatch:
     inputs:
       date:
