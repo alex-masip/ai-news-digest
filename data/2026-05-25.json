@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "intro": "Dense fiber infrastructure is emerging as critical to scaling AI data centers, with the technology drawing widespread attention across the industry. Pope Leo released his first encyclical calling for AI regulation, warning that weapons systems are now beyond human control and urging that AI data ownership not remain solely with private companies. The pontiff also emphasized protecting worker and child rights in an AI-driven economy, citing concerns about domination and exclusion.",
+  "intro": "Pope Leo has called for stricter AI regulation and public ownership of AI data, warning that some autonomous weapons systems have moved beyond human control. Meanwhile, fiber-optic infrastructure has emerged as the critical bottleneck for scaling AI data centers, with dense fiber networks becoming essential to computational capacity. Tech companies and Western diplomats have been lobbying the Vatican ahead of the Pope's first encyclical on artificial intelligence.",
   "whitelist": [
     {
       "title": "Why fiber is the real secret to scaling intelligence in artificial intelligence factories",
@@ -11,33 +11,14 @@
       "desc": "Dense fiber is the foundation for scalable AI data centers",
       "date": "2026-05-25T10:59:39+00:00",
       "tier": "whitelist",
-      "cluster_size": 34,
+      "cluster_size": 15,
       "other_outlets": [
         "Arab News",
         "BGNES: Breaking News, Latest News and Videos",
-        "Biometric Update | Biometrics News, Companies and Explainers",
-        "Borneo Post Online",
         "BostonGlobe.com",
-        "Caledonian Record"
-      ]
-    },
-    {
-      "title": "Pope Leo called AI an 'instrument of domination, exclusion and death.' Anthropic was in the room | Fortune",
-      "url": "https://fortune.com/2026/05/25/pope-leo-xiv-ai-domination-death-anthropic-olah-encyclical/",
-      "domain": "fortune.com",
-      "outlet": "Fortune",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26145360853645-e1779728007172.jpg?resize=1200,600",
-      "desc": "Leo’s first encyclical, “Magnifica Humanitas,\" was very consciously signed on the 135th anniversary of \"Rerum Novarum,\" on the first Industrial Revolution.",
-      "date": "2026-05-25T18:16:00+00:00",
-      "tier": "whitelist",
-      "cluster_size": 20,
-      "other_outlets": [
-        "Australian Financial Review",
-        "BBC News",
-        "Daily Kos",
-        "Greater Belize Media | GBM: Growing Together",
-        "KRDO",
-        "POLITICO"
+        "Caledonian Record",
+        "Canadian Architect",
+        "Digital Journal"
       ]
     },
     {
@@ -57,6 +38,23 @@
         "The Economic Times",
         "The Star",
         "The Straits Times"
+      ]
+    },
+    {
+      "title": "Silicon Valley takes its AI pitch to Pope Leo",
+      "url": "https://www.businessinsider.com/pope-leo-ai-opinion-silicon-valley-meta-amazon-google-openai-2026-5",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a13287551ede568c7e1831b?width=1200&format=jpeg",
+      "desc": "As Leo XIV prepares his first encyclical, tech firms and Western diplomats have worked to make their case for AI inside the Vatican.",
+      "date": "2026-05-25T04:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 5,
+      "other_outlets": [
+        "Daily Kos",
+        "Greater Belize Media | GBM: Growing Together",
+        "POLITICO",
+        "thecatholicherald.com"
       ]
     },
     {
@@ -166,6 +164,18 @@
       "image": "https://i.insider.com/6a149869b1025a62a5c87064?width=1200&format=jpeg",
       "desc": "Pope Leo XIV shared his first encyclical on Monday. The writings about AI sparked responses from tech leaders, politicians, and other big names.",
       "date": "2026-05-25T19:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Pope Leo called AI an 'instrument of domination, exclusion and death.' Anthropic was in the room | Fortune",
+      "url": "https://fortune.com/2026/05/25/pope-leo-xiv-ai-domination-death-anthropic-olah-encyclical/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26145360853645-e1779728007172.jpg?resize=1200,600",
+      "desc": "Leo’s first encyclical, “Magnifica Humanitas,\" was very consciously signed on the 135th anniversary of \"Rerum Novarum,\" on the first Industrial Revolution.",
+      "date": "2026-05-25T18:16:00+00:00",
       "tier": "whitelist",
       "cluster_size": 1,
       "other_outlets": []
@@ -795,18 +805,6 @@
       "other_outlets": []
     },
     {
-      "title": "Silicon Valley takes its AI pitch to Pope Leo",
-      "url": "https://www.businessinsider.com/pope-leo-ai-opinion-silicon-valley-meta-amazon-google-openai-2026-5",
-      "domain": "businessinsider.com",
-      "outlet": "Business Insider",
-      "image": "https://i.insider.com/6a13287551ede568c7e1831b?width=1200&format=jpeg",
-      "desc": "As Leo XIV prepares his first encyclical, tech firms and Western diplomats have worked to make their case for AI inside the Vatican.",
-      "date": "2026-05-25T04:31:00+00:00",
-      "tier": "whitelist",
-      "cluster_size": 1,
-      "other_outlets": []
-    },
-    {
       "title": "Five Ways AI Is Transforming The Airline Industry",
       "url": "https://www.forbes.com/sites/willmcgough/2026/05/24/for-better-or-worse-five-ways-ai-is-transforming-the-airline-industry/",
       "domain": "forbes.com",
@@ -1003,7 +1001,7 @@
       "desc": "(CNN) — Pope Leo XIV says control of artificial intelligence must not remain in the hands “of a few” while warning that technology is fueling world conflicts, setting out his",
       "date": "2026-05-25T21:31:00+00:00",
       "tier": "longtail",
-      "cluster_size": 22,
+      "cluster_size": 23,
       "other_outlets": [
         "ABC17NEWS",
         "CNN",
@@ -1015,9 +1013,9 @@
     },
     {
       "title": "Pope Leo to weigh in on the perils and promises of artificial intelligence",
-      "url": "https://www.ksmu.org/2026-05-25/pope-leo-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence",
-      "domain": "ksmu.org",
-      "outlet": "KSMU Radio",
+      "url": "https://www.kvnf.org/2026-05-25/pope-leo-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence",
+      "domain": "kvnf.org",
+      "outlet": "KVNF Community Radio",
       "image": "",
       "desc": "Pope Leo XIV is scheduled to release a major papal document on the perils and promises of Artificial Intelligence. The co-founder of Anthropic will be in Rome for the document's release.",
       "date": "2026-05-25T09:32:58+00:00",
@@ -1027,7 +1025,7 @@
         "Delaware Public Media",
         "KASU",
         "KRCU Public Radio",
-        "KVNF Community Radio",
+        "KSMU Radio",
         "NSPR",
         "Public Radio East"
       ]
@@ -1068,6 +1066,25 @@
         "Dallas Sun",
         "Memphis Sun",
         "Nashville Herald"
+      ]
+    },
+    {
+      "title": "Pope to release major artificial intelligence manifesto",
+      "url": "https://www.manilatimes.net/2026/05/26/world/americas-emea/pope-to-release-major-artificial-intelligence-manifesto/2351009",
+      "domain": "manilatimes.net",
+      "outlet": "The Manila Times",
+      "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/25/1070823.jpg",
+      "desc": "VATICAN CITY - Pope Leo XIV will release on Monday his long-awaited manifesto on artificial intelligence (AI), a bid to address ethical and social challenges as the technology rapidly develops worldwide.",
+      "date": "2026-05-25T16:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 10,
+      "other_outlets": [
+        "Borneo Post Online",
+        "Channels Television",
+        "Daily Post Nigeria",
+        "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+        "Opinion Nigeria",
+        "Punch Newspapers"
       ]
     },
     {
@@ -1165,6 +1182,42 @@
       ]
     },
     {
+      "title": "Головне за понеділок: доступ до інформації про майно та активи українців та україснький аналог ChatGPT",
+      "url": "https://minfin.com.ua/ua/2026/05/25/174548922/",
+      "domain": "minfin.com.ua",
+      "outlet": "minfin.com.ua",
+      "image": "https://minfin.com.ua/i/mf-avatar.png",
+      "desc": "Гетманцев назвав, яку мінімальну пенсію може дозволити бюджет в умовах війниГолова податкового комітету Верховної Ради Данило Гетманцев заявив, що пропонував закласти у бюджет підвищення мінімальної пенсії до 4700 грн.",
+      "date": "2026-05-25T18:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Campaign Asia",
+        "How-To Geek",
+        "MakeUseOf",
+        "mint",
+        "newsnow.co.uk"
+      ]
+    },
+    {
+      "title": "SEE AI Summit 2026",
+      "url": "https://www.cei.int/events/see-ai-summit-2026",
+      "domain": "cei.int",
+      "outlet": "CEI - Central European Initiative",
+      "image": "",
+      "desc": "The SEE AI Summit 2026, will bring together experts, policymakers and stakeholders from South-East Europe to discuss artificial intelligence developments and their implications for the region.",
+      "date": "2026-05-25T13:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "Big News Network.com",
+        "BusinessLine",
+        "Calcutta News",
+        "International Business Times",
+        "NewKerala.com"
+      ]
+    },
+    {
       "title": "AI chip demand drives 6 percent growth for Singapore in first quarter - Latest News",
       "url": "https://www.hurriyetdailynews.com/ai-chip-demand-drives-6-percent-growth-for-singapore-in-first-quarter-222514",
       "domain": "hurriyetdailynews.com",
@@ -1251,6 +1304,22 @@
       ]
     },
     {
+      "title": "Huawei introduces new full-stack AI Data Center infrastructure to accelerate enterprise adoption",
+      "url": "http://www.bignewsnetwork.com/news/279074075/huawei-introduces-new-full-stack-ai-data-center-infrastructure-to-accelerate-enterprise-adoption",
+      "domain": "bignewsnetwork.com",
+      "outlet": "Big News Network.com",
+      "image": "https://image.chitra.live/api/v1/wps/44aab46/f6888f80-04b2-40fc-8a67-44148d8e50d7/0/ANI-20260525084928-600x315.jpg",
+      "desc": "Huawei unveiled a full-stack data infrastructure solution for artificial intelligence data centers (AI DCs) to accelerate construction and large-scale AI adoption for enterprises. Yuan Yuan, Vice President of Huawei and President of the Huawei Data Storage Product Line, announced the framework during a keynote speech at the Huawei Innovative Data Infrastructure (IDI) Forum 2026 held on May 21. According to the company, AI agents are transforming enterprise operations and evolving into digital em...",
+      "date": "2026-05-25T14:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "China National News",
+        "IT-Online",
+        "mondaq.com"
+      ]
+    },
+    {
       "title": "Microsoft cuts Claude Code access as AI coding costs surge",
       "url": "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-cuts-claude-code-access-as-ai-coding-costs-surge/131302829",
       "domain": "telecom.economictimes.indiatimes.com",
@@ -1316,6 +1385,22 @@
       ]
     },
     {
+      "title": "'Magnifica Humanitas': Pope Leo's AI encyclical warns of temptation to build future excluding God",
+      "url": "https://www.thebostonpilot.com/article.php?ID=202632",
+      "domain": "thebostonpilot.com",
+      "outlet": "thebostonpilot.com",
+      "image": "https://www.thebostonpilot.com/news/20260525/images/700x450_CNS_34843.jpg",
+      "desc": "VATICAN CITY (OSV News) -- Pope Leo XIV published his landmark encyclical on artificial intelligence",
+      "date": "2026-05-25T17:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Catholic Standard",
+        "St. Louis Review",
+        "catholicregister.org"
+      ]
+    },
+    {
       "title": "ModuLInk Provides Commercial Pipeline Update for LUNA AI System in Hong Kong",
       "url": "http://www.hawaiitelegraph.com/news/279074423/modulink-provides-commercial-pipeline-update-for-luna-ai-system-in-hong-kong",
       "domain": "hawaiitelegraph.com",
@@ -1329,38 +1414,6 @@
         "California Telegraph",
         "New Jersey Telegraph",
         "Tennessee Daily"
-      ]
-    },
-    {
-      "title": "Pope to release major artificial intelligence manifesto",
-      "url": "https://www.manilatimes.net/2026/05/26/world/americas-emea/pope-to-release-major-artificial-intelligence-manifesto/2351009",
-      "domain": "manilatimes.net",
-      "outlet": "The Manila Times",
-      "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/25/1070823.jpg",
-      "desc": "VATICAN CITY - Pope Leo XIV will release on Monday his long-awaited manifesto on artificial intelligence (AI), a bid to address ethical and social challenges as the technology rapidly develops worldwide.",
-      "date": "2026-05-25T16:01:00+00:00",
-      "tier": "longtail",
-      "cluster_size": 4,
-      "other_outlets": [
-        "Opinion Nigeria",
-        "The Economic Times",
-        "The Straits Times"
-      ]
-    },
-    {
-      "title": "SEE AI Summit 2026",
-      "url": "https://www.cei.int/events/see-ai-summit-2026",
-      "domain": "cei.int",
-      "outlet": "CEI - Central European Initiative",
-      "image": "",
-      "desc": "The SEE AI Summit 2026, will bring together experts, policymakers and stakeholders from South-East Europe to discuss artificial intelligence developments and their implications for the region.",
-      "date": "2026-05-25T13:32:00+00:00",
-      "tier": "longtail",
-      "cluster_size": 4,
-      "other_outlets": [
-        "Big News Network.com",
-        "Calcutta News",
-        "NewKerala.com"
       ]
     },
     {
@@ -1380,18 +1433,19 @@
       ]
     },
     {
-      "title": "Lashon Hara Without a Listener? ChatGPT and the Personal Costs of Negative Speech",
-      "url": "https://jewishpress.com/lashon-hara-without-a-listener-chatgpt-and-the-personal-costs-of-negative-speech/",
-      "domain": "jewishpress.com",
-      "outlet": "The Jewish Press - JewishPress.com",
-      "image": "https://jewishpress.com/wp-content/uploads/2026/05/Feldman-052226.jpg",
-      "desc": "From a philosophical perspective, many Jewish thinkers have focused on the unique role of speech as a defining element of humanity. Speech, at least in its fully realized form, distinguishes Man from",
-      "date": "2026-05-25T21:32:02+00:00",
+      "title": "Pope demands regulation of artificial intelligence in sweeping manifesto on future of humanity",
+      "url": "https://www.record-eagle.com/ap/international/pope-demands-regulation-of-artificial-intelligence-in-sweeping-manifesto-on-future-of-humanity/article_95d63732-07ef-5d7a-af51-8515c082a018.html",
+      "domain": "record-eagle.com",
+      "outlet": "Traverse City Record-Eagle",
+      "image": "https://bloximages.chicago2.vip.townnews.com/record-eagle.com/content/tncms/custom/image/1edfec9c-04b0-11ea-80eb-27e1f67b4a63.jpg?resize=600%2C315",
+      "desc": "Pope demands regulation of artificial intelligence in sweeping manifesto on future of humanity.",
+      "date": "2026-05-25T11:01:00+00:00",
       "tier": "longtail",
-      "cluster_size": 3,
+      "cluster_size": 4,
       "other_outlets": [
-        "MakeUseOf",
-        "minfin.com.ua"
+        "Fox21Online",
+        "Harrison Daily",
+        "Leader-Telegram"
       ]
     },
     {
@@ -1467,35 +1521,6 @@
       "other_outlets": [
         "The Hindu",
         "Tuoi tre news"
-      ]
-    },
-    {
-      "title": "‘Magnifica Humanitas’: Pope Leo’s AI encyclical warns of temptation to build future excluding God",
-      "url": "https://www.stlouisreview.com/story/magnifica-humanitas-pope-leos-ai-encyclical-warns-of-temptation-to-build-future-excluding-god/",
-      "domain": "stlouisreview.com",
-      "outlet": "St. Louis Review",
-      "image": "https://www.stlouisreview.com/wp-content/uploads/2026/05/20260525T0845-MAGNIFICA-HUMANITAS-PRESS-CONFERENCE-1820317.jpg",
-      "desc": "Pope Leo XIV published his encyclical on artificial intelligence “Magnifica Humanitas” May 25, comparing misuse of AI to the Tower of Babbel",
-      "date": "2026-05-25T14:01:17+00:00",
-      "tier": "longtail",
-      "cluster_size": 3,
-      "other_outlets": [
-        "Catholic Standard",
-        "catholicregister.org"
-      ]
-    },
-    {
-      "title": "Huawei introduces new full-stack AI Data Center infrastructure to accelerate enterprise adoption",
-      "url": "http://www.bignewsnetwork.com/news/279074075/huawei-introduces-new-full-stack-ai-data-center-infrastructure-to-accelerate-enterprise-adoption",
-      "domain": "bignewsnetwork.com",
-      "outlet": "Big News Network.com",
-      "image": "https://image.chitra.live/api/v1/wps/44aab46/f6888f80-04b2-40fc-8a67-44148d8e50d7/0/ANI-20260525084928-600x315.jpg",
-      "desc": "Huawei unveiled a full-stack data infrastructure solution for artificial intelligence data centers (AI DCs) to accelerate construction and large-scale AI adoption for enterprises. Yuan Yuan, Vice President of Huawei and President of the Huawei Data Storage Product Line, announced the framework during a keynote speech at the Huawei Innovative Data Infrastructure (IDI) Forum 2026 held on May 21. According to the company, AI agents are transforming enterprise operations and evolving into digital em...",
-      "date": "2026-05-25T14:01:00+00:00",
-      "tier": "longtail",
-      "cluster_size": 3,
-      "other_outlets": [
-        "China National News"
       ]
     },
     {
@@ -1677,20 +1702,6 @@
       "cluster_size": 2,
       "other_outlets": [
         "The Times of India"
-      ]
-    },
-    {
-      "title": "What Nvidia and Broadcom's CPO bets reveal about the future of AI infrastructure",
-      "url": "https://www.digitimes.com/reports/item.php?id=20260427RS400",
-      "domain": "digitimes.com",
-      "outlet": "DIGITIMES",
-      "image": "https://img.digitimes.com/newsshow/2026042700400_files/_2b",
-      "desc": "The CPO market is projected to grow at a 142% CAGR from 2026 to 2030 (excl. ELS). As AI clusters scale and 3.2T data rates push copper to its limits, CPO is emerging as a key solution.",
-      "date": "2026-05-25T17:02:00+00:00",
-      "tier": "longtail",
-      "cluster_size": 2,
-      "other_outlets": [
-        "mondaq.com"
       ]
     }
   ]
