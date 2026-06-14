@@ -1,0 +1,997 @@
+{
+  "date": "2026-06-13",
+  "intro": "The U.S. government issued an export control directive ordering Anthropic to disable its newly launched Fable 5 and Mythos 5 models, citing national security concerns and citing a disputed jailbreak vulnerability—with Amazon's security research reportedly influencing the decision. State attorneys general are investigating OpenAI regarding its ad policies and health data handling practices. Separately, AI developers are increasingly using AI systems to train future models, raising new questions among mental health experts about reliability and oversight.",
+  "whitelist": [
+    {
+      "title": "AI - Business Insider",
+      "url": "https://www.businessinsider.com/artificial-intelligence",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
+      "desc": "Explore cutting-edge AI insights and trends with Business Insider's dedicated artificial intelligence coverage. Stay ahead with in-depth articles, expert analyses, and the latest news on AI technologies shaping industries worldwide.",
+      "date": "2026-06-13T15:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 512,
+      "other_outlets": [
+        " Ammon News",
+        "104.5 WOKV",
+        "24/7 Wall St.",
+        "2paragraphs.com",
+        "93.3 The Drive",
+        "93.9 WKYS"
+      ]
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "desc": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "date": "2026-06-13T16:47:18+00:00",
+      "tier": "whitelist",
+      "cluster_size": 7,
+      "other_outlets": [
+        "93.3 The Drive",
+        "BusinessLine",
+        "Engadget",
+        "Free Malaysia Today | FMT",
+        "The Economic Times",
+        "The Star"
+      ]
+    },
+    {
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "The US government issued an export control directive citing national security concerns requiring Anthropic to block access to Fable 5 and Mythos 5 for foreign nationals.",
+      "date": "2026-06-13T12:55:49+00:00",
+      "tier": "whitelist",
+      "cluster_size": 3,
+      "other_outlets": [
+        "PCMAG",
+        "Tom's Guide"
+      ]
+    },
+    {
+      "title": "US orders Anthropic to shut down Fable 5 and Mythos 5",
+      "url": "https://thenextweb.com/news/anthropic-fable-mythos-us-government-suspension",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Anthropic",
+      "image": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif",
+      "desc": "Washington forced Anthropic to disable its most powerful AI models over a disputed jailbreak, just three days after launch. Anthropic says the action is disproportionate.",
+      "date": "2026-06-13T06:57:05+00:00",
+      "tier": "whitelist",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Free Press Journal",
+        "explosion.com"
+      ]
+    },
+    {
+      "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
+      "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267419-1771518692466-gettyimages-2261864825-INDIA_AI_SUMMIT.jpeg?v=1776348710&w=1920&h=1080",
+      "desc": "Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.",
+      "date": "2026-06-13T01:09:04+00:00",
+      "tier": "whitelist",
+      "cluster_size": 3,
+      "other_outlets": [
+        "News.az",
+        "cnbcafrica.com"
+      ]
+    },
+    {
+      "title": "The AI boom is quietly making the office popular again",
+      "url": "https://www.businessinsider.com/post-pandemic-ai-startups-rto-mandate-workplace-culture-2026-6",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a287481a74097c5739886d0?width=1200&format=jpeg",
+      "desc": "AI startup founders and workplace experts say that the AI industry has a distinct workplace culture that operates on in-person work and mutual trust.",
+      "date": "2026-06-13T21:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "Amazon CEO Andy Jassy spoke with officials about security concerns regarding Anthropic’s Fable 5 shortly before the export control directive.",
+      "date": "2026-06-13T21:39:26+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic Pulls Fable, Mythos After Government Issues Emergency Export Control Order",
+      "url": "https://www.forbes.com/sites/joetoscano1/2026/06/13/anthropic-pulls-fable-mythos-after-government-issues-emergency-export-control-order/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2db46b493d5facad22e5d4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "The U.S. government ordered Anthropic to pull Fable 5 and Mythos 5 over national security concerns just days after its CEO called for exactly this kind of oversight.",
+      "date": "2026-06-13T20:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "As AI Begins Building AI, Mental Health Experts Face New Questions",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/06/13/ai-building-ai-mental-health-chatbots/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a277522365fc518c372cba0/0x0.jpg?format=jpg&crop=2098,1571,x45,y0,safe&height=900&width=1600&fit=bounds",
+      "desc": "AI makers are increasingly relying on AI to improve future models. The approach could transform mental health chatbots—but experts warn the risks remain unclear.",
+      "date": "2026-06-13T20:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276519058.jpg?w=1024",
+      "desc": "Once again, AI proves to be an unreliable source of information about AI.",
+      "date": "2026-06-13T20:42:31+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1348139958.jpg?resize=1200,767",
+      "desc": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "date": "2026-06-13T19:11:41+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "'It's not a jailbreak' — Research leading to U.S. export restrictions on top Anthropic models was for defense, cybersecurity CEO says | Fortune",
+      "url": "https://fortune.com/2026/06/13/anthropic-fable-mythos-models-commerce-deparment-export-restrictions-jailbreak-defense-prompting/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2261864825-e1781368061354.jpg?resize=1200,600",
+      "desc": "\"It was Defense Oriented Prompting (DOP), capabilities defenders need.\"",
+      "date": "2026-06-13T18:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei warned Mythos posed a national security threat. Washington just responded.",
+      "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a2d7aec9ab49a561171f5a1?width=1200&format=jpeg",
+      "desc": "Anthropic's Dario Amodei warned his AI model, Mythos, was so powerful it posed serious threats. Then the government stepped in and Anthropic shut it down.",
+      "date": "2026-06-13T18:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "SpaceX Just Made The AI Infrastructure War Public",
+      "url": "https://www.forbes.com/sites/robertszczerba/2026/06/13/spacex-just-made-the-ai-infrastructure-war-public/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2d55a3f34ad010e53648bb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "SpaceX’s IPO wasn’t just about rockets. It was a bet on who controls the physical infrastructure the next AI economy will run on.",
+      "date": "2026-06-13T16:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "US Government Suspends Access To Claude Fable 5 And Mythos 5 (What It Means For Your Business)",
+      "url": "https://www.forbes.com/sites/jodiecook/2026/06/13/us-government-suspends-access-to-claude-fable-5-and-mythos-5-what-it-means-for-your-business/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2d6d755954d8d235daeb69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "The US government just forced Anthropic to suspend Claude Fable 5 and Mythos 5 overnight. Here is what every business owner building on AI needs to do.",
+      "date": "2026-06-13T16:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Flag Day And The Coming Battle Over AI Orthodoxy",
+      "url": "https://www.forbes.com/sites/josephandrew/2026/06/13/flag-day-and-the-coming-battle-over-ai-orthodoxy/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a29a8627645bc3a19fa7f26/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "The flag is a symbol of the Rule of Law that may be challenged by AI.",
+      "date": "2026-06-13T16:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "The Moral Of Anthropic’s Fable: Model Access Is Power",
+      "url": "https://www.forbes.com/sites/ronschmelzer/2026/06/13/the-moral-of-anthropics-fable-model-access-is-power/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2d736842ec0d3bca1da559/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Coming just three days after its launch, the sudden block of Anthropic's Fable model has become a larger fight over who decides when an AI system is too powerful for open access.",
+      "date": "2026-06-13T16:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "My first 24 hours with Siri AI on the Mac",
+      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/061326_Siri_AI_MacBook_Pro_macOS_27_Golden_Gate_beta_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "We tested Apple’s new Siri AI assistant on the Mac, currently in an early preview on macOS 27 Golden Gate developer beta.",
+      "date": "2026-06-13T15:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03778_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "desc": "Apple will offer new generative AI photo editing tools in iOS 27: Spatial Reframing, Extend, and a much-improved Clean Up.",
+      "date": "2026-06-13T12:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Users say they're in an 'absolutely nightmare scenario' after Anthropic pulls Fable 5 and Mythos 5 access over US government security concerns",
+      "url": "https://www.techradar.com/ai-platforms-assistants/claude/after-a-potential-jailbreak-anthropic-is-shutting-off-access-to-its-mythos-5-and-fable-5-models-under-national-security-orders-from-the-us-government",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/BnRBWco2bXVJajjdUuW7CY-2560-80.jpg",
+      "desc": "Back to the old models",
+      "date": "2026-06-13T08:27:18+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "42 state AGs probe OpenAI days after IPO filing",
+      "url": "https://thenextweb.com/news/openai-state-attorneys-general-investigation-ipo",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Government-Policy",
+      "image": "https://media.thenextweb.com/2026/04/Sam-altman-open-ai.avif",
+      "desc": "A coalition of 42 state attorneys general is investigating OpenAI over user safety, data practices, and child protection, days after the company filed confidentially for its IPO.",
+      "date": "2026-06-13T07:40:56+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI Buys Ona To Run Codex Agents Inside Enterprise Clouds",
+      "url": "https://www.forbes.com/sites/janakirammsv/2026/06/13/openai-buys-ona-to-run-codex-agents-inside-enterprise-clouds/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2ce1d2a7a717c2ca138eff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "OpenAI is acquiring Ona, formerly Gitpod, to run Codex agents inside a customer's own cloud. The coding-agent race is shifting from model quality to the execution layer.",
+      "date": "2026-06-13T07:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic blocks all customers' access to Fable 5 and Mythos 5 - Engadget",
+      "url": "https://www.engadget.com/2193656/anthropic-blocks-access-fable-5-mythos-5/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/anthropic-blocks-access-fable-5-mythos-5/l-intro-1781326125.jpg",
+      "desc": "Anthropic has suspended all access to its new AI models Fable 5 and Mythos 5 to comply with a government order citing national security concerns.",
+      "date": "2026-06-13T04:21:39+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic to disable Fable 5, Mythos 5 after US export-control order",
+      "url": "https://www.businessinsider.com/anthropic-disable-mythos-fable-us-export-control-national-security-2026-6",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a2cba73a462940611898c8e?width=1200&format=jpeg",
+      "desc": "Anthropic's latest AI models, Fable 5 and Mythos 5, will be disabled due to US export controls that cited national security risks.",
+      "date": "2026-06-13T03:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+      "domain": "arstechnica.com",
+      "outlet": "Ars Technica",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/fable5-1152x648.webp",
+      "desc": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
+      "date": "2026-06-13T03:00:34+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6a2cb2e540437fd74449a752/191:100/w_1280,c_limit/Anthropic-Says-US-Gov-Ordered-it-to-Shut-Down-Mythos-Models-Business-2280583841.jpg",
+      "desc": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+      "date": "2026-06-13T02:26:10+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI says it's engaging 'constructively' with state AGs about concerns",
+      "url": "https://www.cnbc.com/2026/06/12/openai-says-its-engaging-constructively-with-state-ags-.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316424-1780524391679-gettyimages-2278944263-AFP_B4XB76Z.jpeg?v=1780524485&w=1920&h=1080",
+      "desc": "The Wall Street Journal reported that a coalition of state attorneys general have opened an investigation into OpenAI.",
+      "date": "2026-06-13T00:27:38+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon",
+      "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6a29a9c94fc22a32725fb4b6/191:100/w_1280,c_limit/Meta-Employee-Interrupts-AI-Business-AP-26085781053500.jpg",
+      "desc": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
+      "date": "2026-06-12T23:45:26+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Look Beyond AI As ‘Prompt And Pray’ To Its More Transformative Effects",
+      "url": "https://www.forbes.com/sites/joemckendrick/2026/06/12/look-beyond-ai-as-prompt-and-pray-to-its-more-transformative-effects/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/68acd4f1a192edd4e6c5595e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "all the AI tokens in the world won’t turn a workforce into a forward-looking force in the market.",
+      "date": "2026-06-12T23:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple Loop: iPhone 18 Pro Cost, iPhone Ultra Specs, Siri AI Fights EU",
+      "url": "https://www.forbes.com/sites/ewanspence/2026/06/12/apple-news-headlines-iphone-18-pro-price-macbook-neo-update-siri-ai/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2c4107d5ad4f08255964ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "This week’s Apple headlines: iPhone 18 Pro cost, iPhone Ultra specs, MacBook Neo’s annual updates, iOS 27’s big ask, Siri AI's approach, Europe denied Siri AI and more...",
+      "date": "2026-06-12T23:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Meta's months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
+      "desc": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "date": "2026-06-12T23:00:54+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Is Coming for Jobs. The Question Is Whether Governments Are Paying Attention.",
+      "url": "https://www.digitaltrends.com/business/ai-is-coming-for-jobs-the-question-is-whether-governments-are-paying-attention/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2026/06/DT-Trending-Forward-Marco-Riedesser-On-Site.jpg?resize=1200%2C630",
+      "desc": "Entrepreneur Marco Riedesser has spent his career building automation systems, which is precisely why his views on AI and jobs stand out. In a conversation that moves from coding and robotics to universal income and purpose, he argues that the real challenge may not be AI itself, but whether society is prepared for how work could change.",
+      "date": "2026-06-12T22:36:11+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+      "domain": "arstechnica.com",
+      "outlet": "Ars Technica",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-1024x648.jpg",
+      "desc": "As of today, SpaceX is owned by investors who will want to see it make money.",
+      "date": "2026-06-12T22:20:06+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "Visa enables ChatGPT to shop and pay on users' behalf",
+      "url": "http://www.sanantoniopost.com/news/279117428/visa-enables-chatgpt-to-shop-and-pay-on-users-behalf",
+      "domain": "sanantoniopost.com",
+      "outlet": "San Antonio Post",
+      "image": "https://image.chitra.live/api/v1/wps/a320a46/64b159cb-39ff-4b35-8df7-76c8c0cdb545/1/Jack-Fostell-600x315.jpg",
+      "desc": "Visa is taking a major step toward AI-powered commerce by integrating its payment network with ChatGPT, allowing artificial intelligence agents to not only recommend products but also complete purchases on behalf of users",
+      "date": "2026-06-13T07:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 80,
+      "other_outlets": [
+        "Afghanistan Sun",
+        "Africa Leader",
+        "Albuquerque Express",
+        "Arab Herald",
+        "Argentina Star",
+        "Asia Bulletin"
+      ]
+    },
+    {
+      "title": "Anthropic explores data center leases, report says",
+      "url": "http://www.ohiostandard.com/news/279117445/anthropic-explores-data-center-leases-report-says",
+      "domain": "ohiostandard.com",
+      "outlet": "Ohio Standard",
+      "image": "https://image.chitra.live/api/v1/wps/af1bb97/50d2e6e1-669d-4015-8830-2815446c0ca6/2/Claude-AI-600x315.png",
+      "desc": "Artificial intelligence startup Anthropic is pursuing plans to lease and operate its own data centers and has discussed obtaining financial support from Google to help secure those agreements",
+      "date": "2026-06-13T21:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 65,
+      "other_outlets": [
+        "Afghanistan Sun",
+        "Africa Leader",
+        "Albuquerque Express",
+        "Argentina Star",
+        "Asia Bulletin",
+        "Austin Globe"
+      ]
+    },
+    {
+      "title": "Reuters/Ipsos poll finds growing anxiety over AI adoption",
+      "url": "http://www.sandiegosun.com/news/279114601/reuters-ipsos-poll-finds-growing-anxiety-over-ai-adoption",
+      "domain": "sandiegosun.com",
+      "outlet": "San Diego Sun",
+      "image": "https://image.chitra.live/api/v1/wps/506066f/82e78b33-88db-4728-9f63-0b499613bd5b/1/Workplace-600x315.jpg",
+      "desc": "Concerns about artificial intelligence are rising across the United States, with a new Reuters/Ipsos poll showing that half of Americans fear the technology could eventually cost them or someone in their household a job",
+      "date": "2026-06-12T23:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 27,
+      "other_outlets": [
+        "Africa Leader",
+        "Argentina Star",
+        "Atlanta Leader",
+        "Baltimore Star",
+        "Baton Rouge Post",
+        "Birmingham Star"
+      ]
+    },
+    {
+      "title": "German court holds Google responsible for AI search errors",
+      "url": "http://www.britainnews.net/news/279120856/german-court-holds-google-responsible-for-ai-search-errors",
+      "domain": "britainnews.net",
+      "outlet": "Britain News",
+      "image": "https://image.chitra.live/api/v1/wps/5d2f163/009bac19-62f0-4c4e-ae91-86ff2530fbcc/0/ZmQzNmQ0MjYtMTA-600x315.jpg",
+      "desc": "A German court has ruled that Google can be held liable for false claims generated by its AI Overview feature Read Full Article at RT.com",
+      "date": "2026-06-13T19:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 26,
+      "other_outlets": [
+        "Afghanistan Sun",
+        "Africa Leader",
+        "Argentina Star",
+        "Austin Globe",
+        "Brazil Sun",
+        "Brunei News"
+      ]
+    },
+    {
+      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
+      "url": "https://www.mankatofreepress.com/news/business/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms/article_63c50a51-cc9a-5c8f-b06c-a54b585ccc35.html",
+      "domain": "mankatofreepress.com",
+      "outlet": "Mankato Free Press",
+      "image": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/6/a6/6a656d5b-01cb-5189-a288-a4e9213b2fc4/6a1dc64c32f95.image.jpg?crop=1662%2C873%2C0%2C117&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "OpenAI received a subpoena from several states as part of a probe into the safety of customers using its chatbot as it prepares to offer stock to the public for",
+      "date": "2026-06-13T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 14,
+      "other_outlets": [
+        "Bozeman Daily Chronicle",
+        "Durango Herald",
+        "Hartford Courant",
+        "KSAT",
+        "The Seattle Times",
+        "WDIV"
+      ]
+    },
+    {
+      "title": "Anthropic eyes data center expansion with Google backing",
+      "url": "http://www.thailandnews.net/news/279117445/anthropic-eyes-data-center-expansion-with-google-backing",
+      "domain": "thailandnews.net",
+      "outlet": "Thailand News",
+      "image": "https://image.chitra.live/api/v1/wps/af1bb97/50d2e6e1-669d-4015-8830-2815446c0ca6/2/Claude-AI-600x315.png",
+      "desc": "Artificial intelligence startup Anthropic is pursuing plans to lease and operate its own data centers and has discussed obtaining financial support from Google to help secure those agreements",
+      "date": "2026-06-13T21:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 8,
+      "other_outlets": [
+        "Afghanistan News",
+        "Azerbaijan News",
+        "Britain News",
+        "Brunei News",
+        "Calcutta News",
+        "Laos News"
+      ]
+    },
+    {
+      "title": "Anthropic says it has taken its latest AI models offline to comply with U.S. directive",
+      "url": "https://www.cinaradio.com/2026/06/13/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-u-s-directive/",
+      "domain": "cinaradio.com",
+      "outlet": "1650 AM (Bollywood Hits)",
+      "image": "https://i.cbc.ca/ais/ed42e049-10cd-4b65-9b14-aa285e256765,1781358601116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C68%2C4961%2C2790%29%3BResize%3D%28620%29",
+      "desc": "AI giant Anthropic said on Friday it has taken its latest artificial intelligence models, known as Fable 5 and Mythos 5, offline to comply with a directive from the Trump administration to prevent their use by foreign nationals.",
+      "date": "2026-06-13T20:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Boston Herald",
+        "CBC",
+        "The Independent",
+        "The Seattle Times",
+        "WHEC.com",
+        "wttf.com"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence - Latest News, Updates & Facts - Daily Star",
+      "url": "https://www.dailystar.co.uk/latest/artificial-intelligence",
+      "domain": "dailystar.co.uk",
+      "outlet": "Daily Star",
+      "image": "https://i2-prod.dailystar.co.uk/incoming/article18859440.ece/ALTERNATES/s1200/1274543",
+      "desc": "Artificial Intelligence news, updates and facts. Up-to-date information about AI.",
+      "date": "2026-06-13T21:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "NBC Connecticut",
+        "NBC10 Philadelphia",
+        "NBC4 Washington",
+        "Techdirt",
+        "hellenicshippingnews.com"
+      ]
+    },
+    {
+      "title": "Claude AI Archives - Erkan's Field Diary",
+      "url": "https://erkansaka.net/tag/claude-ai/",
+      "domain": "erkansaka.net",
+      "outlet": "Erkan's Field Diary",
+      "image": "",
+      "desc": "",
+      "date": "2026-06-13T17:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "9to5Mac",
+        "Matt Porter, The Gadget Man - Creative Technologist - AI & Tech News and Reviews"
+      ]
+    },
+    {
+      "title": "You can ignore AI giants like SpaceX, but your 401(k) won't",
+      "url": "https://isp.netscape.com:443/pf/story/0001/20260613/3c26c10b7ca0e838cceb7324f676ef2d",
+      "domain": "isp.netscape.com",
+      "outlet": "isp.netscape.com",
+      "image": "",
+      "desc": "",
+      "date": "2026-06-13T16:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "ABC News",
+        "Hartford Courant",
+        "KSAT",
+        "myMotherLode.com - The Mother Lode's Local News, Sports, Weather, Movies, Classifieds, Yellow Pages, Real Estate",
+        "seMissourian"
+      ]
+    },
+    {
+      "title": "Anthropic cuts access to AI models over US 'national security' order",
+      "url": "https://article.wn.com/view/2026/06/13/Anthropic_cuts_access_to_AI_models_over_US_national_security_g/",
+      "domain": "article.wn.com",
+      "outlet": "article.wn.com",
+      "image": "",
+      "desc": "Anthropic said Friday it has suspended access to two powerful AI models, Fable 5 and Mythos 5, to comply with a US national security order. Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns. 'The net effect of this",
+      "date": "2026-06-13T21:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "New Vision",
+        "The Daily Star",
+        "dw.com",
+        "thepeninsulaqatar.com"
+      ]
+    },
+    {
+      "title": "Anthropic suspends all access to Mythos model after US bans foreign nationals use",
+      "url": "https://www.cbc.bb/main-stories/anthropic-suspends-all-access-to-mythos-model-after-us-bans-foreign-nationals-use/",
+      "domain": "cbc.bb",
+      "outlet": "Caribbean Broadcasting Corporation",
+      "image": "https://www.cbc.bb/wp-content/uploads/2026/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXFjZHB0Y2kwMDAyM2I2cmI5dWNpMTY1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcWNkb3BjcjAwMnYyN3A0N25oMDV1N3U-scaled.jpg",
+      "desc": "(CNN) — AI company Anthropic has disabled customer access to its most capable systems after the US government ordered",
+      "date": "2026-06-13T19:31:23+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "CNN",
+        "KTEN"
+      ]
+    },
+    {
+      "title": "Amazon voiced concerns about Anthropic AI models before US governments crackdown, source says​ | Company Business News",
+      "url": "https://www.livemint.com/companies/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-source-says-11781386211372.html",
+      "domain": "livemint.com",
+      "outlet": "mint",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+      "desc": "USA-ANTHROPIC-AMAZON-COM:Amazon voiced concerns about Anthropic AI models before US government's crackdown, source says​",
+      "date": "2026-06-13T21:30:11+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "News.az",
+        "The Straits Times",
+        "Yahoo News"
+      ]
+    },
+    {
+      "title": "Anthropic Archives - Erkan's Field Diary",
+      "url": "https://erkansaka.net/tag/anthropic/",
+      "domain": "erkansaka.net",
+      "outlet": "Erkan's Field Diary",
+      "image": "",
+      "desc": "",
+      "date": "2026-06-13T17:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "9to5Mac",
+        "Matt Porter, The Gadget Man - Creative Technologist - AI & Tech News and Reviews"
+      ]
+    },
+    {
+      "title": "AI license plate readers have no place in Maine | Opinion",
+      "url": "https://www.sunjournal.com/2026/06/13/ai-license-plate-readers-have-no-place-in-maine-opinion/",
+      "domain": "sunjournal.com",
+      "outlet": "Lewiston Sun Journal",
+      "image": "https://www.sunjournal.com/wp-content/uploads/sites/11/2026/06/43587822_20260508_Camera6855.jpg?w=780",
+      "desc": "For municipalities and police departments to use this technology as a form of surveillance violates Mainers’ Fourth Amendment rights.",
+      "date": "2026-06-13T21:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Centralmaine.com",
+        "The Portland Press Herald"
+      ]
+    },
+    {
+      "title": "NFL's Darron Lee Indicted In Girlfriend's Murder After Reportedly Using ChatGPT",
+      "url": "https://kysdc.com/5727457/darron-lee-indicted-girlfriend-murder-reactions/",
+      "domain": "kysdc.com",
+      "outlet": "93.9 WKYS",
+      "image": "https://cassiuslife.com/wp-content/uploads/sites/47/2026/06/17813829260616.jpg?quality=80&strip=all&w=1024&crop=0,0,100,756px",
+      "desc": "Prosecutors say the former Jets linebacker sought advice from ChatGPT before calling police after his girlfriend was found dead in a Tennessee rental home.",
+      "date": "2026-06-13T20:48:31+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "97.9 The Beat",
+        "Hot 107.9 - Hot Spot ATL"
+      ]
+    },
+    {
+      "title": "Anthropic shuts down Mythos 5, Fable 5 due to government order",
+      "url": "https://www.americanbanker.com/news/anthropic-shuts-down-mythos-5-fable-5-due-to-government-order",
+      "domain": "americanbanker.com",
+      "outlet": "American Banker",
+      "image": "https://arizent.brightspotcdn.com/dims4/default/3e350e0/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F48%2F2d%2Fd4149f5e4cabbba16bb13a825189%2F456978867.jpg",
+      "desc": "The government said it was responding to a jailbreaking risk that Anthropic says is minimal.",
+      "date": "2026-06-13T20:17:54+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Search Engine Journal",
+        "coindesk.com"
+      ]
+    },
+    {
+      "title": "Gemini: Reset your intentions and let ideas take shape",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/gemini-reset-your-intentions-and-let-ideas-take-shape-20260527-p60197.html",
+      "domain": "smh.com.au",
+      "outlet": "The Sydney Morning Herald",
+      "image": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/09535b2a2dd2a48551d2e70b8d907391e10e87fe",
+      "desc": "Free weekly forecast in life, love and career from renowned astrologer, Hedy Damari.",
+      "date": "2026-06-13T19:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Brisbane Times",
+        "The Age"
+      ]
+    },
+    {
+      "title": "OpenAI investigated by 42 US State attorneys general over safety and data privacy",
+      "url": "http://today.az/news/regions/268378.html",
+      "domain": "today.az",
+      "outlet": "today.az",
+      "image": "http://www.today.az/pictures/pic268378.jpg",
+      "desc": "",
+      "date": "2026-06-13T17:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Azernews.Az",
+        "Political Wire"
+      ]
+    },
+    {
+      "title": "Anthropic Slams US' Suspension of Fable 5, Mythos 5 as 'Misunderstanding'",
+      "url": "https://www.rediff.com/business/report/anthropic-disputes-us-governments-misunderstanding-behind-ai-model-suspension/20260613.htm",
+      "domain": "rediff.com",
+      "outlet": "Rediff",
+      "image": "https://im.rediff.com/1200-630/money/2026/jun/13june-anthropic.jpg",
+      "desc": "Anthropic has labelled the US government's directive to suspend its Fable 5 and Mythos 5 AI models as a \"misunderstanding\" and is actively working to restore access, warning that the current standard for narrow jailbreak findings could \"essentially halt all new model deployments for all frontier model providers.\"",
+      "date": "2026-06-13T12:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "NewKerala.com",
+        "news.webindia123.com"
+      ]
+    },
+    {
+      "title": "New Brunswick woman sues OpenAI, alleging ChatGPT led to daughter’s death",
+      "url": "https://www.thepeterboroughexaminer.com/news/canada/new-brunswick-woman-sues-openai-alleging-chatgpt-led-to-daughters-death/article_aa5d958b-f173-5780-af67-f86d051a5024.html",
+      "domain": "thepeterboroughexaminer.com",
+      "outlet": "The Peterborough Examiner",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thepeterboroughexaminer.com/content/tncms/assets/v3/editorial/2/32/232028d1-28af-589f-b267-8a835e852ff0/6a2c4f1a21553.image.jpg?crop=1050%2C551%2C0%2C424",
+      "desc": "FREDERICTON - When 24-year-old Alice Carrier told ChatGPT that she had to die to stop the pain she was feeling, the chatbot allegedly appeared to agree.",
+      "date": "2026-06-13T00:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "CHEK",
+        "The Chronicle-Journal"
+      ]
+    },
+    {
+      "title": "Anthropic shuts down latest AI models after sweeping US order",
+      "url": "https://www.afr.com/world/north-america/anthropic-shuts-down-latest-ai-models-after-sweeping-us-order-20260614-p606ko",
+      "domain": "afr.com",
+      "outlet": "Australian Financial Review",
+      "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_40/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e8bb7871da04aa345d2e659a372b9169f8243fbe",
+      "desc": "The Trump administration has issued an unprecedented directive for the company to limit access to foreign nationals on national security grounds.",
+      "date": "2026-06-13T21:28:15+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Chicago Tribune"
+      ]
+    },
+    {
+      "title": "AI Decoded",
+      "url": "https://www.tvguide.co.uk/schedule/53330512-3a6d-5f45-b40c-3f3be2352cb6/ai-decoded",
+      "domain": "tvguide.co.uk",
+      "outlet": "TV Guide",
+      "image": "https://tv.assets.pressassociation.io/d31cfe01-22b1-536c-8cfe-012b72d58fc5.jpg",
+      "desc": "AI Decoded: Join our AI Decoded team as we unpack and take a deep di.... AI Decoded airs on BBC News at 3:30 AM, Sunday 14 June. Join our AI Decoded team as we unpack and take a deep di...",
+      "date": "2026-06-13T21:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic suspends top AI models after U.S. export control order",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/06/anthropic-suspends-top-ai-models-after-us-export-control-order/414173/",
+      "domain": "nextgov.com",
+      "outlet": "Nextgov.com",
+      "image": "https://cdn.nextgov.com/media/img/cd/2026/06/13/061326mythosNG/open-graph.jpg",
+      "desc": "The company said it would disable Fable 5 and Mythos 5 for all customers after the government imposed export controls on those products, citing national...",
+      "date": "2026-06-13T20:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Qatar Tribune"
+      ]
+    },
+    {
+      "title": "Hurting siblings, killing pets: AFP’s AI plan amid terrifying teen acts",
+      "url": "https://www.townsvillebulletin.com.au/news/queensland/afp-pleads-with-tech-giants-to-use-ai-to-hunt-terror-networks-recruiting-children/news-story/ac7a55989a4c2b313e93af20eaf423cc&memtype=anonymous&mode=premium&nk=12f5ed823204b1179ec561b4551622dd-1781376425",
+      "domain": "townsvillebulletin.com.au",
+      "outlet": "townsvillebulletin.com.au",
+      "image": "https://content.api.news/v3/images/bin/bd56b88177cab30986b9ebad7f14e22c",
+      "desc": "Subscribe to the Townsville Bulletin to get unrestricted digital access, home paper delivery, Apps for iPad and Android and much more...",
+      "date": "2026-06-13T18:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "cairnspost.com.au"
+      ]
+    },
+    {
+      "title": "A coalition of state attorneys general is investigating OpenAI over ChatGPT.",
+      "url": "https://www.hngn.com/articles/271587/20260613/openai-probed-coalition-state-attorneys-general-over-chatgpt-ads-user-data.htm",
+      "domain": "hngn.com",
+      "outlet": "HNGN - Headlines & Global News",
+      "image": "https://d.hngn.com/en/full/303089/openai-ceo-sam-altman-speaks-reporters-washington.jpg",
+      "desc": "OpenAI is under investigation by a coalition of state attorneys general seeking records on its advertising, user data, and safety practices, including protections for minors. The company says it is",
+      "date": "2026-06-13T17:01:42+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Mashable"
+      ]
+    },
+    {
+      "title": "Faith and artificial intelligence: Pope Leo takes on the challenge of AI",
+      "url": "https://www.stcatharinesstandard.ca/life/niagara-region/niagara-religion-faith-opinion-belief-artificial-intelligence/article_5e0ceb5d-b16b-59fb-9124-529292c16b73.html",
+      "domain": "stcatharinesstandard.ca",
+      "outlet": "St. Catharines Standard",
+      "image": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/3/98/39869e95-2d31-5933-9699-88abcb9372e9/6a29c88d0baf0.image.jpg?crop=1762%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "The pontiff applies principles of Catholic social teaching to the rise of artificial intelligence as it relates to education, politics, work and war.",
+      "date": "2026-06-13T16:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Welland Tribune"
+      ]
+    },
+    {
+      "title": "Granite Asia-backed Galatek opens Penang facility amid Malaysia’s AI manufacturing push",
+      "url": "https://www.dealstreetasia.com/stories/galatek-penang-facility-485373",
+      "domain": "dealstreetasia.com",
+      "outlet": "DealStreetAsia",
+      "image": "https://cdn.dealstreetasia.com/uploads/2025/07/Semiconductor-Chips-e1751880697293.jpg?fit=1920,1164",
+      "desc": "Galatek provides AI-enabled automation, semiconductor equipment and life science technologies.",
+      "date": "2026-06-13T16:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Star"
+      ]
+    },
+    {
+      "title": "Why US asked Anthropic to suspend Fable 5, Mythos 5 access to foreign nationals",
+      "url": "https://www.ummid.com/news/2026/6/13/us-asks-anthropic-to-suspend-fable-5-mythos-5-access-to-foreign-nationals.html",
+      "domain": "ummid.com",
+      "outlet": "ummid",
+      "image": "https://ummid.com/news/2026/6/13/ban-on-fable-mythos.webp",
+      "desc": "Leading AI firm, Anthropic, said the federal government in the United States has asked it to suspend all access of its advanced Fable 5 and Mythos 5 models to foreign national, including its employees, inside or outside the United States.",
+      "date": "2026-06-13T16:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Business Today"
+      ]
+    },
+    {
+      "title": "Tech experts pitch for Sovereign AI as US blocks access to Anthropic’s Fable 5, Mythos 5 - ChinaTechNews.com",
+      "url": "https://www.chinatechnews.com/2026/06/13/123523-tech-experts-pitch-for-sovereign-ai-as-us-blocks-access-to-anthropics-fable-5-mythos-5",
+      "domain": "chinatechnews.com",
+      "outlet": "ChinaTechNews.com",
+      "image": "https://bl-i.thgim.com/public/incoming/6glomw/article71098262.ece/alternates/LANDSCAPE_1200/2026-06-05T185339Z_361845550_RC2UNLAA66HB_RTRMADP_3_ANTHROPIC-AI.JPG",
+      "desc": "As the US has decided to block foreign nationals from accessing Anthropic’s Fable 5 and Mythos 5, Indian tech thought leaders have flagged concerns about ... - AI, block, blocking, Business, capital, CEO, chairman, Chennai, China, development, energy, export, Exports, Founder, government, India, Indian, IT, language, LED, Lightspeed, Microsoft, national security, research, research and development",
+      "date": "2026-06-13T14:54:02+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "BusinessLine"
+      ]
+    },
+    {
+      "title": "Confused by credit rewards programs? Gemini can help you get the best returns | Northwest Arkansas Democrat-Gazette",
+      "url": "https://www.nwaonline.com/news/2026/jun/13/confused-by-credit-rewards-programs-gemini-can/",
+      "domain": "nwaonline.com",
+      "outlet": "nwaonline.com",
+      "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.nwaonline.com_default.jpg",
+      "desc": "Without Gemini, Google's artificially intelligent bot, I might never have figured out how to get the most out of my new Bilt credit card. Gemini is a whiz at finance.",
+      "date": "2026-06-13T06:56:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "arkansasonline.com"
+      ]
+    },
+    {
+      "title": "Anthropic Fable 5 Shutdown: US Export Order Forces a Global Customer Cutoff",
+      "url": "http://www.techtimes.com/articles/318315/20260612/anthropic-fable-5-shutdown-us-export-order-forces-global-customer-cutoff.htm",
+      "domain": "techtimes.com",
+      "outlet": "Tech Times",
+      "image": "https://d.techtimes.com/en/full/466387/claude-fable-5-claude-mythos-5.png",
+      "desc": "Anthropic disabled Fable 5 and Mythos 5 for every customer after a US export control directive barred access by foreign nationals inside and outside the country. The company disputes the government’s",
+      "date": "2026-06-13T02:34:12+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "CoPilot® Live™ Professional",
+      "url": "https://www.datacollectiononline.com/doc/copilot-live-professional-0001",
+      "domain": "datacollectiononline.com",
+      "outlet": "datacollectiononline.com",
+      "image": "",
+      "desc": "Integrated satellite navigation services for the mobile workforce.",
+      "date": "2026-06-13T02:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "supplychainmarket.com"
+      ]
+    },
+    {
+      "title": "Bentonville photography camp worker accused of using AI to create child sex abuse images released from jail | Northwest Arkansas Democrat-Gazette",
+      "url": "https://www.nwaonline.com/news/2026/jun/12/bentonville-photography-camp-worker-accused-of/",
+      "domain": "nwaonline.com",
+      "outlet": "nwaonline.com",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213049091_BC-BLOODWORTH-6-12_ORIG_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "desc": "BENTONVILLE -- A Bentonville photographer accused of using artificial intelligence to create sexually explicit images of children who attended a photography camp he hosted at an area school was released from jail Friday on $350,000 bond.",
+      "date": "2026-06-12T23:58:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "arkansasonline.com"
+      ]
+    },
+    {
+      "title": "Anthropic suspende acceso a dos de sus modelos de IA por orden de EE. UU. | CR Hoy",
+      "url": "https://www.crhoy.com:443/tecnologia/anthropic-suspende-acceso-a-dos-de-sus-modelos-de-ia-por-orden-de-ee-uu/",
+      "domain": "crhoy.com",
+      "outlet": "CR Hoy | Periodico Digital | Costa Rica Noticias 24/7",
+      "image": "https://images.hoy.cr/wp-content/uploads/2026/02/anthropic.png",
+      "desc": "Anthropic suspendió el viernes el acceso a dos de sus modelos de inteligencia artificial para cumplir con una orden de seguridad nacional de Estados Unidos. Apenas tres días después de lanzar al público Fable 5, la empresa dijo en una publicación en su página web que recibió una directiva gubernamental que prohíbe a todos los […]",
+      "date": "2026-06-12T23:33:13+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Techdirt"
+      ]
+    },
+    {
+      "title": "Prof. Nana Aba Appiah Amfo Calls for African Languages and Knowledge Systems to Shape the Future of AI at University of Warwick's Distinguished Africa Lecture 2026",
+      "url": "http://www.ug.edu.gh/news/prof-nana-aba-appiah-amfo-calls-african-languages-and-knowledge-systems-shape-future-ai",
+      "domain": "ug.edu.gh",
+      "outlet": "ug.edu.gh",
+      "image": "",
+      "desc": "",
+      "date": "2026-06-12T23:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Zuckerberg says Meta made ‘mistakes’ in AI workforce shift",
+      "url": "https://www.ctvnews.ca/sci-tech/article/zuckerberg-says-meta-made-mistakes-in-ai-workforce-shift/",
+      "domain": "ctvnews.ca",
+      "outlet": "CTVNews",
+      "image": "https://www.ctvnews.ca/resizer/v2/ZCAU5AGK4JYUL4F5HSJJ6SQHUA.jpg?smart=true&auth=9fe50efbcbe91c9e204298229b51edf4e503dd4789feca5789c5862567fe37dc&width=1200&height=630",
+      "desc": "Meta CEO Mark Zuckerberg has told employees that the social media giant has made mistakes in its AI transformation of its workforce, according to an internal memo seen by Reuters.",
+      "date": "2026-06-12T22:36:47+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "BNN Bloomberg"
+      ]
+    }
+  ]
+}
