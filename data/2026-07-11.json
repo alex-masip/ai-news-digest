@@ -1,0 +1,675 @@
+{
+  "date": "2026-07-11",
+  "intro": "Apple filed a lawsuit against OpenAI and Jony Ive's io Products, alleging that former Apple employees stole confidential hardware trade secrets and technical specifications for unreleased products. OpenAI's head of safety, Johannes Heidecke, departed the company this week, continuing a pattern of recent executive turnover that includes the departures of Chief Futurist Joshua Achiam and AGI head Fidji Simo. Sam Altman highlighted OpenAI's newest model release as the company faces intensifying competition, with rival AI firms releasing their own latest models this week.",
+  "whitelist": [
+    {
+      "title": "AI - Business Insider",
+      "url": "https://www.businessinsider.com/artificial-intelligence",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
+      "desc": "Explore cutting-edge AI insights and trends with Business Insider's dedicated artificial intelligence coverage. Stay ahead with in-depth articles, expert analyses, and the latest news on AI technologies shaping industries worldwide.",
+      "date": "2026-07-11T20:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 739,
+      "other_outlets": [
+        " Ammon News",
+        "100.5 The River",
+        "100.7 KOOL FM",
+        "101.5 WPDH",
+        "102.5 The Bone",
+        "102.9 WBLM"
+      ]
+    },
+    {
+      "title": "Apple accuses OpenAI, and former design star Jony Ive's io Products firm, of stealing hardware trade secrets in blockbuster lawsuit | Fortune",
+      "url": "https://fortune.com/2026/07/10/apple-openai-lawsuit-trade-secrets-theft-allegations/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2233062164-e1783725084455.jpg?resize=1200,600",
+      "desc": "The lawsuit alleges that two former Apple employees now working at OpenAI stole confidential data including information about unreleased hardware products and technical specifications.",
+      "date": "2026-07-11T00:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 42,
+      "other_outlets": [
+        "1650 AM (Bollywood Hits)",
+        "Al Jazeera",
+        "BostonGlobe.com",
+        "Breitbart",
+        "CBC",
+        "CBS News"
+      ]
+    },
+    {
+      "title": "OpenAI’s head of safety is out.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964489/openais-head-of-safety-is-out",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "desc": "Turnovers at that ChatGPT maker continue. The company’s chief futurist, Joshua Achiam, and AGI head, Fidji Simo, announced their departures earlier this week. Now Johannes Heidecke, who has overseen OpenAI’s safety efforts, is out, as ChatGPT 5.6 rolls out and raises some alarms. [Media: https://twitter.com/zeffmax/status/2075750608745972148?s=46&t=fRkDIqgNCkTkvg8ZBiLA9A]",
+      "date": "2026-07-11T16:48:32+00:00",
+      "tier": "whitelist",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Engadget",
+        "WIRED"
+      ]
+    },
+    {
+      "title": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a52a04ddaf4d560957bfd06?width=1200&format=jpeg",
+      "desc": "Apple sued OpenAI on Friday, accusing the AI startup of orchestrating a campaign to steal trade secrets from iPhone maker.",
+      "date": "2026-07-11T21:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "euronews"
+      ]
+    },
+    {
+      "title": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
+      "url": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108332122-1783522068192-gettyimages-2285213571-mms16752_2dhcih3t.jpeg?v=1783522113&w=1920&h=1080",
+      "desc": "Chip stocks had a wild but strong week. Meta led our portfolio higher.",
+      "date": "2026-07-11T16:19:31+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "ChinaTechNews.com"
+      ]
+    },
+    {
+      "title": "The biggest bombshells from Apple's trade secrets lawsuit against OpenAI",
+      "url": "https://www.businessinsider.com/apple-sues-openai-trade-secret-theft-2026-7",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a515803d9d92978fe6a621e?width=1200&format=jpeg",
+      "desc": "In a filing, Apple says former employees working for OpenAI retained access to the iPhone maker's systems after leaving.",
+      "date": "2026-07-10T22:47:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Tom's Guide"
+      ]
+    },
+    {
+      "title": "AI is entering a new phase — and these are the stocks investors should be watching",
+      "url": "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108080987-1755613115045-108080987-1755610449468-108080987-1735653388433-gettyimages-2191194281-avils-notitle241230_np5bz.jpeg?v=1770839823&w=1920&h=1080",
+      "desc": "CNBC's Paulina Likos and Zev Fima discuss Wall Street's shift from AI euphoria toward rationalization and what it means for investors.",
+      "date": "2026-07-11T20:11:31+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Sam Altman Boasts Newest OpenAI Model In Latest Dig Against Elon Musk",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/11/sam-altman-says-elon-musk-is-obsessed-with-him-in-boast-about-latest-gpt-model/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6668c1bee25fcfe17de4b7b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Altman and Musk’s respective artificial intelligence firms both released their latest AI models this week.",
+      "date": "2026-07-11T20:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple | Fortune",
+      "url": "https://fortune.com/2026/07/11/openai-engineers-legal-fight-apple-ai-product-poaching/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2156402117-e1783782201684.jpg?resize=1200,600",
+      "desc": "Most of OpenAI’s Apple recruits came from Ternus’ hardware engineering division, and some designers had backed Tan over Ternus for the top hardware job in 2021.",
+      "date": "2026-07-11T16:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "domain": "technologyreview.com",
+      "outlet": "MIT Technology Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_respiratorydisease.jpg?resize=1200,600",
+      "desc": "Intercept, a new nonprofit, will focus on countering the common cold and the flu.",
+      "date": "2026-07-11T16:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households | TechCrunch",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+      "desc": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "date": "2026-07-11T14:13:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Proton makes its Lumo privacy-first ChatGPT alternative a lot more powerful",
+      "url": "https://www.techradar.com/pro/users-no-longer-need-to-choose-between-powerful-ai-capabilities-and-meaningful-privacy-protections-proton-makes-its-lumo-privacy-first-chatgpt-alternative-a-lot-more-powerful",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/kjwYtkvg3XTaasVr5vqpMJ-1280-80.webp",
+      "desc": "A privacy-first AI upgrade",
+      "date": "2026-07-11T13:25:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI folds safety into research as head of safety exits",
+      "url": "https://thenextweb.com/news/openai-heidecke-safety-head-leaving-research-merger",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-Intelligence",
+      "image": "https://media.thenextweb.com/2026/04/openai-chatgpt-pro-100-codex-claude-max.avif",
+      "desc": "Johannes Heidecke is leaving OpenAI as the company merges safety and research under a new VP role. It's the latest in a long line of safety exits and team disbandments.",
+      "date": "2026-07-11T11:10:24+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Google’s new Magic Pointer Play Store listing reveals a Gemini shortcut built for Googlebooks",
+      "url": "https://www.digitaltrends.com/computing/googles-new-magic-pointer-play-store-listing-reveals-a-gemini-shortcut-built-for-googlebooks/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2026/07/image-3.jpg?resize=1200%2C630",
+      "desc": "Google’s newly surfaced Magic Pointer listing reveals a Gemini-powered cursor for Googlebooks, but incompatible Android devices mean the feature remains an early preview rather than something consumers can try today.",
+      "date": "2026-07-11T10:16:04+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Artificial intelligence: Latest News and Updates | South China Morning Post",
+      "url": "https://www.scmp.com/topics/artificial-intelligence",
+      "domain": "scmp.com",
+      "outlet": "South China Morning Post",
+      "image": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
+      "desc": "News articles, analyses and commentary about machines that mimic human cognitive functions such as learning and problem solving. This also covers chatbots, algorithms, consumer products and Big Data analysis that make use of AI.",
+      "date": "2026-07-11T08:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple sues OpenAI for stealing hardware designs, alleging employees brought prototypes to",
+      "url": "https://thenextweb.com/news/apple-sues-openai-trade-secrets-theft-hardware",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Apple",
+      "image": "https://media.thenextweb.com/2026/07/apple-sues-openai-trade-secrets-theft-hardware.avif",
+      "desc": "Apple claims OpenAI used current and former employees to steal hardware secrets as it builds an iPhone rival. Over 400 ex-Apple staff now work at OpenAI.",
+      "date": "2026-07-11T08:12:18+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple sues OpenAI, former employees over alleged intellectual property theft",
+      "url": "https://siliconangle.com/2026/07/10/apple-sues-openai-former-employees-alleged-intellectual-property-theft/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/apple-1839363_960_720-1.jpg",
+      "desc": "Apple Inc. today sued OpenAI Group PBC for allegedly stealing intellectual property related to its consumer devices.The iPhone maker filed the complaint with the U.S. District Court for the Northe",
+      "date": "2026-07-11T01:22:11+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI’s Greg Brockman will keep heading up product at the company.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964433/openais-greg-brockman-will-keep-heading-up-product-at-the-company",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "desc": "Brockman had taken over product when Fidji Simo went on medical leave, and he’ll continue those responsibilities now that Simo is stepping down from her full-time OpenAI job and becoming a “part-time advisor,” CNBC reports. [Link: OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO | https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html | CNBC]",
+      "date": "2026-07-11T00:18:44+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "U.K. agency finds 'universal jailbreaks' unlock dangerous cyber capabilities of OpenAI's GPT-5.6 | Fortune",
+      "url": "https://fortune.com/2026/07/10/openai-gpt-5-6-sol-jailbreaks-cyber-attacks-similar-to-security-flaw-that-led-u-s-government-to-force-anthropic-to-disable-fable-5/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281424316-e1783715571937.jpg?resize=1200,600",
+      "desc": "The jailbreaks appear at least as severe as those that led to export controls on Anthropic's Fable model.",
+      "date": "2026-07-11T00:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash | TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
+      "desc": "Meta told Dylan Byers, of Puck News, that it had nixed the feature after backlash from its user base.",
+      "date": "2026-07-10T23:55:07+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+      "desc": "Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them.",
+      "date": "2026-07-10T23:49:50+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple Accuses OpenAI—And Ex-Employees—Of Stealing Company Secrets",
+      "url": "https://www.forbes.com/sites/madhulika-pathak/2026/07/10/apple-claims-openai-stole-trade-secrets-in-new-lawsuit/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a51660de4c891af0964d747/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Apple alleges OpenAI improperly obtained trade secrets tied to the iPhone maker’s hardware development through former Apple employees as the AI company expands into consumer devices.",
+      "date": "2026-07-10T23:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Ransomware Is Here, Now Powered By Cheaper, Agentic Models",
+      "url": "https://www.forbes.com/sites/ronschmelzer/2026/07/10/ai-ransomware-is-here-now-powered-by-cheaper-agentic-models/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a5168d8bf4fe12bdf9a797a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "JadePuffer, a ransomware operation, used an AI agent to carry out much of the intrusion chain from reconnaissance, key theft, database encryption and even ransom note generation.",
+      "date": "2026-07-10T23:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Google's SensorFM Reveals Where AI Takes Wearable Health",
+      "url": "https://www.forbes.com/sites/josipamajic/2026/07/10/googles-sensorfm-reveals-where-ai-takes-wearable-health/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a515ee8fe7d3fe8a206e2b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Google's trillion-minute SensorFM data shows wearables shifting from raw metrics to AI health agents, a trend already reshaping Whoop and Oura.",
+      "date": "2026-07-10T23:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Meta just pulled its most controversial AI image generation feature days after launch",
+      "url": "https://www.digitaltrends.com/social-media/meta-just-pulled-its-most-controversial-ai-image-generation-feature-after-days-of-backlash/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2026/07/Instagram-Muse-Image.jpg?resize=1200%2C630",
+      "desc": "Meta launched then pulled a feature letting anyone generate AI images of public Instagram users who were opted in by default.",
+      "date": "2026-07-10T23:35:30+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple skewers OpenAI's recruiting practices in bombshell lawsuit",
+      "url": "https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a51649ddaf4d560957bfa78?width=1200&format=jpeg",
+      "desc": "Apple accused OpenAI of stealing trade secrets in a lawsuit filed Friday. OpenAI's recruiting techniques were put on blast.",
+      "date": "2026-07-10T23:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple sues OpenAI, alleging artificial intelligence company stole trade secrets",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/5272116c50862c7e9e98659c6272a969cab06a2c/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce4d872cd87b380ec5dbe6394a1001b8",
+      "desc": "Suit claims OpenAI poached Apple workers, coaxing them to share confidential material in bid to create hardware",
+      "date": "2026-07-10T22:33:21+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Billionaires warned New York would scare off business. Anthropic and Airbnb just made their biggest bets on the city yet | Fortune",
+      "url": "https://fortune.com/2026/07/10/billionaires-warned-nyc-flight-anthropic-airbnb/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2280291162-e1783715213733.jpg?resize=1200,600",
+      "desc": "Not only are they expanding their footprint, they’re also doubling headcount. Anthropic said it plans to have more than 1,000 employees by end of year.",
+      "date": "2026-07-10T22:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+      "url": "https://www.nbcconnecticut.com/news/national-international/apple-lawsuit-openai-trade-secrets/3754079/",
+      "domain": "nbcconnecticut.com",
+      "outlet": "NBC Connecticut",
+      "image": "https://media.nbcconnecticut.com/2026/07/image_d1a9fa.jpg?quality=85&strip=all&resize=1200%2C675",
+      "desc": "Apple accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT.",
+      "date": "2026-07-11T07:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 23,
+      "other_outlets": [
+        "ABC7 Chicago",
+        "ABC7 Los Angeles",
+        "ABC7 San Francisco",
+        "Bozeman Daily Chronicle",
+        "Gazette News Group, Inc.",
+        "LancasterOnline"
+      ]
+    },
+    {
+      "title": "Apple sues OpenAI, two former employees for trade secrets theft | The Express Tribune",
+      "url": "https://tribune.com.pk/story/2617722/apple-sues-openai-two-former-employees-for-trade-secrets-theft",
+      "domain": "tribune.com.pk",
+      "outlet": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/apple1783794632-0/apple1783794632-0-640x480.webp",
+      "desc": "Apple accuses OpenAI of exploiting confidential information to speed its consumer hardware push",
+      "date": "2026-07-11T18:42:01+00:00",
+      "tier": "longtail",
+      "cluster_size": 17,
+      "other_outlets": [
+        "BBC News",
+        "EconoTimes",
+        "Helsinki Times",
+        "Macworld",
+        "Marianas Variety",
+        "PetaPixel"
+      ]
+    },
+    {
+      "title": "Apple sues OpenAI for trade secret theft in blockbuster case",
+      "url": "https://www.bostonherald.com/2026/07/11/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case/",
+      "domain": "bostonherald.com",
+      "outlet": "Boston Herald",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/07/BIZ-APPLE-OPENAI-TRADE-SECRETS-LAWSUIT-FILEPIC-GET.jpg?w=1024&h=683",
+      "desc": "Apple sued OpenAI for trade secret theft, accusing the artificial intelligence startup and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products.",
+      "date": "2026-07-11T19:31:22+00:00",
+      "tier": "longtail",
+      "cluster_size": 11,
+      "other_outlets": [
+        "Athens Times",
+        "Australian Financial Review",
+        "Brisbane Times",
+        "Cult of Mac",
+        "The Age",
+        "The Business Times"
+      ]
+    },
+    {
+      "title": "Apple sues OpenAI over alleged theft of trade secrets",
+      "url": "https://www.cbc.bb/main-stories/apple-sues-openai-over-alleged-theft-of-trade-secrets/",
+      "domain": "cbc.bb",
+      "outlet": "Caribbean Broadcasting Corporation",
+      "image": "https://www.cbc.bb/wp-content/uploads/2026/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJmYnRqeDEwMDBvM2I2cm1jdTd3MW1t-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcmZicnFyaTAwMHkyN3E3ZTFrMzA1dTc.jpg",
+      "desc": "(CNN) — Apple has sued OpenAI, accusing the artificial intelligence company of stealing trade secrets from the iPhone",
+      "date": "2026-07-11T17:48:48+00:00",
+      "tier": "longtail",
+      "cluster_size": 8,
+      "other_outlets": [
+        "Business Today",
+        "Khaama Press",
+        "ProPakistani",
+        "The American Bazaar",
+        "The Indian Express",
+        "The News International"
+      ]
+    },
+    {
+      "title": "Illinois board of education releases guidelines for artificial intelligence use in schools - whig",
+      "url": "https://whig.com/2026/07/11/illinois-board-of-education-releases-guidelines-for-artificial-intelligence-use-in-schools/",
+      "domain": "whig.com",
+      "outlet": "whig",
+      "image": "https://whig.com/wp-content/uploads/sites/70/2026/07/artificial-intelligence-ai-web.jpeg.jpg?w=864",
+      "desc": "SPRINGFIELD — The Illinois State Board of Education released comprehensive guidelines Thursday to help local school districts navigate the implementation of artificial intelligence across elementary and secondary classrooms. The state […]",
+      "date": "2026-07-11T17:52:14+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "NBC Connecticut",
+        "Techdirt",
+        "icaew.com"
+      ]
+    },
+    {
+      "title": "Apple sues OpenAI over allegedly stealing tech secrets",
+      "url": "https://morungexpress.com/apple-sues-openai-over-allegedly-stealing-tech-secrets",
+      "domain": "morungexpress.com",
+      "outlet": "MorungExpress",
+      "image": "https://morungexpress.com/uploads/2026/07/30188043_1783769704_20250919128F.jpg",
+      "desc": "New Delhi, July 11 (IANS): Apple has sued the leading artificial intelligence (AI) firm OpenAI and its hardware chief for allegedly engaging in a coordinated campaign to steal information about upcoming products.",
+      "date": "2026-07-11T14:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "IANS News",
+        "NewKerala.com",
+        "prokerala.com"
+      ]
+    },
+    {
+      "title": "Ticker: Meta reins in new AI tool that automatically accessed public Instagram images",
+      "url": "https://www.bostonherald.com/2026/07/11/ticker-meta-reins-in-new-ai-tool-that-automatically-accessed-public-instagram-images/",
+      "domain": "bostonherald.com",
+      "outlet": "Boston Herald",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/02/Instagram-Suicide_14234.jpg?w=1024&h=682",
+      "desc": "Facebook parent Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI-generated images.",
+      "date": "2026-07-11T19:21:24+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Bozeman Daily Chronicle",
+        "KIRO 7 News Seattle"
+      ]
+    },
+    {
+      "title": "SpaceX and AI riches propel surge in private jet interest",
+      "url": "https://muscatinejournal.com/news/nation-world/business/article_f4a1a5fe-41c3-57cd-b572-abb7f358c3fd.html",
+      "domain": "muscatinejournal.com",
+      "outlet": "Muscatine Journal",
+      "image": "https://bloximages.chicago2.vip.townnews.com/muscatinejournal.com/content/tncms/assets/v3/editorial/f/4a/f4a1a5fe-41c3-57cd-b572-abb7f358c3fd/6a50ed72471ea.preview.jpg?crop=1763%2C926%2C0%2C220&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "A surge in wealth from AI startups and SpaceX IPO activity is driving significant growth in private jet purchases and memberships, with aviation lawyers and brokers reporting soaring demand and increased paperwork in the sector.",
+      "date": "2026-07-11T18:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "La Crosse Tribune",
+        "Omaha World-Herald"
+      ]
+    },
+    {
+      "title": "Top 10 Machine Learning Algorithms Explained",
+      "url": "https://www.joyfreepress.com/2026/07/11/489659-top-10-machine-learning-algorithms-explained/",
+      "domain": "joyfreepress.com",
+      "outlet": "JOY Free Press",
+      "image": "https://www.joyfreepress.com/wp-content/uploads/2026/07/Learn-Data-Science-Online.jpg",
+      "desc": "Discover the top 10 machine learning algorithms every beginner should know, from linear regression to neural networks. Find the right model for your data!",
+      "date": "2026-07-11T10:17:01+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "SpringerLink",
+        "wateronline.com"
+      ]
+    },
+    {
+      "title": "Apple Sues OpenAI Over Stolen Hardware Secrets",
+      "url": "https://www.explosion.com/199970/apple-sues-openai-over-stolen-hardware-secrets/",
+      "domain": "explosion.com",
+      "outlet": "explosion.com",
+      "image": "https://www.explosion.com/wp-content/uploads/2026/07/apple-sues-openai-over-stolen-hardware-secrets.jpg",
+      "desc": "Apple has sued OpenAI, alleging former Apple employees stole hardware secrets to help build OpenAI's AI device with Jony Ive.",
+      "date": "2026-07-11T08:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Shacknews",
+        "iClarified"
+      ]
+    },
+    {
+      "title": "Meta scraps AI image feature days after launch following privacy backlash | The Express Tribune",
+      "url": "https://tribune.com.pk/story/2617725/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash",
+      "domain": "tribune.com.pk",
+      "outlet": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/meta1761632562-0/meta1761632562-0-640x480.webp",
+      "desc": "Meta launched Muse Image, an AI tool that edits images using photos and sketches in its Meta AI chatbot",
+      "date": "2026-07-11T19:00:23+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Karnataka may rope in Anthropic to leverage AI for public good, citizen-centric services",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-may-rope-in-anthropic-to-leverage-ai-for-public-good-citizen-centric-services/article71211239.ece",
+      "domain": "thehindu.com",
+      "outlet": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/w227le/article71211655.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-11%20at%2021.25.03.jpeg",
+      "desc": "Karnataka explores collaboration with Anthropic to enhance AI-driven governance and citizen services for public good.",
+      "date": "2026-07-11T18:10:25+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Techdirt"
+      ]
+    },
+    {
+      "title": "Say Again Press launches 'Be Heard' and 'Lead Yourself', spotlighting communication and leadership in AI era",
+      "url": "https://www.prokerala.com/news/articles/a1786814.html",
+      "domain": "prokerala.com",
+      "outlet": "prokerala.com",
+      "image": "",
+      "desc": "A new publishing imprint, Say Again Press, was officially launched in the national capital with the release of its first two books, Be Heard and Lead Yourself. The event brought together authors, communication experts, media professionals, and ...",
+      "date": "2026-07-11T18:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "IANS News"
+      ]
+    },
+    {
+      "title": "News Outlets Seek Sanctions Against OpenAI in Copyright Dispute – NaturalNews.com",
+      "url": "https://www.naturalnews.com/2026-07-11-news-outlets-seek-sanctions-openai-copyright-dispute.html",
+      "domain": "naturalnews.com",
+      "outlet": "NaturalNews.com",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/openai-copyright-infringement-fair-use-2654-original.jpg",
+      "desc": "Several news outlets, including the New York Times (NYT), asked a federal judge on Thursday, July 9, to sanction OpenAI for allegedly withholding evidence in a long-running copyright dispute, according to court filings reviewed by TechCrunch. The newspapers accused the artificial intelligence (AI) company of deliberately failing to preserve training data and output logs that could […]",
+      "date": "2026-07-11T16:50:12+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "newstribune.com"
+      ]
+    },
+    {
+      "title": "Newspaper groups seek ‘serious sanctions’ against OpenAI as deception alleged in copyright lawsuit",
+      "url": "https://www.unionleader.com/news/business/newspaper-groups-seek-serious-sanctions-against-openai-as-deception-alleged-in-copyright-lawsuit/article_91b1c6fa-421a-4b51-9012-b113449fb475.html",
+      "domain": "unionleader.com",
+      "outlet": "UnionLeader.com",
+      "image": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/d/af/dafe0960-b566-4296-b59b-a5bb1854d05a/6a51ad67b0984.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "The New York Times, The New York Daily News, The Chicago Tribune and other media outlets are asking for “serious sanctions” against OpenAI, saying the company destroyed evidence and intentionally",
+      "date": "2026-07-11T06:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Spokesman.com"
+      ]
+    },
+    {
+      "title": "Apple Suing OpenAI, 2 Ex-Employees, for Allegedly Stealing Trade Secrets",
+      "url": "https://www.theepochtimes.com/us/apple-suing-openai-2-ex-employees-for-allegedly-stealing-trade-secrets-6060360",
+      "domain": "theepochtimes.com",
+      "outlet": "The Epoch Times",
+      "image": "https://img.theepochtimes.com/assets/uploads/2026/05/01/id6019979-CP27168623-1080x720.jpg",
+      "desc": "Apple is suing its corporate business partner for damages for breach of contract, and is seeking injunctions.",
+      "date": "2026-07-11T02:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "law360.com"
+      ]
+    },
+    {
+      "title": "OpenAI Hardware Biz Built with Apple Secrets, Apple Says",
+      "url": "https://www.bankinfosecurity.com/openai-hardware-biz-built-apple-secrets-apple-says-a-32205",
+      "domain": "bankinfosecurity.com",
+      "outlet": "bankinfosecurity.com",
+      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/openai-hardware-biz-built-apple-secrets-apple-says-image_large-7-a-32205.jpg",
+      "desc": "Apple accused OpenAI of building its secretive new device with stolen trade secrets in a lawsuit demanding monetary damages and the return of stolen intellectual",
+      "date": "2026-07-11T01:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "govinfosecurity.com"
+      ]
+    },
+    {
+      "title": "Meta Removes Muse AI Instagram Feature After Backlash: 'Missed the Mark'",
+      "url": "https://www.thewrap.com/industry-news/tech/meta-removes-muse-ai-instagram-feature-backlash/",
+      "domain": "thewrap.com",
+      "outlet": "TheWrap",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/07/Untitled-design-2026-07-08T185039.840.jpg",
+      "desc": "The move comes Friday after days of public outcry from users and public entities like CAA and SAG-AFTRA: \"Missed the mark.\"",
+      "date": "2026-07-10T23:27:28+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Deadline"
+      ]
+    },
+    {
+      "title": "SK Hynix rises nearly 13% in debut on Wall Street as demand for memory chips soars amid AI frenzy",
+      "url": "http://www.idahostatejournal.com/news/national/sk-hynix-rises-nearly-13-in-debut-on-wall-street-as-demand-for-memory-chips/article_d8f8c201-299b-5638-a3a6-404253962e2e.html",
+      "domain": "idahostatejournal.com",
+      "outlet": "Idaho State Journal",
+      "image": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/b/68/b6896129-4fd3-5b96-b673-d9ffa59b8ec0/6a50ea32da60c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "Shares of South Korean memory chipmaker SK Hynix rose nearly 13% as they made their debut on Wall Street, at a time when demand for chips is surging thanks to",
+      "date": "2026-07-10T23:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "koreatimes.co.kr"
+      ]
+    },
+    {
+      "title": "FOBI AI Inc. Announces Revocation of Failure to File Cease Trade Order",
+      "url": "https://leaderpost.com/press-releases/globe-newswire/fobi-ai-inc-announces-revocation-of-failure-to-file-cease-trade-order/",
+      "domain": "leaderpost.com",
+      "outlet": "Leader Post",
+      "image": "https://www.globenewswire.com/newsroom/ti?nf=OTc2MDYzOSM3NzAxNjA2IzUwMDA3NDc0Mg==",
+      "desc": "Vancouver, BC, July 10, 2026 (GLOBE NEWSWIRE) -- FOBI AI Inc. (FOBI:TSXV) (Pink:FOBIF) (“Fobi” or the “Company”), a company that harnesses AI and data",
+      "date": "2026-07-10T22:17:30+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Montreal Gazette"
+      ]
+    }
+  ]
+}
