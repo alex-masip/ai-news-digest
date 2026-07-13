@@ -1,0 +1,954 @@
+{
+  "date": "2026-07-12",
+  "intro": "Apple has filed a lawsuit against OpenAI, alleging that former Apple employees retained access to the company's systems after joining OpenAI. Software engineers are adapting to AI-driven disruption in their field, which has caused layoffs and underemployment despite the profession's historically high pay. Microsoft's Copilot+ PCs aim to offer local AI capabilities and improved battery life, though they come with strict hardware requirements.",
+  "whitelist": [
+    {
+      "title": "The biggest bombshells from Apple's trade secrets lawsuit against OpenAI",
+      "url": "https://www.businessinsider.com/apple-sues-openai-trade-secret-theft-2026-7",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a515803d9d92978fe6a621e?width=1200&format=jpeg",
+      "desc": "In a filing, Apple says former employees working for OpenAI retained access to the iPhone maker's systems after leaving.",
+      "date": "2026-07-12T09:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 9,
+      "other_outlets": [
+        "Afghanistan News",
+        "Azerbaijan News",
+        "Britain News",
+        "Brunei News",
+        "Calcutta News",
+        "Laos News"
+      ]
+    },
+    {
+      "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/4a4caf0545e4648e7dadf3b3c14c059a402b80f3/0_385_2001_1600/master/2001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd1b518f1fd1a05fee94b8acb29f952b",
+      "desc": "Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemployment",
+      "date": "2026-07-12T10:00:15+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Yahoo News"
+      ]
+    },
+    {
+      "title": "What are Copilot+ PCs? Everything you need to know",
+      "url": "https://www.digitaltrends.com/computing/what-are-copilot-pcs/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2025/11/Untitled-design-2025-11-19T020429.004.jpg?resize=1200%2C630",
+      "desc": "Copilot+ PCs promise smarter Windows search, local AI tools, and longer battery life, though the badge comes with strict hardware rules and several important caveats.",
+      "date": "2026-07-12T20:48:06+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "What are your plans for AI Appreciation Day? - Engadget",
+      "url": "https://www.engadget.com/2213147/what-are-your-plans-for-ai-appreciation-day/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/what-are-your-plans-for-ai-appreciation-day/l-intro-1783886916.jpg",
+      "desc": "The best way to celebrate AI Appreciation Day is to not.",
+      "date": "2026-07-12T20:30:53+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&strip=all&crop=0%2C10.807256256556%2C100%2C78.385487486888&w=1200",
+      "desc": "Lorde says ‘fuck the glasses’ they’re ‘not sexy’ about festival sponsor Ray-Ban’s Meta AI smart glasses.",
+      "date": "2026-07-12T20:10:19+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Isn't Killing Education. It's Exposing What Was Already Broken.",
+      "url": "https://www.forbes.com/sites/scottwhite/2026/07/12/ai-isnt-killing-education-its-exposing-what-was-already-broken/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a53ce1507461268e3361215/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "AI is transforming education by exposing outdated teaching and assessment, forcing schools to rethink learning, academic integrity, and classroom success.",
+      "date": "2026-07-12T20:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Why AI Pilots Fail: A 1998 Paper Might Have Seen It Coming",
+      "url": "https://www.forbes.com/sites/vibhasratanjee/2026/07/12/why-ai-pilots-fail-a-1998-paper-might-have-seen-it-coming/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a4c84b33b3cd30269e2a868/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Most AI strategies are vocabulary, not capability. A study of quality management from the nineties named the pattern long before AI arrived.",
+      "date": "2026-07-12T20:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Might Be Coming For Our Books–But These Books Fight Back",
+      "url": "https://www.forbes.com/sites/carolinereilly/2026/07/12/ai-might-be-coming-for-our-booksbut-these-books-fight-back/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a512ebfd5254c7fd89db431/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "From training AI to read for you, to AI-use allegations in publishing, the book world is grappling with the increasingly digitized world. Debut author Dan Warner helps us compile a reading syllabus for this brave new world.",
+      "date": "2026-07-12T20:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple Sues OpenAI For Trade Secret Theft After Integrating ChatGPT",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/07/12/apple-sues-openai-for-trade-secret-theft-after-integrating-chatgpt/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a53650f89fad6526e373c88/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Apple sues OpenAI over alleged trade secret theft, exposing new details about its AI hardware ambitions and intensifying the race for next-gen devices.",
+      "date": "2026-07-12T16:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic Illuminates LLM J-Space With J-Lens",
+      "url": "https://www.forbes.com/sites/johnwerner/2026/07/12/anthropic-illuminates-llm-j-space-with-j-lens/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a53b9112be3c2fba573e645/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Anthropic's J-space research reveals AI's hidden reasoning workspace without claiming the models possess consciousness or feelings.",
+      "date": "2026-07-12T16:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "desc": "Apple is accelerating development of the M7 Ultra, which could support up to 1.5TB of RAM and features major Neural Engine upgrades.",
+      "date": "2026-07-12T16:27:06+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333755-1783868174451-gettyimages-2273245639-2026_apr_30_muskvsaltman_0352.jpeg?v=1783868241&w=1920&h=1080",
+      "desc": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.",
+      "date": "2026-07-12T15:32:34+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Faith Tech: Pat Gelsinger steers Gloo’s platform to lead faith-based organizations into the age of AI",
+      "url": "https://siliconangle.com/2026/07/12/faith-tech-pat-gelsinger-steers-gloos-platform-lead-faith-based-organizations-age-ai/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Pat-Gelsinger.jpg",
+      "desc": "After eight years as the chief executive of VMware Inc. and nearly four more leading Intel Corp., Pat Gelsinger suddenly found himself retired. Then the phone rang.“Less than two seconds after t",
+      "date": "2026-07-12T15:23:21+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Zhipu's founder makes the case for open frontier AI",
+      "url": "https://thenextweb.com/news/zhipu-tang-jie-frontier-ai-open-to-all",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-Intelligence",
+      "image": "https://media.thenextweb.com/2026/06/china-ai-global-cooperation-vs-g7-export-controls.avif",
+      "desc": "Tang Jie says AI security comes from openness, not barriers, just as Beijing weighs restricting overseas access to China's best open models.",
+      "date": "2026-07-12T15:14:55+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI giants learn what everyone else on the modern internet already knows",
+      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a512adbd9d92978fe6a5ac9?width=1200&format=jpeg",
+      "desc": "Anthropic's distillation complaints expose an awkward question: does AI's fair use argument cut both ways?",
+      "date": "2026-07-12T15:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "69% of Americans back public ownership of big AI firms",
+      "url": "https://thenextweb.com/news/most-americans-now-say-the-public-should-own-half-of-the-big-ai-companies",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-Intelligence",
+      "image": "https://media.thenextweb.com/2026/07/us-workers-ai-sovereign-wealth-fund-survey.avif",
+      "desc": "A survey finds 69% support forcing AI companies to hand 50% of their stock to a public wealth fund, as tech layoffs surge and AI capex climbs.",
+      "date": "2026-07-12T14:22:13+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI News, Artificial Intelligence Trends & Market Impact | Fortune | Section",
+      "url": "https://fortune.com/section/artificial-intelligence/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://content.fortune.com/img-assets/wp-content/uploads/2019/04/fortune-logo-1600x900-black.jpg?resize=1200,600",
+      "desc": "Get the latest AI news, artificial intelligence trends & market insights from Fortune, your trusted source for new innovation & digital trends.",
+      "date": "2026-07-12T14:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Congress's AI bill pile-up: cure cancer, cage chatbots",
+      "url": "https://thenextweb.com/news/cure-cancer-cage-the-chatbots-congresss-contradictory-week-on-ai",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-Intelligence",
+      "image": "https://media.thenextweb.com/2026/07/congress-ai-bills-week-chatbots-cancer-labelling.avif",
+      "desc": "US lawmakers introduced AI bills to fight childhood cancer and tax fraud, while also trying to rein in chatbots, deepfakes, and data centres.",
+      "date": "2026-07-12T14:03:05+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "China's coding tools gain as Claude Code is flagged",
+      "url": "https://thenextweb.com/news/china-ai-coding-tools-claude-code-backdoor",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Anthropic",
+      "image": "https://media.thenextweb.com/2026/04/anthropic-claude-opus-4-7-coding-agentic-benchmarks-release.avif",
+      "desc": "Beijing flagged Claude Code as a security back door. ByteDance's Trae, Alibaba's Qoder, Tencent's CodeBuddy, and Zhipu's ZCode stand to gain.",
+      "date": "2026-07-12T13:48:15+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "I tried to parody the most absurd AI products, but the tech industry beat me to it",
+      "url": "https://www.digitaltrends.com/computing/i-tried-to-parody-the-most-absurd-ai-products-but-the-tech-industry-beat-me-to-it/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2026/07/ai_household_products_showcase.jpg?resize=1200%2C630",
+      "desc": "I tried inventing AI gadgets too absurd for the tech industry. Then I found toothbrushes, litter boxes, headphones, and appliances that had already beaten me there.",
+      "date": "2026-07-12T13:30:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "The good, the bad, and the ugly: how AI is shaping the future of PC gaming",
+      "url": "https://www.techradar.com/computing/gpu/what-ai-upscaling-means-for-pc-gaming",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/fmaknfhZD3AfAtAtxdqTgM-1920-80.jpg",
+      "desc": "The death of native performance?",
+      "date": "2026-07-12T13:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Warsh Names Tech Visionary Marc Andreessen To Lead New AI Task Force",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/07/12/warsh-names-tech-visionary-marc-andreessen-to-lead-new-ai-task-force/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a5361e3c19df5f1c149b1a6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Fed taps Marc Andreessen to assess AI's impact on productivity, signaling AI could shape future interest-rate policy and market valuations.",
+      "date": "2026-07-12T12:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Starbucks Just Fired A Warning Shot At Microsoft And IBM AI Apps",
+      "url": "https://www.forbes.com/sites/sandycarter/2026/07/12/starbucks-just-fired-a-warning-shot-at-microsoft-and-ibm-ai-apps/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a52abb9ba4ce541ca5f04f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Starbucks is building AI tools to replace Microsoft and IBM software, targeting its $400 million spend. Why software stocks fell and the four things leaders do next.",
+      "date": "2026-07-12T12:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Is Changing Lending, But Trust Remains The Real Advantage",
+      "url": "https://www.forbes.com/sites/robertdaugherty/2026/07/12/ai-is-changing-lending-but-trust-remains-the-real-advantage/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a530180ac88844915ce59ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Merchant Bloom and other top firms show how AI-powered underwriting, transparency and human judgment are building trust and reshaping the future of alternative finance.",
+      "date": "2026-07-12T12:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Small Business Technology News Roundup: Microsoft Makes A Major AI U-Turn",
+      "url": "https://www.forbes.com/sites/quickerbettertech/2026/07/12/small-business-technology-news-roundup-microsoft-makes-a-major-ai-u-turn/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a5104160a2bf8157a48dcd1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Microsoft gives users more AI control in Teams as AI coding, dictation and actors reshape business, while rising Google Ads costs push SMBs toward new marketing strategies.",
+      "date": "2026-07-12T12:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
+      "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108331825-1783479240906-gettyimages-2208694533-87_data_circle_dark.jpeg?v=1783479264&w=1920&h=1080",
+      "desc": "A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.",
+      "date": "2026-07-12T12:27:55+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Goldman Sachs picks its favorite Chinese AI models",
+      "url": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108093378-17380715992025-01-28t124016z_475207047_rc20jcav8tsk_rtrmadp_0_deepseek-markets.jpeg?v=1738079688&w=1920&h=1080",
+      "desc": "The investment bank released its Chinese AI model competitive positioning framework on Friday.",
+      "date": "2026-07-12T12:03:29+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "The fight against AI data centers is just beginning",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+      "desc": "Plans to build massive AI data centers are spreading across the globe, but community members are fighting back due to concerns about rising energy costs, impacts on the water supply, noise pollution, and more.",
+      "date": "2026-07-12T12:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
+      "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a4f891bb3a8c16f7e8eccf9?width=1200&format=jpeg",
+      "desc": "A writer left LA for San Francisco to work at the AI startup, Corgi, after she received a cold message from its chief of staff.",
+      "date": "2026-07-12T11:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/191:100/w_1280,c_limit/Quantum%20Computing.jpg",
+      "desc": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+      "date": "2026-07-12T10:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI",
+      "url": "https://www.digitaltrends.com/computing/i-spent-a-fortune-on-a-copilot-pc-and-ive-barely-ever-touched-microsofts-ai/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2025/11/windows-AigsWJmvoEo-unsplash.jpg?resize=1200%2C630",
+      "desc": "My Copilot+ PC has dedicated AI hardware and its own Copilot key, yet Microsoft’s assistant has barely earned a place in my daily workflow.",
+      "date": "2026-07-12T09:53:30+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Tricking AI By Simply Switching Which Spoken Language You Use In Your Prompts",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/07/12/tricking-ai-by-simply-switching-which-spoken-language-you-use-in-your-prompts/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a519eeeec6f90e1b1e29c68/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Hackers switch their prompts to less common natural languages to avoid AI safety features. AI makers are coping with it",
+      "date": "2026-07-12T08:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
+      "url": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108307291-1778796055735-gettyimages-2229666196-server10.jpeg?v=1778796089&w=1920&h=1080",
+      "desc": "AI-related chip stocks have been volatile amid a debate over AI demand and spending.",
+      "date": "2026-07-12T05:00:01+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "What happens when AI detectors fail? Researchers say we must be trained to spot fake AI faces",
+      "url": "https://www.digitaltrends.com/computing/what-happens-when-ai-detectors-fail-researchers-say-we-must-be-trained-to-spot-fake-ai-faces/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2019/11/mark-zuckerberg-deepfake-feature.jpg?resize=1200%2C630",
+      "desc": "AI detectors are struggling against increasingly realistic deepfakes. Researchers say people can dramatically improve their ability to identify fake AI faces through structured training and pattern recognition.",
+      "date": "2026-07-12T01:44:26+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Your next Spotify song could soon carry an AI warning label, and the music industry is all for it",
+      "url": "https://www.digitaltrends.com/home-theater/your-next-spotify-song-could-soon-carry-an-ai-warning-label-and-the-music-industry-is-all-for-it/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-12T060317.613.jpg?resize=1200%2C630",
+      "desc": "The music industry wants Spotify and Apple Music to label AI-generated songs, giving listeners greater transparency as artificial intelligence becomes increasingly common in music production.",
+      "date": "2026-07-12T00:37:51+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
+      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5867763/getting-campaign-text-messages-ahead-of-midterms-there-could-be-an-ai-bot-behind-it",
+      "domain": "northcountrypublicradio.org",
+      "outlet": "NCPR",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4501x3376+280+0/resize/4501x3376!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2F3d%2Ffdff0e0e4d7cb5d6b7de582175e6%2Fgettyimages-2206244669.jpg?s=1000",
+      "desc": "Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.",
+      "date": "2026-07-12T12:48:04+00:00",
+      "tier": "longtail",
+      "cluster_size": 101,
+      "other_outlets": [
+        "88.5 WFDD",
+        "88.9 KETR",
+        "90.3 KAZU",
+        "91.5 KIOS-FM Omaha Public Radio",
+        "Alabama Public Radio",
+        "Aspen Public Radio"
+      ]
+    },
+    {
+      "title": "Meta AI tool struggles to identify cropped AI images",
+      "url": "http://www.tucsonpost.com/news/279179624/meta-ai-tool-struggles-to-identify-cropped-ai-images",
+      "domain": "tucsonpost.com",
+      "outlet": "Tucson Post",
+      "image": "https://image.chitra.live/api/v1/wps/c146d90/ea89eed7-f902-4d06-9fc7-9485bea78bb6/1/8-Meta-AI-600x315.jpg",
+      "desc": "Meta's new artificial intelligence image detection tool struggles to identify some of its own AI-generated images after they are cropped, highlighting the challenges of verifying manipulated content",
+      "date": "2026-07-12T09:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 72,
+      "other_outlets": [
+        "Afghanistan Sun",
+        "Africa Leader",
+        "Albuquerque Express",
+        "Argentina Star",
+        "Asia Bulletin",
+        "Austin Globe"
+      ]
+    },
+    {
+      "title": "Some are raising ethical concerns about political text messages using AI",
+      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5867763/some-are-raising-ethical-concerns-about-political-text-messages-using-ai",
+      "domain": "northcountrypublicradio.org",
+      "outlet": "NCPR",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4501x3376+280+0/resize/4501x3376!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2F3d%2Ffdff0e0e4d7cb5d6b7de582175e6%2Fgettyimages-2206244669.jpg?s=1000",
+      "desc": "Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.",
+      "date": "2026-07-12T17:19:06+00:00",
+      "tier": "longtail",
+      "cluster_size": 57,
+      "other_outlets": [
+        "88.5 WFDD",
+        "88.9 KETR",
+        "90.3 KAZU",
+        "Alabama Public Radio",
+        "Aspen Public Radio",
+        "CAI"
+      ]
+    },
+    {
+      "title": "Apple accuses OpenAI of using stolen trade secrets for devices",
+      "url": "http://www.dallassun.com/news/279181168/apple-accuses-openai-of-using-stolen-trade-secrets-for-devices",
+      "domain": "dallassun.com",
+      "outlet": "Dallas Sun",
+      "image": "https://image.chitra.live/api/v1/wps/cf929d3/b86c4d67-eeb7-4883-ab36-79267b29bc31/1/New-Apple-600x315.jpg",
+      "desc": "Apple has sued OpenAI and two former employees, accusing them of misappropriating trade secrets to accelerate the ChatGPT maker's push into consumer hardware, escalating tensions between the two technology companies",
+      "date": "2026-07-12T21:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 56,
+      "other_outlets": [
+        "Afghanistan Sun",
+        "Africa Leader",
+        "Albuquerque Express",
+        "Baltimore Star",
+        "Bangladesh Sun",
+        "Baton Rouge Post"
+      ]
+    },
+    {
+      "title": "Meta's AI image detector shows limits after image cropping",
+      "url": "http://www.laosnews.net/news/279179624/meta-s-ai-image-detector-shows-limits-after-image-cropping",
+      "domain": "laosnews.net",
+      "outlet": "Laos News",
+      "image": "https://image.chitra.live/api/v1/wps/c146d90/ea89eed7-f902-4d06-9fc7-9485bea78bb6/1/8-Meta-AI-600x315.jpg",
+      "desc": "Meta's new artificial intelligence image detection tool struggles to identify some of its own AI-generated images after they are cropped, highlighting the challenges of verifying manipulated content",
+      "date": "2026-07-12T09:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 10,
+      "other_outlets": [
+        "Afghanistan News",
+        "Australian News",
+        "Azerbaijan News",
+        "Britain News",
+        "Brunei News",
+        "Calcutta News"
+      ]
+    },
+    {
+      "title": "Artificial intelligence leadership programme kicks off in Dhofar Governorate",
+      "url": "https://timesofoman.com/article/174270-artificial-intelligence-leadership-programme-kicks-off-in-dhofar-governorate",
+      "domain": "timesofoman.com",
+      "outlet": "Times of Oman",
+      "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/07/1783856016-1783856015-3riwjijeeou8-700x400.jpg",
+      "desc": "A 5-day artificial intelligence (AI) leadership programme kicked off on Sunday in the Wilayat of Salalah, Governorate of Dhofar.",
+      "date": "2026-07-12T16:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 9,
+      "other_outlets": [
+        "Brisbane Times",
+        "NBC News",
+        "SpringerLink",
+        "The Age",
+        "The Sydney Morning Herald",
+        "WAtoday"
+      ]
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://www.hcamag.com/us/specialization/employment-law/apple-sues-openai-over-alleged-trade-secret-theft/582063",
+      "domain": "hcamag.com",
+      "outlet": "Human Resources Director",
+      "image": "https://cdn-res.keymedia.com/cms/images/us/035/0365_639194998333908766.png",
+      "desc": "'This case is about Apple's former employees stealing Apple's trade secrets for the benefit of OpenAI'",
+      "date": "2026-07-12T20:22:17+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Azernews.Az",
+        "BW Businessworld",
+        "Big News Network.com",
+        "News.az",
+        "Political Dog 101",
+        "The Middle East Observer"
+      ]
+    },
+    {
+      "title": "Critics question federal prison agency’s AI plans for inmate assessments",
+      "url": "https://www.wellandtribune.ca/thestar/politics/federal/canada-isnt-ready-to-assess-prisoners-using-ai-critics-warn/article_0a1140cc-521e-5091-96fb-356fae1bdb5b.html",
+      "domain": "wellandtribune.ca",
+      "outlet": "Welland Tribune",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wellandtribune.ca/content/tncms/assets/v3/editorial/7/19/719b4a43-104a-50cd-8029-2baee5b4a425/6a538aefeca06.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "Experts are urging Correctional Service Canada to slow down after it claimed using artificial intelligence to help create criminal profile reports for prisoners would save time and maintain accuracy, despite",
+      "date": "2026-07-12T16:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "St. Catharines Standard",
+        "The Peterborough Examiner",
+        "The Record"
+      ]
+    },
+    {
+      "title": "Amid criticism, Meta reins in new AI tool that automatically accessed public Instagram images",
+      "url": "https://jamaica-gleaner.com/article/world-news/20260712/amid-criticism-meta-reins-new-ai-tool-automatically-accessed-public",
+      "domain": "jamaica-gleaner.com",
+      "outlet": "jamaica-gleaner.com",
+      "image": "http://jamaica-gleaner.com/sites/default/files/styles/1_1_large/public/media/2026/07/12/dims.apnews%20%2824%29.jpg?h=8f654fbd&itok=zQMuM6LW",
+      "desc": "Meta has pulled the plug on a feature of a recently launched AI tool following criticism that it made Instagram accounts fodder for use in creating AI-generated images.The move on Friday came less than a week after the parent of Instagram and Facebook rolled out Muse Image, its first image-generation model available through the company’s artificial intelligence assistant, Meta AI.",
+      "date": "2026-07-12T20:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "AsiaOne",
+        "SHOOTonline",
+        "butlereagle.com"
+      ]
+    },
+    {
+      "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions | The Express Tribune",
+      "url": "https://tribune.com.pk/story/2617824/indias-tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions",
+      "domain": "tribune.com.pk",
+      "outlet": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/tata1783858882-0/tata1783858882-0-640x480.webp",
+      "desc": "AI fears shake India's $315B IT sector as clients demand faster projects, fewer engineers and lower costs",
+      "date": "2026-07-12T12:27:48+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "93.3 The Drive",
+        "BusinessLine",
+        "The Economic Times",
+        "mint"
+      ]
+    },
+    {
+      "title": "Cyber and AI careers showcased to North Wales schoolgirls",
+      "url": "https://www.northwalespioneer.co.uk/news/26269271.north-wales-pupils-inspired-coleg-cambria-cyber-event/",
+      "domain": "northwalespioneer.co.uk",
+      "outlet": "North Wales Pioneer",
+      "image": "https://www.northwalespioneer.co.uk/resources/images/21165165/",
+      "desc": "ALMOST 100 young women from schools across North Wales attended a major event at Coleg Cambria exploring careers in cyber security, AI and digital…",
+      "date": "2026-07-12T11:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "Denbighshire Free Press",
+        "North Wales Chronicle",
+        "Rhyl Journal",
+        "The Leader"
+      ]
+    },
+    {
+      "title": "Music Industry Announces Labeling System to Alert Fans of AI Use in Songs",
+      "url": "https://ksisradio.com/ixp/295/p/music-industry-announces-labeling-system-to-alert-fans-of-ai-use-in-songs/",
+      "domain": "ksisradio.com",
+      "outlet": "KSIS Radio 1050 AM",
+      "image": "https://townsquare.media/site/295/files/2026/07/attachment-ai.jpg?w=1200&q=75&format=natural",
+      "desc": "New labeling of music created with or by AI would help fans know what they’re getting, a combined group of global organizations said in July 2026.",
+      "date": "2026-07-12T20:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "92.9 NIN",
+        "KIX 105.7",
+        "NewsTalk 1290"
+      ]
+    },
+    {
+      "title": "University expert explains how lawyers can pilot artificial intelligence safely",
+      "url": "https://www.moreechampion.com.au/story/9308440/professor-mark-perry-ai-in-law-causes-30-australian-hallucinations/",
+      "domain": "moreechampion.com.au",
+      "outlet": "moreechampion.com.au",
+      "image": "https://www.moreechampion.com.au/images/transform/v1/crop/frm/254875140/55875b1e-7da6-4b3e-88c8-d38f42f45fda.jpg/r0_340_3024_1928_w1200_h630_fmax.jpg",
+      "desc": "Legal expert Mark Perry highlights over 500 global cases where lawyers cited AI-generated content. Discover why local professionals must verify AI output to avoid court issues.",
+      "date": "2026-07-12T19:45:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "gleninnesexaminer.com.au",
+        "inverelltimes.com.au",
+        "northerndailyleader.com.au"
+      ]
+    },
+    {
+      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets - The Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/07/10/business/apple-openai-lawsuit/",
+      "domain": "bostonglobe.com",
+      "outlet": "BostonGlobe.com",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/VAXPZAIH5HINO624EOIGTOCIPA.jpg?auth=bea6d5afe09ab61c9c2bf5a8bb330f3c30b80369e2791e4e2d2a1ce6c4425537&width=1440",
+      "desc": "Apple said in the lawsuit filed in a California federal court that the theft of its trade secrets was part of a “coordinated pattern of misconduct at an institutional level” by OpenAI.",
+      "date": "2026-07-12T17:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Daily Sabah",
+        "The Times of India",
+        "texarkanagazette.com"
+      ]
+    },
+    {
+      "title": "China’s reining in AI romance bots, just as women were getting serious about them",
+      "url": "https://www.smh.com.au/technology/china-s-reining-in-ai-romance-bots-just-as-women-were-getting-serious-about-them-20260712-p60emd.html",
+      "domain": "smh.com.au",
+      "outlet": "The Sydney Morning Herald",
+      "image": "https://static.ffx.io/images/$zoom_0.1283%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/d11d77fa9a7eef78c80929e1468a917ba8f4a80d",
+      "desc": "Beijing is right to confront the risks of anthropomorphic AI. But cracking down on AI boyfriends won’t make real men better listeners or marriage more appealing.",
+      "date": "2026-07-12T06:30:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Brisbane Times",
+        "The Age",
+        "WAtoday"
+      ]
+    },
+    {
+      "title": "Meta removes controversial Instagram AI photo feature after social media backlash",
+      "url": "https://www.fox35orlando.com/news/instagram-ai-muse-image-feature-opt-out-removal",
+      "domain": "fox35orlando.com",
+      "outlet": "FOX 35 Orlando",
+      "image": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/04/1200/630/P-SOCIAL-MEDIA-FALLOUT-10-_WTVT17a2_186.mp4_.00_00_00_00.Still001.jpg?ve=1&tl=1",
+      "desc": "Meta's controversial Muse Image feature automatically opted public Instagram profiles into allowing their photos to be used as reference for AI image generation. Meta removed the feature after just three days.",
+      "date": "2026-07-12T13:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        " Ammon News",
+        "SAMAA TV"
+      ]
+    },
+    {
+      "title": "OpenAI engineer’s ‘LOL’ moment set stage for legal light with Apple",
+      "url": "https://www.smh.com.au/business/companies/openai-engineer-s-lol-moment-set-stage-for-legal-light-with-apple-20260712-p60em0.html",
+      "domain": "smh.com.au",
+      "outlet": "The Sydney Morning Herald",
+      "image": "https://static.ffx.io/images/$zoom_0.1533%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/16f725106781e4a9f75422731c886be80c8894aa",
+      "desc": "When iPhone engineer Chang Liu quit for a job at OpenAI’s nascent hardware division, Apple Inc. says he left with more than just years of experience.",
+      "date": "2026-07-12T05:30:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "The Age",
+        "WAtoday"
+      ]
+    },
+    {
+      "title": "xai | NextBigFuture.com",
+      "url": "https://www.nextbigfuture.com/tag/xai",
+      "domain": "nextbigfuture.com",
+      "outlet": "NextBigFuture.com",
+      "image": "",
+      "desc": "",
+      "date": "2026-07-12T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Epoch Times"
+      ]
+    },
+    {
+      "title": "Apple sues OpenAI, alleges theft of trade secrets tied to ChatGPT hardware development",
+      "url": "https://www.ktvu.com/news/apple-sues-openai-alleges-trade-secret",
+      "domain": "ktvu.com",
+      "outlet": "KTVU FOX 2 San Francisco",
+      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/07/1200/630/gettyimages-2272966665.jpg?ve=1&tl=1",
+      "desc": "Apple has sued OpenAI, accusing the artificial intelligence company of encouraging former Apple employees to steal confidential trade secrets to help develop ChatGPT-related hardware.",
+      "date": "2026-07-12T21:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "FOX 13 Tampa Bay"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence - Latest News, Updates & Facts - Daily Star",
+      "url": "https://www.dailystar.co.uk/latest/artificial-intelligence",
+      "domain": "dailystar.co.uk",
+      "outlet": "Daily Star",
+      "image": "https://i2-prod.dailystar.co.uk/incoming/article18859440.ece/ALTERNATES/s1200/1274543",
+      "desc": "Artificial Intelligence news, updates and facts. Up-to-date information about AI.",
+      "date": "2026-07-12T20:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "mint"
+      ]
+    },
+    {
+      "title": "US tech earnings to test AI investment cycle amid 'AI fatigue' debate: Jefferies",
+      "url": "http://www.londonmercury.com/news/279179313/us-tech-earnings-to-test-ai-investment-cycle-amid-ai-fatigue-debate-jefferies",
+      "domain": "londonmercury.com",
+      "outlet": "London Mercury",
+      "image": "https://image.chitra.live/api/v1/wps/df7defd/f18f69b4-7bbf-44ce-93fe-0bfaaf71cb14/0/ANI-20260710095610-600x315.jpg",
+      "desc": "The upcoming quarterly earnings of major US technology companies will be the next key test for the artificial intelligence (AI) investment cycle, even as investors debate whether the market is witnessing \"AI fatigue\" and shifting towards cheaper markets such as India and China, according to a Jefferies report. The report, titled \"AI fatigue and rotation\", said, \"The new quarter has begun with much talk of 'AI fatigue' as investors look out for a peaking out of momentum and rotation into cheaper ...",
+      "date": "2026-07-12T17:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Calcutta News"
+      ]
+    },
+    {
+      "title": "Darkest underbelly of AI exposed as child abuse material surges",
+      "url": "https://www.cairnspost.com.au/news/queensland/ai-now-linked-to-one-in-four-child-abuse-image-cases-damning-report-reveals/news-story/f775a70566304ae799a7c219a3ebafde&memtype=anonymous&mode=premium&nk=cc9230e2097bc99674c51b4549ae3866-1783874832",
+      "domain": "cairnspost.com.au",
+      "outlet": "cairnspost.com.au",
+      "image": "https://content.api.news/v3/images/bin/b1a278b6a49820da8a8ad016259f39f2",
+      "desc": "Subscribe to the Cairns Post to get unrestricted digital access, home paper delivery, Apps for iPad and Android and much more...",
+      "date": "2026-07-12T16:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Honda, other Japan companies pay workers to spearhead AI use",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-pay-workers-to-spearhead-ai-use",
+      "domain": "asia.nikkei.com",
+      "outlet": "Nikkei Asia",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F2%2F9%2F4%2F12754920-2-eng-GB%2F29f601dfdca1-https___imgix-proxy.n8s.jp_DSXZQO3285982009072026000000-1.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
+      "desc": "TOKYO -- Employers in Japan are trying new ways of encouraging workers to use artificial intelligence on the job, in some cases rewarding them with ca",
+      "date": "2026-07-12T16:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Quality decreases as AI is introduced to online communities | Al Bawaba",
+      "url": "https://www.albawaba.net/business/quality-decreases-ai-introduced-online-1632788",
+      "domain": "albawaba.net",
+      "outlet": "Al Bawaba",
+      "image": "https://www.albawaba.net/sites/default/files/styles/default/public/2026-07/AFP__20250312__2204633926__v1__MidRes__HumanxAiConference2025.jpg?itok=-ua4eUXj",
+      "desc": "ALBAWABA - Online communities are facing content quality decreases as AI becomes more invasive and as the dead internet theory slowly becomes reality.Pr",
+      "date": "2026-07-12T15:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Trump administration targets state AI laws over ideology",
+      "url": "https://www.courant.com/2026/07/12/trump-administration-targets-state-ai-laws-over-ideology-2/",
+      "domain": "courant.com",
+      "outlet": "Hartford Courant",
+      "image": "https://www.courant.com/wp-content/uploads/2026/07/202607110500MCT_____PHOTO____US-NEWS-TRUMP-AI-STATE-LAWS-FILEPIC-GET.jpg?w=1024&h=682",
+      "desc": "The Trump administration is continuing its pushback against state artificial intelligence laws that it views as ideologically biased, proposing a new Federal Trade Commission policy. The proposed policy statement, which is open for public comment through July 31, would affect how the FTC regulates AI companies. The agency said it’s meant to address concerns that “AI companies that distort ...",
+      "date": "2026-07-12T15:00:54+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "newstribune.com"
+      ]
+    },
+    {
+      "title": "Meta's Own AI Image Detector Misses More Than Half Its Cropped Photos In Reuters Test, Exposing Deepfake Detection Gap - TechStory",
+      "url": "https://techstory.in/metas-own-ai-image-detector-misses-more-than-half-its-cropped-photos-in-reuters-test-exposing-deepfake-detection-gap/",
+      "domain": "techstory.in",
+      "outlet": "TechStory",
+      "image": "",
+      "desc": "A Reuters analysis of 40 Meta Muse Image-generated photos found that Meta's own Content Seal AI detection tool failed to identify 55% of images as AI-generated after they were cropped raising serious deepfake detection concerns ahead of the US midterm elections.",
+      "date": "2026-07-12T13:06:48+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Big News Network.com"
+      ]
+    },
+    {
+      "title": "Beijing wants women to give up AI bots as boyfriends but gender inequity stands in the way - ChinaTechNews.com",
+      "url": "https://www.chinatechnews.com/2026/07/12/125405-beijing-wants-women-to-give-up-ai-bots-as-boyfriends-but-gender-inequity-stands-in-the-way",
+      "domain": "chinatechnews.com",
+      "outlet": "ChinaTechNews.com",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/12/1600x900/logo/iStock-1079532396_1783850251358_1783850356868_76572517-0fdd-449d-8829-8fad28f31cdf.jpg",
+      "desc": "Long before the current AI boom, MIT computer scientist Joseph Weizenbaum created the first-ever rudimentary chatbot in the 1960s. It alarmed him because ... -",
+      "date": "2026-07-12T10:04:42+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "mint"
+      ]
+    },
+    {
+      "title": "3 things former engineer 'took' From Apple, per OpenAI lawsuit",
+      "url": "https://www.thenews.com.pk/latest/1408855-3-things-former-engineer-took-from-apple-per-openai-lawsuit",
+      "domain": "thenews.com.pk",
+      "outlet": "The News International",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-07-12/1408855_022933_updates.jpg",
+      "desc": "When engineer Chang Liu left Apple for OpenAI's hardware division in January, he didn't just take his experience with him, according to Apple's 40-page lawsuit filed Friday. The company says Liu...",
+      "date": "2026-07-12T09:28:08+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Times of India"
+      ]
+    },
+    {
+      "title": "From policy to classroom: India’s AI rollout faces its real test - EducationTimes.com",
+      "url": "http://www.educationtimes.com/article/campus-beat-college-life/99742231/from-policy-to-classroom-india-s-ai-rollout-faces-its-real-test",
+      "domain": "educationtimes.com",
+      "outlet": "educationtimes.com",
+      "image": "https://timess3spore.s3.amazonaws.com/ndata/et_images/desktop_image_webp/a445082b60151ab7fccca0aab7a692f1pic for portal copy (1).webp",
+      "desc": "The move is important because it places AI in everyday grammar of schooling, rather than treating it as an advanced skill, writes Shailendra Sharma - EducationTimes.com",
+      "date": "2026-07-12T08:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "ARTHUR GOLDSTUCK | Now AI can fix a heart — and patient backlogs",
+      "url": "https://www.businessday.co.za/business-times/opinion/2026-07-11-arthur-goldstuck-now-ai-can-fix-a-heart-and-patient-backlogs/",
+      "domain": "businessday.co.za",
+      "outlet": "Business Day",
+      "image": "https://www.businessday.co.za/resizer/v2/H7T4EYTP55DH7BUNIKTG3QHFNQ.jpg?smart=true&auth=5aa7d5f44cd80bc13a89bee913d9b605ee5ffcb5a0d8ee310a4b21e82ad89728&width=1200&height=630",
+      "desc": "Advanced imaging speeds complex procedures, easing pressure on overloaded surgical systems, writes Arthur Goldstuck",
+      "date": "2026-07-12T07:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "TimesLIVE"
+      ]
+    },
+    {
+      "title": "India to Augment AI Compute Capacity, Says Ashwini Vaishnaw",
+      "url": "https://timesofoman.com/article/174248-india-to-augment-ai-compute-capacity-says-ashwini-vaishnaw",
+      "domain": "timesofoman.com",
+      "outlet": "Times of Oman",
+      "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/07/1783823188-1783823188-ivmvr1wbsnxd-700x400.jpg",
+      "desc": "Union Minister for Electronics and Information Technology Ashwini Vaishnaw on Saturday said India will augment its computing capacity to support the country's growing artificial intelligence (AI) ecosystem",
+      "date": "2026-07-12T06:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "NewKerala.com"
+      ]
+    },
+    {
+      "title": "48 per cent electricity hike threatens manufacturers’ competitiveness — AGI",
+      "url": "http://businessghana.com/site/news/general/351880/Electricity-hike-threatens-competitiveness",
+      "domain": "businessghana.com",
+      "outlet": "BusinessGhana",
+      "image": "http://businessghana.com/site/img/../../cms/img/news/2026-07-10-1606550004.jpg",
+      "desc": "The Association of Ghana Industries (AGI) has raised concerns over a 48% increase in electricity costs faced by bulk industrial consumers...",
+      "date": "2026-07-12T04:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Jewish success in AI is fueling an old debate about antisemitism | The Jerusalem Post",
+      "url": "http://www.jpost.com/opinion/article-902011",
+      "domain": "jpost.com",
+      "outlet": "The Jerusalem Post | JPost.com",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/674592",
+      "desc": "The poem asks God to choose another people, saying that the Jews have no more blood to sacrifice. They have run out of prayers and “have paid for every letter of the Ten Commandments...\"",
+      "date": "2026-07-12T01:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "International Business: Apple sues OpenAI for trade secrets theft",
+      "url": "https://www.gdnonline.com:443/Details/1400367",
+      "domain": "gdnonline.com",
+      "outlet": "gdnonline.com",
+      "image": "https://www.gdnonline.com/gdnimages/20260712\\20260711_223414_3.jpg",
+      "desc": "",
+      "date": "2026-07-12T00:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    }
+  ]
+}
