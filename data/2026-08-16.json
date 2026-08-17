@@ -1,0 +1,514 @@
+{
+  "date": "2026-08-16",
+  "intro": "Mark Zuckerberg's AI strategy is facing widespread skepticism among consumers and industry observers despite his continued investment in the vision. OpenAI disbanded its preparedness team as the company moves toward an IPO, while Anthropic's Dario Amodei acknowledged that AI companies including his own have failed to deliver on their promises. Stripe is reportedly acquiring AI gateway startup OpenRouter for over $7 billion, signaling major consolidation in the AI infrastructure space.",
+  "whitelist": [
+    {
+      "title": "Why people aren't buying Mark Zuckerberg’s AI future | TechCrunch",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
+      "desc": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "date": "2026-08-16T20:32:01+00:00",
+      "tier": "whitelist",
+      "cluster_size": 226,
+      "other_outlets": [
+        " Ammon News",
+        "ABC News",
+        "AFR.net",
+        "AOL.com",
+        "Archinect",
+        "Armstrong Economics"
+      ]
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "It’s just the latest shakeup of its safety teams as it heads towards an IPO.",
+      "date": "2026-08-16T21:32:56+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "ChatGPT’s Computer History has one big privacy problem",
+      "url": "https://www.digitaltrends.com/computing/chatgpt-computer-history-unencrypted-mac-files/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-Computer-History-Feature-in-action.jpg?resize=1200%2C630",
+      "desc": "ChatGPT's new Computer History feature stores Mac activity locally, but OpenAI now warns that its files aren't encrypted and may be accessible to other programs.",
+      "date": "2026-08-16T21:04:56+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Dario Amodei admits AI companies have not delivered on their promises",
+      "url": "https://thenextweb.com/news/dario-amodei-ai-public-trust-cure-cancer-ipo",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Anthropic",
+      "image": "https://media.thenextweb.com/2026/07/anthropic-dario-amodei-open-weights-position-not-ban.jpg",
+      "desc": "Dario Amodei says the fairest criticism of AI companies, his own included, is that they have not delivered, weeks before Anthropic's expected listing.",
+      "date": "2026-08-16T21:01:31+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+ | TechCrunch",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
+      "desc": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "date": "2026-08-16T20:57:04+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "University Of Phoenix And OpenAI Could Redefine The AI Skills Gap",
+      "url": "https://www.forbes.com/sites/christinecarter/2026/08/16/university-of-phoenix-and-openai-could-redefine-the-ai-skills-gap/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a81f5db93aa5bbfa05b23aa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "University of Phoenix and OpenAI are studying AI skills gaps across women, caregivers and working mothers, raising questions about who gets time to practice at work.",
+      "date": "2026-08-16T20:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Why Anthropic’s Provenance Policy Makes AI Accountability A Boardroom Imperative",
+      "url": "https://www.forbes.com/sites/anjanasusarla/2026/08/16/why-anthropics-provenance-policy-makes-ai-accountability-a-boardroom-imperative/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a80cfd29803f9430118bd0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "With Anthropic's new watermarks, content provenance becomes an auditable evidentiary chain. Enterprises deploying AI need audit logs for complex, multi-agent systems.",
+      "date": "2026-08-16T20:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Andrew Ng Maps The AI Skills That Decide Which Teams Ship Efficiently",
+      "url": "https://www.forbes.com/sites/josipamajic/2026/08/16/andrew-ng-maps-the-ai-skills-that-decide-which-startups-ship/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a81f1df92ee18aae9858083/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Andrew Ng's skills map, built from 10,000 job postings, names four AI engineering skills. What it means for founders raising into a $510 billion venture market.",
+      "date": "2026-08-16T20:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Pixel 11 Pro Warning: Free AI Deal Has Three Costly Catches",
+      "url": "https://www.forbes.com/sites/paulmonckton/2026/08/16/pixel-11-pro-free-ai-trial-catches/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a81e4398379753032571b1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Google halved the Pixel 11 Pro's free AI Pro trial. Two catches hit power users.",
+      "date": "2026-08-16T20:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Tyga is Hollywood’s latest AI optimist",
+      "url": "https://www.businessinsider.com/tyga-ai-music-tilly-norwood-timbaland-tata-grimes-nick-carter-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a80b0d3e3df4d0cbe68677e?width=1200&format=jpeg",
+      "desc": "The 80s-inspired project sees Tyga don a new \"Miami Vice\"-esque alter ego who has a penchant for Jheri curls, sleek retro Ferraris, and synthpop.",
+      "date": "2026-08-16T19:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a81e5a4e3df4d0cbe6868de?width=1200&format=jpeg",
+      "desc": "Anthropic CEO Dario Amodei acknowledged over the weekend that the public doesn't trust AI. He said AI companies have overpromised and undersold.",
+      "date": "2026-08-16T17:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ | TechCrunch",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+      "desc": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "date": "2026-08-16T16:53:51+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy",
+      "url": "https://www.scmp.com/presented/business/topics/ai-transforming-industries/article/3363841/bruce-rockowitz-why-ai-reshaping-hong-kongs-food-economy",
+      "domain": "scmp.com",
+      "outlet": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2026/08/13/WhatsApp-Image-2026-08-12-at-10.24.02.jpeg?itok=B6qlnuGA",
+      "desc": "[The content of this article has been produced by our advertising partner.]",
+      "date": "2026-08-16T16:00:09+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "ActivTrak CEO: What 120,620 workers reveal about AI maturity | Fortune",
+      "url": "https://fortune.com/2026/08/16/activtrak-ceo-what-120620-workers-reveal-about-ai-maturity/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/heidi-farris-solid-background-q225.png?resize=1200,600",
+      "desc": "Most leaders I know are tempted to build their AI adoption strategy as if every employee should be an AI super user. Our data complicates that idea.",
+      "date": "2026-08-16T15:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "desc": "ChatGPT’s Computer History is like Windows Recall, but without the creepy screenshots. It tracks your mouse clicks and keystrokes, which is still pretty creepy.",
+      "date": "2026-08-16T14:56:40+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark",
+      "url": "https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a7eeca5e3df4d0cbe685e46?width=1200&format=jpeg",
+      "desc": "One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.",
+      "date": "2026-08-16T14:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "You can now turn off visible watermarks for AI-made content in Gemini, though the hidden watermarks are staying",
+      "url": "https://www.techradar.com/ai-platforms-assistants/gemini/gemini-now-lets-you-turn-off-the-visible-watermark-on-your-ai-creations-heres-how-to-do-it-and-how-your-content-is-still-flagged-as-ai",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/egDwtcRA3xJ4GVtrJaacxf-2560-80.jpg",
+      "desc": "The invisible watermarks are still there",
+      "date": "2026-08-16T12:30:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
+      "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/11a00570cfd4542a9e8d2ce575e18f8e04d4853b/292_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a5a2aa5ad8c269386750e4d0cf6195f",
+      "desc": "Amid fears for jobs, some film-makers say AI could enable them bypass studio giants and take more creative risks",
+      "date": "2026-08-16T12:00:25+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Rogue AI aren’t science fiction anymore",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "For years, fears about AI systems slipping human control were dismissed as speculative.",
+      "date": "2026-08-16T12:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "Israel wants ChatGPT to push its Gaza narrative Politico",
+      "url": "http://www.russiaherald.com/news/279244984/israel-wants-chatgpt-to-push-its-gaza-narrative-politico",
+      "domain": "russiaherald.com",
+      "outlet": "Russia Herald",
+      "image": "https://image.chitra.live/api/v1/wps/485709a/734bb32a-5702-4a10-82c6-2ffc6d83b84d/0/OTgzZDQ1NDMtOTE-600x315.jpg",
+      "desc": "Israel has launched a $100,000 campaign aimed at making AI answers about Gaza and the IDF more Israel-friendly, Politico reports Read Full Ar",
+      "date": "2026-08-16T15:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 21,
+      "other_outlets": [
+        "Arab Herald",
+        "Austin Globe",
+        "Baton Rouge Post",
+        "Big News Network.com",
+        "Greek Herald",
+        "Herald Globe"
+      ]
+    },
+    {
+      "title": "US to tell partners they must pick sides in AI race with China",
+      "url": "https://www.itnews.com.au/news/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china-628198",
+      "domain": "itnews.com.au",
+      "outlet": "iTnews",
+      "image": "https://i.nextmedia.com.au/News/road-fork.jpg",
+      "desc": "Under the \"Pax Silica agreement\".",
+      "date": "2026-08-16T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Business Day",
+        "ChinaTechNews.com",
+        "DealStreetAsia",
+        "The Economic Times",
+        "The Manila Times"
+      ]
+    },
+    {
+      "title": "AI technology will solve the housing crisis in the Central West, builder says",
+      "url": "https://www.oberonreview.com.au/story/9329519/chandolin-construction-owner-says-this-will-solve-housing-crisis/",
+      "domain": "oberonreview.com.au",
+      "outlet": "oberonreview.com.au",
+      "image": "https://www.oberonreview.com.au/images/transform/v1/crop/frm/gfyFBZ2A3aREPWrpf4KzA3/575f6baf-d166-4767-970d-3b42a6e572af.png/r0_283_3999_2382_w1200_h630_fmax.jpg",
+      "desc": "Find out how a project underway in Bathurst is the blueprint for the future of the housing industry. Chandolin Construction owner Sarah Dimitrievski explains.",
+      "date": "2026-08-16T19:45:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "blayneychronicle.com.au",
+        "centralwesterndaily.com.au",
+        "lithgowmercury.com.au",
+        "mudgeeguardian.com.au",
+        "westernadvocate.com.au"
+      ]
+    },
+    {
+      "title": "Goa Man Uses ChatGPT To Find Lost Footwear Outside Ujjain Temple",
+      "url": "https://www.deccanchronicle.com/lifestyle/viral-news/goa-man-uses-chatgpt-to-find-lost-footwear-outside-ujjain-temple-1979595",
+      "domain": "deccanchronicle.com",
+      "outlet": "deccanchronicle.com",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/08/16/2076967-cg.webp",
+      "desc": "Shubhang Borkar turned his phone into a scanning device outside the Mahakal Temple in Madhya Pradesh's Ujjain, sharing snapshots of footwear with the chatbot until it flagged his missing pair",
+      "date": "2026-08-16T09:52:31+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Free Press Journal",
+        "The Siasat Daily",
+        "The Tribune"
+      ]
+    },
+    {
+      "title": "Teen charged with murder of mother and brother used ChatGPT to create ‘fantasy stories’ about killing family, officials say",
+      "url": "https://www.yahoo.com/news/us/articles/teen-charged-murder-mother-brother-103030761.html",
+      "domain": "yahoo.com",
+      "outlet": "Yahoo News",
+      "image": "https://s.yimg.com/lo/mysterio/api/8539c97ff2bc2c0748381f96d248f60f4fa4c1eb1b2c8d89a1a876749c2e0920/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F73e12ebf8ec1e9e0a30e2b29dd921b77.jpg",
+      "desc": "A Massachusetts teen charged in the double murder of his mother and younger brother had used the artificial intelligence chatbot ChatGPT to search for “theoretical ideas or fantasy stories” about the ...",
+      "date": "2026-08-16T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "CP24",
+        "Lanka Newspapers"
+      ]
+    },
+    {
+      "title": "OK AI QUANT Releases 2026 Mid-Year Report and 2027 Strategic Plan",
+      "url": "http://www.parisguardian.com/news/279239231/ok-ai-quant-releases-2026-mid-year-report-and-2027-strategic-plan",
+      "domain": "parisguardian.com",
+      "outlet": "Paris Guardian",
+      "image": "https://image.chitra.live/api/v1/wps/eaae3f4/b90ff6ae-5ccd-4435-8143-2408c9294211/0/ANI-20260813073354-600x315.jpg",
+      "desc": "2026 represents an important stage in the development of the global quantitative trading industry. Market research indicates that the global AI-driven trading market is expected to grow from US$24.53 billion in 2025 to US$27.85 billion in 2026, representing a compound annual growth rate (CAGR) of 13.6%. Meanwhile, the AI-driven investment analysis market is growing at an even faster pace, with a CAGR of 26.6% and an expected market value of US$2.48 trillion by 2034. Against the backdrop of rapid...",
+      "date": "2026-08-16T14:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Europe Sun",
+        "Irish Sun"
+      ]
+    },
+    {
+      "title": "Health care experts urge caution when using AI for self-diagnosis",
+      "url": "https://www.wsfa.com/2026/08/16/health-care-experts-urge-caution-when-using-ai-self-diagnosis/",
+      "domain": "wsfa.com",
+      "outlet": "https://www.wsfa.com",
+      "image": "https://gray-wsfa-prod.gtv-cdn.com/resizer/v2/G242NMKWIREXBB2ZTGFV6MX2BQ.jpg?auth=6b5a871c9a7d4fd8da9456ee39d2cd79e6f441d1d371b61e46ada441ef00b771&width=1200&height=600&smart=true",
+      "desc": "Despite its limitation, AI can still be a great tool, Momaya said.",
+      "date": "2026-08-16T18:28:19+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "https://www.wbrc.com"
+      ]
+    },
+    {
+      "title": "Anthropic IPO valuation hinges on $190B-$200B 2028 revenue forecast: sources",
+      "url": "https://nypost.com/2026/08/16/business/anthropic-ipo-valuation-hinges-on-190b-200b-2028-revenue-forecast-sources/",
+      "domain": "nypost.com",
+      "outlet": "New York Post",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137619987_666427.jpg?quality=75&strip=all&w=1024",
+      "desc": "As Anthropic prepares for what could be one of the biggest IPOs on record, Wall Street is looking further into the future than it commonly does to put a price on the AI company, valuing it based on how much revenue it could generate two years from now.",
+      "date": "2026-08-16T18:08:23+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Business Day"
+      ]
+    },
+    {
+      "title": "U.S. military wants AI dominance. Feuds and China may thwart it - ChinaTechNews.com",
+      "url": "https://www.chinatechnews.com/2026/08/17/127601-u-s-military-wants-ai-dominance-feuds-and-china-may-thwart-it",
+      "domain": "chinatechnews.com",
+      "outlet": "ChinaTechNews.com",
+      "image": "https://www.inquirer.com/resizer/v2/WW37BBAHVRKWBLBKJAN5ZID5BI.jpg?auth=68b37616a62f4e07513f9ef0f96b5e2bf95e7d8d932c8007ec907b6fce297fc5&width=760&height=507&smart=true",
+      "desc": "WASHINGTON — In mid-July, many of the country’s biggest military contractors received a letter from the Air Force with a stern warning: By Sept. 1, all ... -",
+      "date": "2026-08-16T17:57:22+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Inquirer.com"
+      ]
+    },
+    {
+      "title": "AI boss fires first human worker in San Francisco",
+      "url": "https://americanbazaaronline.com/2026/08/16/ai-boss-fires-human-worker-in-san-francisco-486475/",
+      "domain": "americanbazaaronline.com",
+      "outlet": "The American Bazaar",
+      "image": "https://americanbazaaronline.com/wp-content/uploads/2026/08/AI-boss.png",
+      "desc": "An AI manager running a San Francisco store fired a human worker, highlighting the growing role of AI in workplace management.",
+      "date": "2026-08-16T17:13:21+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Free Press Journal"
+      ]
+    },
+    {
+      "title": "How ChatGPT helped Goa man locate his lost shoes at Ujjain temple",
+      "url": "https://www.rediff.com/news/report/how-chatgpt-helped-goa-man-locate-his-lost-shoes-at-ujjain-temple/20260816.htm",
+      "domain": "rediff.com",
+      "outlet": "Rediff",
+      "image": "https://im.rediff.com/1200-630/news/2026/aug/16mahakal-temple.jpg",
+      "desc": "A Goa-based man, Shubhang Borkar, ingeniously used ChatGPT to locate his lost footwear amidst a pile of shoes outside the Mahakal Temple in Ujjain, Madhya Pradesh. He uploaded images of the footwear and his own shoes to the AI chatbot, which then successfully identified his pair, showcasing a practical and unusual application of artificial intelligence.",
+      "date": "2026-08-16T16:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Emails Show Anthropic CEO's Wife Asked Epstein to Invest in 'Luxury Porn' Company after His Conviction",
+      "url": "https://www.ibtimes.com/emails-show-anthropic-ceos-wife-asked-epstein-invest-luxury-porn-company-after-his-conviction-3806462",
+      "domain": "ibtimes.com",
+      "outlet": "International Business Times",
+      "image": "https://d.ibtimes.com/en/full/4652158/interlochen-report-reveals-decades-sexual-abuse.png",
+      "desc": "Cami Clark, wife of Anthropic CEO, sought investment from Jeffrey Epstein for an adult startup after his 2008 conviction, raising questions about her advisory role to the AI leader.",
+      "date": "2026-08-16T12:59:06+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "International Business Times UK"
+      ]
+    },
+    {
+      "title": "NVIDIA, Indosat and UGM open Indonesia's first university AI research center in Yogyakarta",
+      "url": "https://gcn.com/nvidia-indosat-ugm-open-indonesia-first/20846/",
+      "domain": "gcn.com",
+      "outlet": "GCN",
+      "image": "https://gcn.com/wp-content/uploads/2026/08/nvidia-indosat-ugm-open-indonesia-first-photo-scaled.png",
+      "desc": "NVIDIA, Indosat Ooredoo Hutchison and Universitas Gadjah Mada launched Indonesia's first university-based AI technology center in Yogyakarta on August 13, 2026.",
+      "date": "2026-08-16T12:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Netivei Israel deploys artificial intelligence based adaptive traffic lights | The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-905643",
+      "domain": "jpost.com",
+      "outlet": "The Jerusalem Post | JPost.com",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/534105",
+      "desc": "Netivei Israel's sample comprises 25 junctions presenting different scenarios. The average time saving at those junctions over the course of the day was 25 seconds per vehicle.",
+      "date": "2026-08-16T11:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Young Korean workers hit hardest as AI automation slashes jobs - The Korea Times",
+      "url": "https://www.koreatimes.co.kr/economy/20260816/young-korean-workers-hit-hardest-as-ai-automation-slashes-jobs",
+      "domain": "koreatimes.co.kr",
+      "outlet": "koreatimes.co.kr",
+      "image": "https://newsimg.koreatimes.co.kr/2026/08/16/48fcc600-9f03-45c9-b0e2-3aa0012d1109.jpg",
+      "desc": "More than half of the jobs lost by young Koreans in July were concentrated in industries heavily exposed to artificial intelligence (AI). This mark...",
+      "date": "2026-08-16T07:16:03+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Data centre S-Reits power ahead on AI and cloud growth",
+      "url": "https://www.businesstimes.com.sg/companies-markets/data-centre-s-reits-power-ahead-ai-and-cloud-growth",
+      "domain": "businesstimes.com.sg",
+      "outlet": "The Business Times",
+      "image": "https://cassette.sphdigital.com.sg/image/businesstimes/89f376981ab86f766385669c85927f06f0983191554e0714743df65993489bfe?w=1920&f=webp",
+      "desc": "Industry analysts highlight a broadly positive sector outlook, driven by ongoing digitalisation Read more at The Business Times.",
+      "date": "2026-08-16T06:30:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Who Is Cami Clark? Anthropic CEO's Wife Asked Jeffrey Epstein To Fund Her 'Luxury Porn' Company",
+      "url": "https://www.oneindia.com/international/who-is-cami-clark-anthropic-ceos-wife-asked-jeffrey-epstein-to-fund-her-luxury-porn-company-8177767.html",
+      "domain": "oneindia.com",
+      "outlet": "https://www.oneindia.com",
+      "image": "https://imagesvs.oneindia.com/img/2026/08/camiclarkonjeffreyepstein-99911786858208.jpg",
+      "desc": "Anthropic CEO Dario Amodei's wife Cami Clark asked Jeffrey Epstein to invest in her 'luxury porn' company, according to emails in the Epstein files.",
+      "date": "2026-08-16T05:30:37+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Times of India"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence & Technologies",
+      "url": "http://www.pambazuka.org/category/ict-media-security",
+      "domain": "pambazuka.org",
+      "outlet": "pambazuka.org",
+      "image": "",
+      "desc": "",
+      "date": "2026-08-16T03:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data centre deal",
+      "url": "https://www.business-standard.com/technology/tech-news/nvidia-eyes-investing-3-billion-in-sb-energy-under-openai-data-centre-deal-126081600049_1.html",
+      "domain": "business-standard.com",
+      "outlet": "business-standard.com",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/08/thumb/featurecrop/1200X628/1778225186-63.JPG",
+      "desc": "The ​proposed investment is ​part of Nvidia's talks with OpenAI and SB Energy on ​providing around $100 billion in credit support for the planned Ohio data centre campus",
+      "date": "2026-08-16T02:15:55+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Lufkin Daily News"
+      ]
+    }
+  ]
+}
