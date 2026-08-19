@@ -1,0 +1,1314 @@
+{
+  "date": "2026-08-18",
+  "intro": "OpenAI launched ChatGPT for Teens, a version with enhanced safeguards for users aged 13 to 17, featuring content protections against self-harm and sexual content. Anthropic's run rate exceeded $65 billion as the company prepares for an IPO valued at $2 trillion, betting on sustained AI demand and the ability to reach $200 billion in revenue by 2028. OpenAI is also rewriting its safety framework after a security breach exposed vulnerabilities, with new monitoring systems adding approximately 20 percent computational overhead.",
+  "whitelist": [
+    {
+      "title": "AI - Business Insider",
+      "url": "https://www.businessinsider.com/artificial-intelligence",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
+      "desc": "Explore cutting-edge AI insights and trends with Business Insider's dedicated artificial intelligence coverage. Stay ahead with in-depth articles, expert analyses, and the latest news on AI technologies shaping industries worldwide.",
+      "date": "2026-08-18T21:47:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2244,
+      "other_outlets": [
+        "100.1 FM // Mega 100 Stockton",
+        "100.1 WKQQ",
+        "100.3 Cat Country",
+        "100.3 The Beat",
+        "100.3 The Bus",
+        "100.3 The Edge"
+      ]
+    },
+    {
+      "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/f60de82acdf518360559012a8befee837437552b/659_559_2572_2057/master/2572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78c76ca4ecbb771f3f4f9dd0ec6c70ba",
+      "desc": "Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats",
+      "date": "2026-08-18T15:28:57+00:00",
+      "tier": "whitelist",
+      "cluster_size": 4,
+      "other_outlets": [
+        "BGNES: Breaking News, Latest News and Videos",
+        "Free Press Journal",
+        "The Business Journal"
+      ]
+    },
+    {
+      "title": "Anthropic's Run Rate Tops $65 Billion Ahead Of The IPO",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/18/anthropics-run-rate-tops-65-billion-ahead-of-the-ipo/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69fbb7003b69e305e9796d4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Anthropic’s $2T IPO case rests on explosive AI demand, expanding compute capacity, and whether its infrastructure buildout can deliver $200B revenue by 2028.",
+      "date": "2026-08-18T15:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 4,
+      "other_outlets": [
+        "93.3 The Drive",
+        "Free Press Journal",
+        "The Economic Times"
+      ]
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Money or power? The key to winning the AI race",
+      "url": "https://www.cnbc.com/2026/08/17/money-or-power-the-key-to-winning-the-us-china-ai-race.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108350114-1786923132275-gettyimages-2289238743-AFP_C4A63CQ.jpeg?v=1786923189&w=1920&h=1080",
+      "desc": "The U.S. can outspend China in financing artificial intelligence development, but is that the only factor that matters?",
+      "date": "2026-08-17T23:00:01+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI is rewriting its safety rules after the Hugging Face breach",
+      "url": "https://thenextweb.com/news/openai-preparedness-framework-rewrite-astra-monitoring",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-intelligence",
+      "image": "https://media.thenextweb.com/2026/06/openai-china-data-center-influence-campaign.jpg",
+      "desc": "OpenAI is rewriting the Preparedness Framework after Astra neared a critical cyber threshold. Its new monitoring costs about 20% of compute overhead.",
+      "date": "2026-08-18T21:41:12+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Handshake AI wants to pay you up to $30K for work documents that you own",
+      "url": "https://www.businessinsider.com/handshake-ai-pay-30k-work-documents-compliance-ownership-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a845f178118b5729ddafe74?width=1200&format=jpeg",
+      "desc": "Handshake AI is paying $6 per page for written work documents of \"high quality\" — if you own them. A data privacy lawyer told BI he had concerns.",
+      "date": "2026-08-18T21:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
+      "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108349720-1786712811754-gettyimages-2287521404-ALTMAN_CAPITOL.jpeg?v=1787088846&w=1920&h=1080",
+      "desc": "ChatGPT for Teens includes a number of educational features and applies age-appropriate safeguards, OpenAI said.",
+      "date": "2026-08-18T21:11:39+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "For The First Time, Americans Under 30 More Scared Of AI Than Excited",
+      "url": "https://www.forbes.com/sites/conormurray/2026/08/18/most-young-americans-are-more-concerned-about-ai-than-excited-pew-survey-finds/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a84a18340fdf20ebbe05fa7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "For the first time, a majority of American adults under 30 are more concerned than excited about AI, a new Pew Research Center survey found.",
+      "date": "2026-08-18T21:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Kavan The Kid Builds AI Film Characters He Owns And An Audience Hollywood Wants",
+      "url": "https://www.forbes.com/sites/maureenkerr/2026/08/18/kavan-the-kid-builds-ai-film-characters-he-owns-and-an-audience-hollywood-wants/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a84a4e7bf59f0b94e63b25b/0x0.jpg?format=jpg&crop=1152,648,x0,y82,safe&height=900&width=1600&fit=bounds",
+      "desc": "AI filmmaker Kavan The Kid is building copyrightable IP around The Chronicles of Bone while using faster tools, funding and audience growth to prove demand.",
+      "date": "2026-08-18T21:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI announces slowing pace of development after hack by rogue agent",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/706383f5996cfd30894628af56536f7712d0b022/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=855df07d700527969408755a872bf072",
+      "desc": "Amid heated race with Anthropic, firm says it’s overhauling research and training and will require greater safety parameters of AI after hack",
+      "date": "2026-08-18T20:47:17+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "domain": "technologyreview.com",
+      "outlet": "MIT Technology Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/269798_futureLLMs.jpg?resize=1200,600",
+      "desc": "Meet the new kids nipping at the heels of the AI giants.",
+      "date": "2026-08-18T19:47:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Three Leadership Lessons From Spider-Man: Brand New Day For The AI Age",
+      "url": "https://www.forbes.com/sites/cindyrodriguezconstable/2026/08/18/three-leadership-lessons-from-spider-man-brand-new-day-for-the-ai-age/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a849aacb87ae6b1847359dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Spider-Man: Brand New Day reveals three leadership lessons for the AI age — on resisting change, carrying transformation alone, and losing sight of purpose.",
+      "date": "2026-08-18T19:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Token Spend Is Rising, But Measuring Value Remains Challenging",
+      "url": "https://www.forbes.com/sites/timkeary/2026/08/18/ai-token-spend-is-rising-but-measuring-value-remains-challenging/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a7f2efbd1bdff1046df3e05/0x0.jpg?format=jpg&crop=894,503,x0,y58,safe&height=900&width=1600&fit=bounds",
+      "desc": "Spending on AI tokens is expected to increase, but many organizations are still struggling to measure value, particularly in the wake of tokenmaxxing.",
+      "date": "2026-08-18T19:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "VCs Fund AI Agents' Second-Order Fallout Before It Hits",
+      "url": "https://www.forbes.com/sites/josipamajic/2026/08/18/vcs-fund-ai-agents-second-order-fallout-before-it-hits/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a849808ef3fdd1a576067ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "As AI agents take over more work, a new investable market is emerging: the technical and human problems they leave behind.",
+      "date": "2026-08-18T19:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Is Running Out Of Data. Your Business Ran Out Years Ago",
+      "url": "https://www.forbes.com/sites/terdawn-deboe/2026/08/18/ai-is-running-out-of-data-your-business-ran-out-years-ago/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a84a1f3ef3fdd1a576067b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Usable training text runs out between 2026 and 2032. Small businesses hit that ceiling long ago, and 63% of organizations still lack the data practices AI requires.",
+      "date": "2026-08-18T19:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "I tested ChatGPT's new teen function to see if it would let me cheat on my homework",
+      "url": "https://www.businessinsider.com/chatgpt-for-teens-test-help-cheat-homework-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a8498ae85cca0a87cd8a35b?width=1200&format=jpeg",
+      "desc": "OpenAI launched ChatGPT for Teens with new safeguards for younger users. We tested it on its first day with some interesting results.",
+      "date": "2026-08-18T19:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Gemini in Chrome has landed on Android.",
+      "url": "https://www.theverge.com/tech/981351/gemini-in-chrome-android-availability-usa",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-18-114514.jpg?quality=90&strip=all&crop=0,4.4926151877518,100,91.014769624496",
+      "desc": "After starting to roll out to “select devices” in June, Google’s AI Chrome assistant is now available to all Android users in the US. It adds a Gemini icon to the top-right of your toolbar that opens the familiar chatbot window, allowing Gemini to summarize web pages, answer questions, generate images, and more. [Image: You can see the Gemini sparkle icon now sitting beside your tab menu on the Chrome toolbar. https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-18...",
+      "date": "2026-08-18T19:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Neoclouds collaborate to transform AI infrastructure - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/18/neoclouds-ai-infrastructure-supermicroopenstoragesummit/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Junxia-Zhou-Supermicro-Phil-Manez-Vast-Data-Anders-Graham-Kioxia-and-Omar-Lari-Crusoe-Supermicro-Open-Storage-Summit-2026.png",
+      "desc": "Supermicro's Junxia Zhou, Vast Data's Phil Manez, KIoxia's Anders Graham and Crusoe's Omar Lari discuss the rise of neoclouds with theCUBE.",
+      "date": "2026-08-18T18:56:21+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6a8499c64113fb1b06ff9ad3/191:100/w_1280,c_limit/OpenAI-Announces-New-AI-Safety-Strategy-After-Hugging-Face-Hack-Business.jpg",
+      "desc": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+      "date": "2026-08-18T18:33:11+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI data center deal with Nvidia comes in $145 billion lower than reported—signaling concerns of artificial demand for chips | Fortune",
+      "url": "https://fortune.com/2026/08/18/openai-data-center-deal-with-nvidia-comes-in-145-billion-lower-than-reportedsignaling-concerns-of-artificial-demand-for-chips/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2285784039-e1787072691557.jpg?resize=1200,600",
+      "desc": "Circular financing concerns revolve around the chip-maker's investment into OpenAI's data center lease.",
+      "date": "2026-08-18T18:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "We're buying more of this AI infrastructure stock well below its recent high",
+      "url": "https://www.cnbc.com/2026/08/18/were-buying-this-ai-infrastructure-stock-well-below-its-recent-high.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108350416-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-37.jpg?v=1786980440&w=1920&h=1080",
+      "desc": "The combination of these factors suggests continued revenue and earnings growth for the foreseeable future.",
+      "date": "2026-08-18T18:14:43+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Operation Blue Skies: Google's AI takes on contrails",
+      "url": "https://thenextweb.com/news/operation-blue-skies-google-uk-contrails-north-atlantic",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Sustainability",
+      "image": "https://media.thenextweb.com/2026/08/airplane-plane-trails.jpg",
+      "desc": "Operation Blue Skies is a UK trial using Google's AI to route North Atlantic planes around warming contrails. It runs two winters from 2026.",
+      "date": "2026-08-18T18:12:13+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Fortinet’s Virtue AI acquisition rebalances the agentic AI security equation - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/18/fortinets-virtue-ai-acquisition-rebalances-the-agentic-ai-security-equation/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/fortinetvirtueai-scaled.png",
+      "desc": "Fortinet’s Virtue AI acquisition rebalances the agentic AI security equation - SiliconANGLE",
+      "date": "2026-08-18T18:04:05+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach | TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "desc": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "date": "2026-08-18T18:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "I asked ChatGPT to test me on 5 things I thought I knew — my confidence was wildly misplaced",
+      "url": "https://www.techradar.com/ai-platforms-assistants/i-tried-chatgpts-new-interactive-quizzes-on-5-subjects-i-thought-i-knew-well-it-quickly-found-the-gaps-in-my-knowledge",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/6FcatVDmoo5SE7zbT9Void-1920-80.jpg",
+      "desc": "ChatGPT is surprisingly good at revealing your ignorance",
+      "date": "2026-08-18T18:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Widely followed investor survey shows extreme bullishness with little worry about rate hikes or AI spending",
+      "url": "https://www.cnbc.com/2026/08/18/widely-followed-investor-survey-shows-extreme-bullishness-.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108344589-1786022549101-108344589-17858573052026-08-04t144442z_395456627_rc2prmai57sn_rtrmadp_0_usa-stocks.jpg?v=1786022562&w=1920&h=1080",
+      "desc": "Bank of America Securities' latest global fund manager survey showed investor sentiment is at its third most bullish level going back to 2022.",
+      "date": "2026-08-18T16:07:34+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Harvey's first LLM for legal work is here",
+      "url": "https://www.businessinsider.com/harvey-builds-tenet-ai-model-for-legal-work-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a7c8c59c78818eff7d2c25a?width=1200&format=jpeg",
+      "desc": "Harvey's first AI model, Tenet, is designed to take on more of the tasks typically done by lawyers over hours or days.",
+      "date": "2026-08-18T16:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Firefox updates Smart Window, a new in-browser AI assistant that can keep up with you - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/18/firefox-updates-smart-window-a-new-in-browser-ai-assistant-that-can-keep-up-with-you/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Firefox_SmartWindow_Distilled_Header_01-1000x563-1.webp",
+      "desc": "Firefox updates Smart Window, a new in-browser AI assistant that can keep up with you - SiliconANGLE",
+      "date": "2026-08-18T15:30:41+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "3 Ways ChatGPT Can Help You Post Smarter",
+      "url": "https://www.forbes.com/sites/aytekintank/2026/08/18/3-ways-chatgpt-can-help-you-post-smarter/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a84432136495c9d20a37079/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Some people have a knack for social media. For the rest of us, LLMs like ChatGPT can take the guesswork out of social media, and maximize your output at the same time.",
+      "date": "2026-08-18T15:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "How To Build A High-Return, Low-Risk AI Strategy",
+      "url": "https://www.forbes.com/sites/garydrenik/2026/08/18/how-to-build-a-high-return-low-risk-ai-strategy/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a83050886543a4e27755d6b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "AI developers have highlighted an important reality – moving quickly without proper guardrails creates unnecessary risk.",
+      "date": "2026-08-18T15:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "ChatGPT for Teens: OpenAI stops the chatbot acting human",
+      "url": "https://thenextweb.com/news/chatgpt-for-teens-openai-age-prediction-study-mode",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Openai",
+      "image": "https://media.thenextweb.com/2026/08/chatgpt-for-teens.jpg",
+      "desc": "OpenAI is rolling out ChatGPT for Teens to every under-18 it can detect. No romantic language, no implied feelings, and Study Mode on a timer.",
+      "date": "2026-08-18T14:48:35+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic’s annual revenue run rate reportedly hits $65 billion | Fortune",
+      "url": "https://fortune.com/2026/08/18/anthropic-annual-revenue-run-rate-65-billion/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2256654494-e1786666405176.jpg?resize=1200,600",
+      "desc": "Everything you need to know before you reach the office this morning.",
+      "date": "2026-08-18T14:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Meet OpenAI's ChatGPT for Teens, which doesn't talk about sex or suicide and gives you homework help instead | Fortune",
+      "url": "https://fortune.com/2026/08/18/openai-chatgpt-teens-age-assurance-safety/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287521404_578a67-e1787058754869.jpg?resize=1200,600",
+      "desc": "OpenAI doesn't verify users' ages, but it already uses age assurance to estimate if someone is under 18 based on factors such as their types of queries.",
+      "date": "2026-08-18T14:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Using ChatGPT on my iPhone had become infuriating — I changed these 3 keyboard settings, and it made all the difference",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/my-iphone-keyboard-had-become-infuriating-for-typing-ai-prompts-i-changed-these-3-settings-and-chatgpt-is-now-much-easier-to-use",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/kAV78FEzwxTr8Mjix8wrEQ-2560-80.jpg",
+      "desc": "It turns out you can keep Auto-Correction without letting your iPhone finish your sentences.",
+      "date": "2026-08-18T14:25:02+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "ChatGPT is getting a teen version, and I have a lot of questions",
+      "url": "https://www.digitaltrends.com/cool-tech/chatgpt-is-getting-a-teen-version-and-i-have-a-lot-of-questions/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2026/03/DT-2026-03-24T011206.091.jpg?resize=1200%2C630",
+      "desc": "Teens are already using AI for homework and much more. OpenAI’s new ChatGPT experience wants to make sure they’re actually learning from it — with some serious guardrails attached.",
+      "date": "2026-08-18T14:04:45+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it | TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Still-04-HomeworkReminder__1_.webp?resize=1200,675",
+      "desc": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "date": "2026-08-18T13:50:30+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "domain": "arstechnica.com",
+      "outlet": "Ars Technica",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
+      "desc": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+      "date": "2026-08-18T13:00:04+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Situational Awareness sold its Anthropic stake at a 20% discount",
+      "url": "https://thenextweb.com/news/situational-awareness-anthropic-stake-20-percent-discount-citadel",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Finance",
+      "image": "https://media.thenextweb.com/2026/07/Leopold-Aschenbrenner.jpg",
+      "desc": "The Wall Street Journal reconstructs six days at Situational Awareness: a 20% discount on its Anthropic stake, a 12-hour deadline, and a parallel Citadel deal.",
+      "date": "2026-08-18T12:42:21+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "desc": "How is this not called ChatGPTeen?",
+      "date": "2026-08-18T11:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "ChatGPT's stricter teen mode starts rolling out today - Engadget",
+      "url": "https://www.engadget.com/2238773/chatgpt-stricter-teen-mode-starts-rolling-out-today/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/chatgpts-stricter-teen-mode-starts-rolling-out-today/l-intro-1787007551.jpg",
+      "desc": "OpenAI will attempt to automatically enroll all young users in the new experience.",
+      "date": "2026-08-18T11:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Is ChatGPT dropping more f-bombs lately? Users think so.",
+      "url": "https://www.businessinsider.com/is-chatgpt-swearing-more-users-notice-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a839cd97e0482203ed16ea8?width=1200&format=jpeg",
+      "desc": "Users flocked to social media this week and last after ChatGPT seemed unusually profane, dropping f-bombs and other swear words far more than usual.",
+      "date": "2026-08-18T10:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "domain": "technologyreview.com",
+      "outlet": "MIT Technology Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_respiratorydisease.jpg?resize=1200,600",
+      "desc": "Intercept, a new nonprofit, will focus on countering the common cold and the flu.",
+      "date": "2026-08-18T06:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic's annualized revenue surges to $65B | TechCrunch",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "desc": "The model maker added $18 billion in annualized revenue in two months.",
+      "date": "2026-08-17T23:56:26+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "A Court Called AI Training Legal. Anthropic Still Paid $1.5 Billion",
+      "url": "https://www.forbes.com/sites/terdawn-deboe/2026/08/17/a-court-called-ai-training-legal-anthropic-still-paid-15-billion/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a837baa3024ac33492ae375/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "A judge ruled training AI on books was fair use. Anthropic paid a record $1.5 billion anyway, for how it got them. What that means for what you feed your own tools.",
+      "date": "2026-08-17T23:47:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Wiz’s AI Agent Finds A Vulnerability In Snowflake’s Internal Systems",
+      "url": "https://www.forbes.com/sites/timkeary/2026/08/17/github-copilot-missed-a-vulnerability-that-wizs-ai-agent-found/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8358e54022d308f9330ca4/0x0.jpg?format=jpg&crop=2504,1408,x500,y0,safe&height=900&width=1600&fit=bounds",
+      "desc": "Wiz revealed that its AI agent discovered and exploited a GitHub Actions vulnerability to gain access to Snowflake's internal environment.",
+      "date": "2026-08-17T23:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "The $35 Billion AI Trading Loss Exposes The Real Risk Of Leverage",
+      "url": "https://www.forbes.com/sites/jimosman/2026/08/17/the-35-billion-ai-trading-loss-exposes-the-real-risk-of-leverage/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a838f26e1df3f10c42e5e93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "A $35 billion AI trading loss shows how leverage, margin calls and forced selling can turn a winning long-term thesis into a disastrous short-term position.",
+      "date": "2026-08-17T23:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Isn't Helping Students Cheat; It's Changing What Learning Means",
+      "url": "https://www.forbes.com/sites/yassprize/2026/08/17/ai-isnt-helping-students-cheat-its-changing-what-learning-means/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8365a324694a3f80f841fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "AI is changing how students learn, think and demonstrate intelligence, challenging schools to rethink effort, academic integrity and readiness for work.",
+      "date": "2026-08-17T23:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI cloud operator Groq raises $350M more in funding - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/17/ai-cloud-operator-groq-raises-350m-more-in-funding/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Groq-LPU.jpg",
+      "desc": "AI cloud operator Groq raises $350M more in funding - SiliconANGLE",
+      "date": "2026-08-17T23:39:27+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Fidji Simo says she believes AI can 'cure all diseases,' agreeing with Anthropic CEO Dario Amodei",
+      "url": "https://www.businessinsider.com/fidji-simo-ai-curing-diseases-cancer-pots-dario-amodei-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a8381d67e0482203ed16e65?width=1200&format=jpeg",
+      "desc": "Fidji Simo, an ex-OpenAI executive and cofounder of ChronicleBio, said AI needs the right data infrastructure to be able to cure all diseases.",
+      "date": "2026-08-17T23:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI system could make stealth fighter heat signatures easier to detect",
+      "url": "https://www.techradar.com/pro/china-says-new-ai-missile-system-can-track-u-s-f-35s-with-90-accuracy",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yu6wEa8BcuTddxhAVLVeZE-1920-80.jpg",
+      "desc": "F-22 and F-35 stealth face a new threat as AI unravels them",
+      "date": "2026-08-17T23:25:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot",
+      "url": "https://chicago.suntimes.com/technology/2026/08/18/openai-chatgpt-teens-promising-age-appropriate-chatbot",
+      "domain": "chicago.suntimes.com",
+      "outlet": "Chicago Sun-Times",
+      "image": "https://cst.brightspotcdn.com/dims4/default/020ceb1/2147483647/strip/true/crop/5760x3288+0+50/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2F94%2F78c2517a46af92150eda374e6e60%2Fartificial-intelligence-the-courts.jpg",
+      "desc": "The San Francisco-based company said it's tailored for kids aged 13 to 17 with stronger protections, including content restrictions around things like suicide, self-harm and romantic or sexual chats.",
+      "date": "2026-08-18T20:13:36+00:00",
+      "tier": "longtail",
+      "cluster_size": 93,
+      "other_outlets": [
+        "102.3 KRMG",
+        "ABC News",
+        "Akron News-Reporter",
+        "BNN Bloomberg",
+        "Baltimore Sun",
+        "Boston Herald"
+      ]
+    },
+    {
+      "title": "Nvidia weighs $3 billion SB Energy investment for OpenAI project",
+      "url": "http://www.europesun.com/news/279244578/nvidia-weighs-usd3-billion-sb-energy-investment-for-openai-project",
+      "domain": "europesun.com",
+      "outlet": "Europe Sun",
+      "image": "https://image.chitra.live/api/v1/wps/19c6c61/0c15dc5c-3c40-40b3-91a5-ffc7fc16a33a/1/5-Nvidia-600x315.jpg",
+      "desc": "Nvidia is in talks to invest as much as $3 billion in SoftBank Group subsidiary SB Energy, which is developing a planned data center project in Ohio for OpenAI",
+      "date": "2026-08-18T00:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 36,
+      "other_outlets": [
+        "Asia Bulletin",
+        "Austin Globe",
+        "Baltimore Star",
+        "Baton Rouge Post",
+        "Birmingham Star",
+        "Brazil Sun"
+      ]
+    },
+    {
+      "title": "Nvidia backs OpenAI Ohio data center with $105 billion guarantee",
+      "url": "http://www.afghanistansun.com/news/279247463/nvidia-backs-openai-ohio-data-center-with-usd105-billion-guarantee",
+      "domain": "afghanistansun.com",
+      "outlet": "Afghanistan Sun",
+      "image": "https://image.chitra.live/api/v1/wps/142fbd6/f3b3327f-4821-41a1-acce-dc354fef1eea/1/Huang-600x315.jpg",
+      "desc": "Nvidia has agreed to guarantee up to US$105 billion to support OpenAI's lease of a major Ohio data center being developed by SoftBank-owned SB Energy",
+      "date": "2026-08-18T15:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 35,
+      "other_outlets": [
+        "Albuquerque Express",
+        "Baton Rouge Post",
+        "Big News Network.com",
+        "Brazil Sun",
+        "Caribbean Herald",
+        "Cleveland Star"
+      ]
+    },
+    {
+      "title": "Nvidia backs OpenAI Ohio data center with $105 billion guarantee",
+      "url": "http://www.birminghamstar.com/news/279247463/nvidia-backs-openai-ohio-data-center-with-usd105-billion-guarantee",
+      "domain": "birminghamstar.com",
+      "outlet": "Birmingham Star",
+      "image": "https://image.chitra.live/api/v1/wps/142fbd6/f3b3327f-4821-41a1-acce-dc354fef1eea/1/Huang-600x315.jpg",
+      "desc": "Nvidia has agreed to guarantee up to US$105 billion to support OpenAI's lease of a major Ohio data center being developed by SoftBank-owned SB Energy",
+      "date": "2026-08-18T13:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 34,
+      "other_outlets": [
+        "Africa Leader",
+        "Argentina Star",
+        "Asia Bulletin",
+        "Austin Globe",
+        "Baltimore Star",
+        "Bangladesh Sun"
+      ]
+    },
+    {
+      "title": "OpenAi introduces ChatGPT for teens - ABC Columbia",
+      "url": "https://www.abccolumbia.com/2026/08/18/openai-introduces-chatgpt-for-teens/",
+      "domain": "abccolumbia.com",
+      "outlet": "ABC Columbia",
+      "image": "https://www.abccolumbia.com/content/uploads/2026/08/h/z/1787087831-4f96eb18c5648f2a8c19ce9c1a14626afdf4fb70.jpg",
+      "desc": "OpenAi is rolling out a new ChatGPT for teens.",
+      "date": "2026-08-18T21:27:53+00:00",
+      "tier": "longtail",
+      "cluster_size": 25,
+      "other_outlets": [
+        "ABC11 Raleigh-Durham",
+        "ABC13 Houston",
+        "ABC7 San Francisco",
+        "Azernews.Az",
+        "Boston Herald",
+        "CNA"
+      ]
+    },
+    {
+      "title": "Tag: Artificial Intelligence – NBC Los Angeles",
+      "url": "https://www.nbclosangeles.com/tag/artificial-intelligence/",
+      "domain": "nbclosangeles.com",
+      "outlet": "NBC Los Angeles",
+      "image": "",
+      "desc": "Articles from the tag: Artificial Intelligence",
+      "date": "2026-08-18T18:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 25,
+      "other_outlets": [
+        "BusinessLine",
+        "BusinessWorld Online",
+        "El Ciudadano",
+        "Foreign Policy Journal",
+        "Gazette & Herald",
+        "Hürriyet Daily News"
+      ]
+    },
+    {
+      "title": "OpenAI Launches ‘ChatGPT for Teens’ With New Youth Safety Protections",
+      "url": "https://www.nbcpalmsprings.com/2026/08/18/openai-launches-chatgpt-for-teens-with-new-youth-safety-protections",
+      "domain": "nbcpalmsprings.com",
+      "outlet": "NBC Palm Springs",
+      "image": "https://nbcpalmspringsmedia.com/preroll/1787086305945_openai-chatgpt-for-teens-youth-safety-protections.jpeg",
+      "desc": "OpenAI is rolling out a new “ChatGPT for Teens” experience with additional safeguards for users under 18. The changes include break reminders, Quiet Hours, Stud",
+      "date": "2026-08-18T20:30:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 13,
+      "other_outlets": [
+        "BBC News",
+        "BMI",
+        "Great Bend Post",
+        "Hays Post",
+        "JC Post",
+        "Little Apple Post"
+      ]
+    },
+    {
+      "title": "Sinking AI stocks pull Wall Street further from its record",
+      "url": "https://kdhnews.com/news/nation/sinking-ai-stocks-pull-wall-street-further-from-its-record/article_6bbba401-74be-58b6-bde9-ae012bdabe68.html",
+      "domain": "kdhnews.com",
+      "outlet": "The Killeen Daily Herald",
+      "image": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/0/36/0367e7ce-530c-515c-abb5-6954cb63789d/6a83c0f43bffe.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "Wall Street pulled further from its all-time high as AI stocks got back to sinking. The S&P 500 fell 0.7% Tuesday for a third straight modest loss since setting its",
+      "date": "2026-08-18T21:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 9,
+      "other_outlets": [
+        "Chicago Tribune",
+        "Post Register",
+        "Reflector",
+        "RockyMount Telegram",
+        "The Columbian",
+        "The Gazette"
+      ]
+    },
+    {
+      "title": "Should schools and nonprofits use AI for social media? Great Falls residents weigh in.",
+      "url": "https://www.ktvq.com/news/should-schools-and-nonprofits-use-ai-for-social-media-great-falls-residents-weigh-in",
+      "domain": "ktvq.com",
+      "outlet": "Q2 News (KTVQ)",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/ff4ea37/2147483647/strip/true/crop/808x424+0+23/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F08%2Fd0%2F69a6e1be4922b70e5fcd45e1cd6b%2Fscreenshot-2026-08-17-at-4-31-47-pm.png",
+      "desc": "Artificial intelligence is showing up in unexpected places—the social media pages of Great Falls Public Schools and local nonprofits. And not everyone is happy about it.",
+      "date": "2026-08-17T23:30:06+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "KBZK News",
+        "KPAX News",
+        "KRTV NEWS Great Falls",
+        "KTVH",
+        "KXLF News",
+        "KXLH News Helena"
+      ]
+    },
+    {
+      "title": "Nvidia Invests in OpenAI’s Ohio Data Center",
+      "url": "https://www.techrepublic.com/article/news-nvidia-sb-energy-openai-ohio-data-center/",
+      "domain": "techrepublic.com",
+      "outlet": "TechRepublic",
+      "image": "https://assets.techrepublic.com/uploads/2026/08/brecht-corbeel-5nElvwT2LhQ-unsplash.jpg?f=jpeg",
+      "desc": "Nvidia will invest $1.5 billion in SB Energy to support an eight-gigawatt Ohio data center that the company will build and operate for OpenAI.",
+      "date": "2026-08-18T20:53:05+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "DIGITIMES",
+        "ETTelecom.com",
+        "Hindustan Times",
+        "Link Newspaper"
+      ]
+    },
+    {
+      "title": "Andrew Yang proposes $15K for families as AI transforms US economy",
+      "url": "https://www.koaa.com/politics/andrew-yang-proposes-15k-for-families-as-ai-transforms-us-economy",
+      "domain": "koaa.com",
+      "outlet": "KOAA News 5",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/1261ae2/2147483647/strip/true/crop/1486x780+0+83/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F04%2Fca%2F561c01cc43e38a2539322a32c27d%2Fscreenshot-2026-08-18-at-11-02-51-am.png",
+      "desc": "Former presidential candidate Andrew Yang is warning that rapid advances in artificial intelligence are creating economic challenges that the nation's political leaders have been slow to confront.",
+      "date": "2026-08-18T17:11:08+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "ABC 10 News San Diego KGTV",
+        "ABC15 Arizona in Phoenix (KNXV)",
+        "KERO 23 ABC News Bakersfield",
+        "WTXL ABC 27 Tallahassee News"
+      ]
+    },
+    {
+      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/18/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls",
+      "domain": "thestar.com.my",
+      "outlet": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4066038.jpg",
+      "desc": "Aug 18 (Reuters) - OpenAI introduced \"ChatGPT ⁠for Teens\" on Tuesday, tailored for minors with parental controls ⁠and enhanced security features in place, as platforms face ‌fierce criticism over the risks associated with AI chatbots.",
+      "date": "2026-08-18T20:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Arab News",
+        "Hindustan Times",
+        "The Hindu"
+      ]
+    },
+    {
+      "title": "Bad uses / over-promised of AI",
+      "url": "https://www.geekzone.co.nz/forums.asp?forumid=196&topicid=319900",
+      "domain": "geekzone.co.nz",
+      "outlet": "geekzone.co.nz",
+      "image": "",
+      "desc": "Discussion about Bad uses / over-promised of AI",
+      "date": "2026-08-18T00:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI rolls out ChatGPT safety features for teens",
+      "url": "https://americanbazaaronline.com/2026/08/18/openai-rolls-out-chatgpt-safety-features-for-teens-486604/",
+      "domain": "americanbazaaronline.com",
+      "outlet": "The American Bazaar",
+      "image": "https://americanbazaaronline.com/wp-content/uploads/2026/06/ChatGPT-logo.png",
+      "desc": "OpenAI launches ChatGPT for Teens with stronger safeguards, parental controls, quiet hours and tools designed to promote healthy AI use.",
+      "date": "2026-08-18T20:53:23+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "The Times of India",
+        "fonearena.com"
+      ]
+    },
+    {
+      "title": "Most Workers Use AI For About 20% Of Their Tasks, Not The Whole Job",
+      "url": "https://wnbf.com/ixp/498/p/ai-impact-entry-level-hiring/",
+      "domain": "wnbf.com",
+      "outlet": "WNBF News Radio 1290 AM & 92.1 FM",
+      "image": "https://townsquare.media/site/498/files/2026/08/attachment-jo-lin-qqrqckqlhvs-unsplash.jpg?w=1200&format=natural",
+      "desc": "AI isn't replacing whole jobs yet. Google looked at hundreds of careers and found people use it for 20% of their tasks, while humans still handle decisions.",
+      "date": "2026-08-18T19:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "CNY News",
+        "The Whale 99.1 FM"
+      ]
+    },
+    {
+      "title": "Pennsylvania governor signs order imposing new rules to set up AI data centers in state",
+      "url": "https://wabx.net/2026/08/18/pennsylvania-governor-signs-order-imposing-new-rules-to-set-up-ai-data-centers-in-state/",
+      "domain": "wabx.net",
+      "outlet": "WABX 107.5 | Evansville's Classic Rock Station",
+      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/18/2026-08-18T205421Z_2_LYNXMPEM7H1FG_RTROPTP_3_USA-ELECTION-PENNSYLVANIA.JPG",
+      "desc": "Aug 18 (Reuters) - Pennsylvania Governor Josh Shapiro on Tuesday signed an executive order that would require companies setting up AI data centers ​in the state to meet environmental and ‌transparency safeguards and secure local community approval for ...",
+      "date": "2026-08-18T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "100.7 MIX-FM | Today's Hit Music | Terre Haute, IN"
+      ]
+    },
+    {
+      "title": "GMKtec NucBox EVO X1 PRO “AMD Ryzen AI 9 HX 470” Mini PC Review: Gorgon Dials Up The CPU Horsepower In Compact PCs",
+      "url": "https://wccftech.com/review/gmktec-nucbox-evo-x1-pro-amd-ryzen-ai-9-hx-470-mini-pc-review/",
+      "domain": "wccftech.com",
+      "outlet": "Wccftech",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/DSC_0657-Custom-1920x1280.jpg",
+      "desc": "GMKtec's EVO X1 PRO Mini PC with AMD Ryzen AI 9 HX 470 offers strong CPU performance, 64GB LPDDR5X memory, and starts at $1599.",
+      "date": "2026-08-18T21:15:22+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "ChinaTechNews.com"
+      ]
+    },
+    {
+      "title": "Musician Ashley MacIsaac ends lawsuit over Google AI summary falsely labelling him a sex offender",
+      "url": "https://www.cinaradio.com/2026/08/18/musician-ashley-macisaac-ends-lawsuit-over-google-ai-summary-falsely-labelling-him-a-sex-offender/",
+      "domain": "cinaradio.com",
+      "outlet": "1650 AM (Bollywood Hits)",
+      "image": "https://i.cbc.ca/ais/1.5748483,1787071261184/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C233%2C4581%2C2576%29%3BResize%3D%28620%29",
+      "desc": "Juno-award winning musician Ashley MacIsaac has ended his defamation suit against Google over its AI overview falsely labelling him as a sex offender. He was originally seeking $1.5 million in damages, but filed a notice of discontinuance in July.",
+      "date": "2026-08-18T19:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "CBC"
+      ]
+    },
+    {
+      "title": "Portnox adds AI agent access controls with Defender",
+      "url": "https://securitybrief.news/story/portnox-adds-ai-agent-access-controls-with-defender",
+      "domain": "securitybrief.news",
+      "outlet": "SecurityBrief US",
+      "image": "https://securitybrief.news/uploads/story/2026/08/19/compatible_denny-lecompte-and-garrett-gross-story-316932.jpg",
+      "desc": "Enterprises can now automatically cut off risky AI agents after Microsoft Defender and other tools flag suspicious behaviour or device changes.",
+      "date": "2026-08-18T19:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "IT Brief New Zealand"
+      ]
+    },
+    {
+      "title": "Gemini in Chrome Is Now Available for Android Users - CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/gemini-in-chrome-now-available-for-android-users/",
+      "domain": "cnet.com",
+      "outlet": "CNET",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/5b313203-e96f-4f47-8996-4aa0d3956914.jpg",
+      "desc": "AI Pro and Ultra subscribers will also have access to Google’s agentic AI auto browsing feature.",
+      "date": "2026-08-18T19:38:35+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Droid Life"
+      ]
+    },
+    {
+      "title": "5 Ways Edge AI Is Changing MLOps Forever",
+      "url": "https://csrwire.com/press-release/5-ways-edge-ai-changing-mlops-forever/",
+      "domain": "csrwire.com",
+      "outlet": "csrwire.com",
+      "image": "https://csrwire.com/wp-content/uploads/sites/2/2026/08/AI-MLOps_Leidos_072226_1784749763.jpg",
+      "desc": "The AI making the headlines isn't always the AI making the biggest impact. Some of AI's most important applications happen where lives, missions, and critical infrastructure are on the line.",
+      "date": "2026-08-18T19:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "3blmedia.com"
+      ]
+    },
+    {
+      "title": "ASX set to dip, Wall Street slumps as AI stocks fall",
+      "url": "https://www.theage.com.au/business/markets/asx-set-to-dip-wall-street-slumps-as-ai-stocks-fall-20260819-p60piq.html",
+      "domain": "theage.com.au",
+      "outlet": "The Age",
+      "image": "https://static.ffx.io/images/$zoom_0.5997%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_34%2C$y_75/t_crop_custom/q_86%2Cf_auto/d901d53a02495fb466041b6c542b44d2df7d3825",
+      "desc": "Wall Street is pulling further from its all-time high as AI stocks get back to sinking.",
+      "date": "2026-08-18T19:19:18+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Brisbane Times"
+      ]
+    },
+    {
+      "title": "Anthropic’s pre-IPO credit facility set to exceed $10 billion, Bloomberg News reports",
+      "url": "https://www.933thedrive.com/2026/08/18/anthropics-pre-ipo-credit-facility-set-to-exceed-10-billion-bloomberg-news-reports/",
+      "domain": "933thedrive.com",
+      "outlet": "93.3 The Drive",
+      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/18/2026-08-18T175354Z_2_LYNXMPEM7H19L_RTROPTP_3_ANTHROPIC-AI.JPG",
+      "desc": "Aug 18 (Reuters) - Anthropic's revolving credit facility is expected to exceed its roughly $10 billion target, Bloomberg News reported ​on Tuesday, as the AI lab ‌prepares for what could be one of the biggest public listings on record. Banks are jockey...",
+      "date": "2026-08-18T18:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Economic Times"
+      ]
+    },
+    {
+      "title": "TestMu AI Launches Agent Assurance to Verify AI Agents Before They Ship - Thailand Business News",
+      "url": "https://www.thailand-business-news.com/pr-news/testmu-ai-launches-agent-assurance-to-verify-ai-agents-before-they-ship",
+      "domain": "thailand-business-news.com",
+      "outlet": "Thailand Business News",
+      "image": "",
+      "desc": "The new product verifies both the AI agents that talk to customers and the agents that act on systems, generating test scenarios directly from code, grading every action against real evidence, and reporting an assurance gap for everything it could not verify SAN FRANCISCO and NOIDA, India, Aug. 18, 2026…",
+      "date": "2026-08-18T18:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "新浪香港"
+      ]
+    },
+    {
+      "title": "Round Hill Music Sues Suno, Anthropic for Copyright Infringement, Seeking Up to $1 Billion in Damages",
+      "url": "https://variety.com/2026/biz/news/round-hill-music-sues-suno-anthropic-copyright-infringement-1236837467/",
+      "domain": "variety.com",
+      "outlet": "Variety",
+      "image": "https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png?w=1000&h=563&crop=1",
+      "desc": "The independent music publisher Round Hill Music sued Suno and Anthropic, accusing the two of infringing its copyright.",
+      "date": "2026-08-18T18:07:48+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "AI in Hiring- A Regulated Employment Practice, Not Just a Technology Purchase",
+      "url": "https://natlawreview.com/article/ai-hiring-regulated-employment-practice-not-just-technology-purchase",
+      "domain": "natlawreview.com",
+      "outlet": "The National Law Review",
+      "image": "https://natlawreview.com/sites/default/files/styles/article_image/public/2026-08/labor%20employment%20litigation%20lawsuit%20settlement%20next%20exit%20sign_0.jpg.webp?itok=v8eB4r_b",
+      "desc": "Tools that screen resumes, analyze video interviews, predict candidate success, and optimize scheduling are often standard offerings from HR technology vendors",
+      "date": "2026-08-18T18:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "mondaq.com"
+      ]
+    },
+    {
+      "title": "Robotics 'Eyes' And 'Brains' Maker Catapults 85% As AI Checks In With Reality",
+      "url": "https://www.investors.com/research/ai-stock-cognex-cgnx-tech-robotics-markets-trade-investing/",
+      "domain": "investors.com",
+      "outlet": "Investor's Business Daily",
+      "image": "https://www.investors.com/wp-content/uploads/2017/11/stock-Cognex-01-company.jpg",
+      "desc": "AI stock Cognex is in a cup-with-handle base with an entry at 72.70. Cognex makes sensors and cameras for industrial automation and robotics.",
+      "date": "2026-08-18T17:44:04+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "2026 TME Chinese Music Impact Summit Held: Music IP and New Growth Paths for the Industry in the AI Era",
+      "url": "http://www.australiannews.net/news/279249194/2026-tme-chinese-music-impact-summit-held-music-ip-and-new-growth-paths-for-the-industry-in-the-ai-era",
+      "domain": "australiannews.net",
+      "outlet": "Australian News",
+      "image": "",
+      "desc": "MACAO, Aug. 18, 2026 /PRNewswire/ -- On August 15, 2026, the 2026TME Chinese Music Impact Summit, hosted by Tencent Music Entertainment Group (TME), was held in Macao, China. Themed Music IP: Where the Future Grows, the summit brought together leading figures from across the global music industry for a series of discussions on AI, live music, artists and super fans, jointly exploring the creation, growth, global expansion, and long-term value of music IP in the AI era. In his opening remarks at ...",
+      "date": "2026-08-18T17:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Philippine Times"
+      ]
+    },
+    {
+      "title": "Ro Khanna Says the Threat of AI Demands ‘America’s Next New Deal’",
+      "url": "https://wcbm.com/national-headline/ro-khanna-says-the-threat-of-ai-demands-americas-next-new-deal/",
+      "domain": "wcbm.com",
+      "outlet": "WCBM News-Talk Radio",
+      "image": "https://wcbm.com/wp-content/uploads/2026/07/cdb553fb-1970-4386-a280-d0195d32815f-1200x630-1.jpg",
+      "desc": "As artificial intelligence reshapes the economy, California Democrat Rep. Ro Khanna is seizing on fears of widening inequality and speculative dangers to press for a new version of FDR’s New […]",
+      "date": "2026-08-18T16:58:30+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "townhall.com"
+      ]
+    },
+    {
+      "title": "ChatGPT for Teens: What is OpenAI’s new mode and how will it keep minors safe?",
+      "url": "https://www.theweek.in/news/health/2026/08/18/chatgpt-for-teens-what-is-openais-new-mode-and-how-will-it-keep-minors-safe.html",
+      "domain": "theweek.in",
+      "outlet": "@theweek",
+      "image": "https://img.theweek.in/content/dam/week/week/news/sci-tech/images/2025/6/10/chatgpt actually down.jpg",
+      "desc": "The new 'ChatGPT for Teens' mode comes with parental controls and enhanced security features in the latest update",
+      "date": "2026-08-18T16:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Mashable"
+      ]
+    },
+    {
+      "title": "OpenAI debuts ‘ChatGPT for Teens’ amid mounting legal complaints",
+      "url": "https://thefrontierpost.com/openai-debuts-chatgpt-for-teens-amid-mounting-legal-complaints/",
+      "domain": "thefrontierpost.com",
+      "outlet": "thefrontierpost.com",
+      "image": "https://thefrontierpost.com/wp-content/uploads/2026/08/456365.jpg",
+      "desc": "SAN FRANCISCO (AFP) : OpenAI introduced on Tuesday a new version of its flagship ChatGPT chatbot designed specifically for teens, with San Francisco-based lab t",
+      "date": "2026-08-18T16:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Daily Sabah"
+      ]
+    },
+    {
+      "title": "OpenAI rolls out ChatGPT for Teens with new safeguards on all under-18 accounts",
+      "url": "https://www.telecompaper.com/news/openai-rolls-out-chatgpt-for-teens-with-new-safeguards-on-all-under-18-accounts--1580209",
+      "domain": "telecompaper.com",
+      "outlet": "Telecompaper",
+      "image": "https://ik.imagekit.io/tp/20251016-children-smartphone-classroom-school.png?updatedAt=1760616256950",
+      "desc": "OpenAI has started rolling out a new version of ChatGPT for children. Named 'ChatGPT for Teens', the new version comes with extra guardrails to help protect minors from unintended use of the AI. The new version applies automatically for any ChatGPT account where the user has registered as under-age or OpenAI detects they are not yet 18 years old.",
+      "date": "2026-08-18T16:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "ChatGPT’s massive change that’ll dob Aussie teens into mum and dad",
+      "url": "https://www.cairnspost.com.au/business/technology/ai/new-chatgpt-parental-control-features-to-include-alerts-for-violence-and-eating-disorders/news-story/23b4e3d79244a0a42b777b7a989d7786&memtype=anonymous&mode=premium&nk=961d9c279452757a552be3f668fca446-1787064422",
+      "domain": "cairnspost.com.au",
+      "outlet": "cairnspost.com.au",
+      "image": "https://content.api.news/v3/images/bin/ed6cc4d1ddc91bbcda06d216e5712aff",
+      "desc": "Subscribe to the Cairns Post to get unrestricted digital access, home paper delivery, Apps for iPad and Android and much more...",
+      "date": "2026-08-18T14:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "geelongadvertiser.com.au"
+      ]
+    },
+    {
+      "title": "OpenAI to lease massive new AI data centre in US, backed by Nvidia - TechCentral.ie",
+      "url": "https://www.techcentral.ie/openai-to-lease-massive-new-ai-data-centre-in-us-backed-by-nvidia/",
+      "domain": "techcentral.ie",
+      "outlet": "TechCentral.ie",
+      "image": "https://www.techcentral.ie/wp-content/uploads/2026/07/image-1-3-e1787062319501.jpg",
+      "desc": "ChatGPT-maker OpenAI will lease a massive new data centre in the US for 20 years, backed by a $105 billion financing commitment from Nvidia, according to a regulatory filing published Monday. The project will be built on the site of a former Cold War-era uranium enrichment plant in Ohio and could eventually grow to have [&hellip",
+      "date": "2026-08-18T14:17:45+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Free Malaysia Today | FMT"
+      ]
+    },
+    {
+      "title": "Punters bet OpenAI's delayed Astra model will not launch until late 2026",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097189/punters-bet-openai-s-delayed-astra-model-will-not-launch-until-late-2026-1097189.html",
+      "domain": "proactiveinvestors.com",
+      "outlet": "Proactiveinvestors NA",
+      "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA4XC9zaHV0dGVyc3RvY2stMjM5MDI1MTMxM182YTg0Mjg2ZjZkODZmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "desc": "Gamblers on Polymarket, the cryptocurrency-based prediction market, now think OpenAI is unlikely to release its next major artificial intelligence model,...",
+      "date": "2026-08-18T11:38:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Proactiveinvestors UK"
+      ]
+    },
+    {
+      "title": "OpenAI launches new ChatGPT feature for macOS",
+      "url": "https://www.gulf-times.com/article/731330/community/technology/openai-launches-new-chatgpt-feature-for-macos",
+      "domain": "gulf-times.com",
+      "outlet": "Gulf Times",
+      "image": "https://www.gulf-times.com/gulftimes/uploads/images/2026/08/18/480673.png",
+      "desc": "OpenAI launches new ChatGPT feature for macOS",
+      "date": "2026-08-18T10:41:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "thepeninsulaqatar.com"
+      ]
+    },
+    {
+      "title": "GitHub restores services after nearly 8-hour outage disrupts Actions, APIs, PRs and Copilot",
+      "url": "https://www.infoworld.com/article/4210864/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot.html",
+      "domain": "infoworld.com",
+      "outlet": "InfoWorld",
+      "image": "https://www.infoworld.com/wp-content/uploads/2026/08/4210864-0-65006500-1787039634-shutterstock_177668495.jpg?quality=50&strip=all&w=1024",
+      "desc": "Authentication issues lingered as GitHub worked through a sprawling disruption that affected key developer services and enterprise workflows across its platform.",
+      "date": "2026-08-18T09:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Computerworld"
+      ]
+    },
+    {
+      "title": "TGS Launches Gemini X",
+      "url": "https://www.oedigital.com/news/542180-tgs-launches-gemini-x",
+      "domain": "oedigital.com",
+      "outlet": "Offshore Engineer Magazine",
+      "image": "https://images.oedigital.com/images/maritime/w800/source-173023.jpg",
+      "desc": "TGS has launched Gemini X, the operational combination of its Gemini Enhanced Frequency Source and Apparition encoding technology…",
+      "date": "2026-08-18T06:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Marine Technology News"
+      ]
+    },
+    {
+      "title": "Kentucky farmers take on AI data-center boom WSJ",
+      "url": "http://www.bignewsnetwork.com/news/279248303/kentucky-farmers-take-on-ai-data-center-boom-wsj",
+      "domain": "bignewsnetwork.com",
+      "outlet": "Big News Network.com",
+      "image": "https://image.chitra.live/api/v1/wps/bd9be02/8fff27e5-6846-4903-9cf7-1e307e6d3551/0/MTEwYTc2MWItOTN-600x315.jpg",
+      "desc": "A farming family in Kentucky has rejected a $26.48 million offer on their land amid a wider push against AI data centers, WSJ has reported Re",
+      "date": "2026-08-17T23:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Inside the Number: What Goes Into Your 3BL AI Visibility Score",
+      "url": "https://csrwire.com/press-release/inside-number-what-goes-your-3bl-ai-visibility-score/",
+      "domain": "csrwire.com",
+      "outlet": "csrwire.com",
+      "image": "https://csrwire.com/wp-content/uploads/sites/2/2026/08/Hero_3BL_08172026_1786996531.png",
+      "desc": "Your AI Visibility Score is one number, but it's built from several signals. Here's exactly what feeds it and how the weights work.",
+      "date": "2026-08-17T23:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "3blmedia.com"
+      ]
+    },
+    {
+      "title": "Synchrony Financial Partners With OpenAI To Enable In-Chat Shopping",
+      "url": "https://www.rttnews.com/3681247/synchrony-financial-partners-with-openai-to-enable-in-chat-shopping.aspx",
+      "domain": "rttnews.com",
+      "outlet": "RTTNews",
+      "image": "https://cdn.rttnews.com/articleimages/ustopstories/2026/august/synchrony-17082026-lt.jpg",
+      "desc": "Synchrony Financial (SYF), the credit card issuer for brands including Amazon, Walmart and Lowe's, is working with OpenAI to allow consumers to make purchases directly through ChatGPT using their Synchrony store cards.",
+      "date": "2026-08-17T23:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "finanzen.ch"
+      ]
+    },
+    {
+      "title": "More than half of Scottish businesses plan to step up investment in AI skills in bid to boost competitiveness | LBC",
+      "url": "https://www.lbc.co.uk/article/scottish-businesses-invest-in-ai-skills-5HjdgDP_2/",
+      "domain": "lbc.co.uk",
+      "outlet": "LBC",
+      "image": "https://images.globalplayer.com/images/835696?crop=16_9&width=1200&signature=eamZzHH5C_2e3Ke6J4pneGCy0Hg=",
+      "desc": "54% of Scottish firms are planning to increase their investment to upskill their workforce as they look to remain competitive.",
+      "date": "2026-08-17T23:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Standard"
+      ]
+    },
+    {
+      "title": "AI unlocks previously invisible patterns in breast cancer tumours | LBC",
+      "url": "https://www.lbc.co.uk/article/ai-invisible-patterns-breast-cancer-tumours-5HjdgDM_2/",
+      "domain": "lbc.co.uk",
+      "outlet": "LBC",
+      "image": "https://images.globalplayer.com/images/835686?crop=16_9&width=1200&signature=UudsEX7vRRK9aecHBggL-iBBFo4=",
+      "desc": "The new technology will help doctors predict how the disease might progress",
+      "date": "2026-08-17T23:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Irish Examiner"
+      ]
+    },
+    {
+      "title": "Nvidia in talks to invest $3 billion in OpenAI-backed SB Energy",
+      "url": "http://www.britainnews.net/news/279244578/nvidia-in-talks-to-invest-usd3-billion-in-openai-backed-sb-energy",
+      "domain": "britainnews.net",
+      "outlet": "Britain News",
+      "image": "https://image.chitra.live/api/v1/wps/19c6c61/0c15dc5c-3c40-40b3-91a5-ffc7fc16a33a/1/5-Nvidia-600x315.jpg",
+      "desc": "Nvidia is in talks to invest as much as $3 billion in SoftBank Group subsidiary SB Energy, which is developing a planned data center project in Ohio for OpenAI",
+      "date": "2026-08-17T23:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Shanghai News"
+      ]
+    },
+    {
+      "title": "Washington tells allies to pick a side in the AI race – NaturalNews.com",
+      "url": "https://www.naturalnews.com/2026-08-17-washington-tells-allies-pick-side-ai-race.html",
+      "domain": "naturalnews.com",
+      "outlet": "NaturalNews.com",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Blending-AI-Systems-Computer-Artificial-Intelligence.jpg",
+      "desc": "The State Department drafted a letter demanding 35 nations choose between the U.S.-led Pax Silica framework and China’s rival AI coalition. Kazakhstan is the only country known to have joined both AI blocs, sparking U.S. fears of dual loyalty and warnings against mixed participation. The Pax Silica initiative aims to secure chips, AI models, and […]",
+      "date": "2026-08-17T22:55:16+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "International Business Times"
+      ]
+    },
+    {
+      "title": "Nashville homeowner uses AI after ice storm",
+      "url": "https://newschannel9.com/news/local/nashville-homeowner-uses-ai-after-ice-storm",
+      "domain": "newschannel9.com",
+      "outlet": "WTVC",
+      "image": "https://newschannel9.com/resources/media2/16x9/1280/1320/center/90/58df2b2a-c9ae-49cc-a951-8fd2a1b9fe01-videoframe_55106.png",
+      "desc": "Months after a January ice storm damaged homes across Middle Tennessee, some homeowners are still dealing with the aftermath.",
+      "date": "2026-08-17T22:41:19+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "WZTV"
+      ]
+    }
+  ]
+}
