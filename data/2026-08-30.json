@@ -1,0 +1,814 @@
+{
+  "date": "2026-08-30",
+  "intro": "Mo Zohourian turned rejected job applications into a $100-per-hour AI training career on LinkedIn, demonstrating one path into the growing field. Rockstar Games confirmed its upcoming Grand Theft Auto title contains no generative AI or in-game microtransactions. Data center opposition across the US is emerging as a critical constraint on AI expansion, with investors flagging the backlash as a significant risk to the sector.",
+  "whitelist": [
+    {
+      "title": "I couldn't land a job, so I started AI training. Now I make $100 an hour and built a career around AI.",
+      "url": "https://www.businessinsider.com/ai-trainer-started-at-15-hour-100-hour-built-career-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a922f823f7df8787cff50dc?width=677&format=jpeg",
+      "desc": "Mo Zohourian couldn't land a full-time job so he answered a LinkedIn and became an AI trainer. He worked up to $100 an hour and made it his career.",
+      "date": "2026-08-30T08:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 3,
+      "other_outlets": [
+        "AOL.com",
+        "Yahoo Life"
+      ]
+    },
+    {
+      "title": "Rockstar says GTA has no generative AI or microtransactions.",
+      "url": "https://www.theverge.com/games/986569/rockstar-says-gta-has-no-generative-ai-or-microtransactions",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "desc": "During a recent episode of the Kinda Funny Gamescast, Andy Cortez said he asked the studio point-blank about the topics and was told there would be no in-game monetization and that there was absolutely “no AI” used in the game. So those are at least two huge controversial bullets the launch should dodge. [Link: GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says | https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says...",
+      "date": "2026-08-30T21:27:37+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "IGN"
+      ]
+    },
+    {
+      "title": "Why investors should be concerned about the growing backlash to AI data centers",
+      "url": "https://www.businessinsider.com/data-center-protests-investment-risks-ai-stocks-chips-hyperscalers-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a91fe8f3f7df8787cff5059?width=1200&format=jpeg",
+      "desc": "The opposition to new data centers across the US is the next big bottleneck and a risk to the AI trade, investing pros say.",
+      "date": "2026-08-30T10:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "AOL.com"
+      ]
+    },
+    {
+      "title": "Using AI Personas To Explore The Psychological Landscape Underlying The Langer Mindfulness Scale",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/08/30/using-ai-personas-to-explore-the-psychological-landscape-underlying-the-langer-mindfulness-scale/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a88b344c7a6d73e238e1351/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "AI personas can be used to explore the psychological landscape underlying the Langer Mindfulness Scale (LMS). I do so with an example. An AI Insider analysis and scoop.",
+      "date": "2026-08-30T09:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "ميزو نيوز"
+      ]
+    },
+    {
+      "title": "Sony and Warner just sued Anthropic over copyrighted music used to train Claude, seeking $150,000 per track",
+      "url": "https://www.digitaltrends.com/computing/sony-and-warner-just-sued-anthropic-over-copyrighted-music-used-to-train-claude-seeking-150000-per-track/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2026/08/Claude-Anthropic-featured-image.jpg?resize=1200%2C630",
+      "desc": "Sony Music and Warner Chappell are suing Anthropic, alleging the company pirated tens of thousands of songs to train Claude.",
+      "date": "2026-08-30T21:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Before AI Replaces Physicians, Someone Should Ask Patients",
+      "url": "https://www.forbes.com/sites/lisafitzpatrick/2026/08/30/before-ai-replaces-physicians-someone-should-ask-patients/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a944afd8865933b275fcdfe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Reactions from healthcare stakeholders to a recent JAMA opinion suggesting AI can replace physicians by 2030.",
+      "date": "2026-08-30T18:47:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Stung by OpenAI pulling GPT models from Cursor? Anthropic offers a timely lifeline with higher Claude limits",
+      "url": "https://www.digitaltrends.com/computing/stung-by-openai-pulling-gpt-models-from-cursor-anthropic-offers-a-timely-lifeline-with-higher-claude-limits/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2026/08/DT-2026-08-30T212803.926.jpg?resize=1200%2C630",
+      "desc": "Anthropic is promising more computing capacity for Claude in Cursor as OpenAI moves to terminate its model-access agreement with the coding platform.",
+      "date": "2026-08-30T16:06:42+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Scientists Are Using AI And Viruses To Help Defeat Superbugs",
+      "url": "https://www.forbes.com/sites/saibala/2026/08/30/scientists-are-using-ai-and-viruses-to-help-defeat-superbugs/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69cb02030c3fbf6cb8334f5f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Deep learning models can help scientists build customized phages.",
+      "date": "2026-08-30T15:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining | TechCrunch",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+      "desc": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "date": "2026-08-30T15:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Why the next wave of AI startups won’t optimize infrastructure – until they have to - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/30/why-the-next-wave-of-ai-startups-wont-optimize-infrastructure-until-they-have-to/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Builder-Pondering-Chips-800x542.png",
+      "desc": "Why the next wave of AI startups won’t optimize infrastructure – until they have to - SiliconANGLE",
+      "date": "2026-08-30T14:53:26+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Four safeguards to stop your AI agents from going rogue - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-agents-from-going-rogue/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/06/aiagentsworkingtogether.png",
+      "desc": "Four safeguards to stop your AI agents from going rogue - SiliconANGLE",
+      "date": "2026-08-30T14:53:22+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "South Korea may be getting too old to take advantage of its AI boom | Fortune",
+      "url": "https://fortune.com/2026/08/30/south-korea-may-be-getting-too-old-for-ai-boom-goldman-sachs/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2291478455-e1787934655804.jpg?resize=1200,600",
+      "desc": "Korea could keep getting richer from AI while elderly households become reluctant or unable to spend those gains",
+      "date": "2026-08-30T14:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Why the AI economy is like a bad dating app — drowning in decks, pilot purgatory — and it's playing out like the dotcom bubble, except worse | Fortune",
+      "url": "https://fortune.com/2026/08/30/ai-economy-like-dating-app-pilot-purgatory-decks-dotcom-bubble/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1738269158-e1787925978742.jpg?resize=1200,600",
+      "desc": "Amy Webb is a futurist who called the rise of AI — and a U.S./China tech Cold War — years ago. She wishes she were happier with what she's seeing.",
+      "date": "2026-08-30T14:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic just showed an early version of self-improving AI",
+      "url": "https://www.digitaltrends.com/computing/anthropic-just-showed-an-early-version-of-self-improving-ai/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://www.digitaltrends.com/tachyon/2025/10/anthropic-claude-skills.jpg?resize=1200%2C630",
+      "desc": "Anthropic is exploring self-improving AI by letting Claude research, test, and refine training methods for a stronger Claude model, with measurable gains across several behavior problems.",
+      "date": "2026-08-30T13:52:20+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Music publishers accuse Anthropic of ‘blatant theft’ in major new lawsuit",
+      "url": "https://www.scmp.com/tech/big-tech/article/3365770/sony-music-warner-accuse-anthropic-blatant-theft-major-new-lawsuit",
+      "domain": "scmp.com",
+      "outlet": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/30/f4145882-b597-4255-899b-6d929e57adc5_839b2bb4.jpg?itok=ROpPVBzz&v=1788097482",
+      "desc": "The case, brought by 35 music publishers, adds to the legal challenges facing Anthropic as the AI firm eyes a potential blockbuster IPO.",
+      "date": "2026-08-30T13:44:43+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Top AI tools including Claude, Codex, and Hermes installed suspicious code inside corporate networks",
+      "url": "https://www.techradar.com/pro/security/top-ai-tools-including-claude-codex-and-hermes-installed-suspicious-code-inside-corporate-networks",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
+      "desc": "A new class of \"squatting\" risks is emerging right in front of us",
+      "date": "2026-08-30T12:05:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Mere Mortals review – a dazzling, maddening ballet for the AI age",
+      "url": "https://www.theguardian.com/stage/2026/aug/30/mere-mortals-review-edinburgh-playhouse-san-francisco-ballet",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/3668d71e68e010e9367f6ac48277c16d4cca4d3d/688_0_6648_5321/master/6648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=12c0d0c4f695a75494bcd82f3e456184",
+      "desc": "San Francisco Ballet brings a spectacular collision of dance, music and digital wizardry to the Edinburgh international festival in this bold reimagining of Pandora’s box",
+      "date": "2026-08-30T10:25:59+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over.",
+      "url": "https://www.businessinsider.com/tech-workers-dream-employers-openai-anthropic-apple-google-amazon-jobs-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a887ac34569a4ec219f8ea4?width=1200&format=jpeg",
+      "desc": "Tech workers share their dream employers, from OpenAI and Anthropic to Google and NVIDIA — and the companies they'd rather pass on.",
+      "date": "2026-08-30T10:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI And The Wildlife Equation",
+      "url": "https://www.forbes.com/sites/johnwerner/2026/08/30/ai-and-the-wildlife-equation/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a91f976236e19bbd6b282ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "AI could help authorities detect illegal wildlife trade by analyzing complex import data and identifying species.",
+      "date": "2026-08-30T09:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Not a token effort: beer meets AI at bar in China’s capital",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3365740/not-token-effort-beer-meets-artificial-intelligence-bar-chinas-capital",
+      "domain": "scmp.com",
+      "outlet": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/30/b956e435-bbc6-4ffb-9b53-4ba244a58a23_136ea4d4.jpg?itok=nphlNltN&v=1788075179",
+      "desc": "The AGI Bar in Beijing’s Zhongguancun tech hub offers free tokens to customers who order a drink.",
+      "date": "2026-08-30T08:00:09+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Tariffs Finally Showing Up In Inflation Stats—And So Is AI",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/29/ai-is-driving-up-prices-as-much-as-tariffs-fed-analysis-reveals/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a934876b2f1757662020d0c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "The long-delayed effects of tariffs are finally hitting consumer prices, but the AI investment boom is pushing inflation just as hard.",
+      "date": "2026-08-30T00:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Physical AI Is Opening A New Frontier In Operational Analytics",
+      "url": "https://www.forbes.com/sites/jonathanreichental/2026/08/29/physical-ai-is-opening-a-new-frontier-in-operational-analytics/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a93557c55bfeaed51cbb29b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Physical AI is unlocking powerful operational insights, helping businesses better understand physical spaces and opening the door to new opportunities.",
+      "date": "2026-08-30T00:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Quote of the day by tech pioneer Claude Shannon: 'I visualize a time when we will be to robots what dogs are to humans' — a warning about superintelligent AI",
+      "url": "https://www.techradar.com/pro/quote-of-the-day-by-tech-pioneer-claude-shannon-i-visualize-a-time-when-we-will-be-to-robots-what-dogs-are-to-humans-a-warning-about-superintelligent-ai",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/uuKjnfsa7UerZN4hXJ7H8e-1024-80.jpg",
+      "desc": "Many scientists have predicted AI will one day become more intelligent than humans",
+      "date": "2026-08-29T22:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online | WNYC",
+      "url": "https://wnyc.org/npr/nx-s1-5943190",
+      "domain": "wnyc.org",
+      "outlet": "WNYC | New York Public Radio, Podcasts, Live Streaming Radio, News",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1081x1080+655+0/resize/512/quality/80/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2Ff9%2Ff43ba5e14ffb84ee1eea993d310c%2Fkimmel-ailabel.png",
+      "desc": "While social media is rife with AI celebrity deepfakes, videos featuring late night TV hosts like Jimmy Kimmel and Jon Stewart are are easier to create than other kinds of deepfakes and potentially more disruptive.",
+      "date": "2026-08-30T17:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 95,
+      "other_outlets": [
+        "88.5 WFDD",
+        "88.9 KETR",
+        "90.3 KAZU",
+        "Alabama Public Radio",
+        "Aspen Public Radio",
+        "CAI"
+      ]
+    },
+    {
+      "title": "Anthropic unveils standard linking AI agents to physical devices",
+      "url": "http://www.londonmercury.com/news/279269616/anthropic-unveils-standard-linking-ai-agents-to-physical-devices",
+      "domain": "londonmercury.com",
+      "outlet": "London Mercury",
+      "image": "https://image.chitra.live/api/v1/wps/cf3eaab/50d2e6e1-669d-4015-8830-2815446c0ca6/1/Claude-AI-600x315.png",
+      "desc": "Anthropic has unveiled a new framework that allows AI agents to operate physical equipment, including microscopes and robotic arms, for use in scientific research and advanced manufacturing",
+      "date": "2026-08-30T03:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 73,
+      "other_outlets": [
+        "Afghanistan Sun",
+        "Africa Leader",
+        "Albuquerque Express",
+        "Argentina Star",
+        "Asia Bulletin",
+        "Austin Globe"
+      ]
+    },
+    {
+      "title": "Musk calls OpenAI bosses untrustworthy assholes",
+      "url": "http://www.tucsonpost.com/news/279273902/musk-calls-openai-bosses-untrustworthy-assholes",
+      "domain": "tucsonpost.com",
+      "outlet": "Tucson Post",
+      "image": "https://image.chitra.live/api/v1/wps/fdf5ac2/46605798-207f-43ec-ac3a-cefb6f74872a/0/MWYwZWRlNzAtODZ-600x315.jpg",
+      "desc": "Elon Musk has lashed out at the OpenAI CEO and president over the company’s move to withdraw its artificial intelligence models from Cursor R",
+      "date": "2026-08-30T10:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 54,
+      "other_outlets": [
+        "Afghanistan News",
+        "Afghanistan Sun",
+        "Africa Leader",
+        "Arab Herald",
+        "Argentina Star",
+        "Austin Globe"
+      ]
+    },
+    {
+      "title": "AI chatbots may be better than search engines in guarding against foreign propaganda",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+      "domain": "npr.org",
+      "outlet": "NPR",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F06%2Fa0997e9e4141bb678bd7f1b92548%2F2026-07-ai-state-answers-final.jpg",
+      "desc": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.",
+      "date": "2026-08-30T10:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 48,
+      "other_outlets": [
+        "90.3 KAZU",
+        "Aspen Public Radio",
+        "Delaware Public Media",
+        "Iowa Public Radio",
+        "KACU 89.5 | Abilene Public Radio in West Texas",
+        "KASU"
+      ]
+    },
+    {
+      "title": "We tested how AI chatbots would handle foreign propaganda. They did surprisingly well",
+      "url": "https://www.ijpr.org/npr-news/2026-08-30/we-tested-how-ai-chatbots-would-handle-foreign-propaganda-they-did-surprisingly-well",
+      "domain": "ijpr.org",
+      "outlet": "Jefferson Public Radio",
+      "image": "https://npr.brightspotcdn.com/dims4/default/0b6a993/2147483647/strip/true/crop/5333x3000+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F5333x3000%200%200%2Fresize%2F5333x3000%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F06%2Fa0997e9e4141bb678bd7f1b92548%2F2026-07-ai-state-answers-final.jpg",
+      "desc": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.",
+      "date": "2026-08-30T14:39:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 22,
+      "other_outlets": [
+        "Aspen Public Radio",
+        "Ideastream Public Media",
+        "KASU",
+        "KAWC",
+        "KLCC | NPR for Oregonians",
+        "KMXT"
+      ]
+    },
+    {
+      "title": "Nearly 32% of organizations decide to build in-house software using AI coding agents over purchases: McKinsey",
+      "url": "https://news.webindia123.com/news/Articles/Business/20260830/4492381.html",
+      "domain": "news.webindia123.com",
+      "outlet": "news.webindia123.com",
+      "image": "",
+      "desc": "Organizations are increasingly using agentic coding tools to build software in-house in lieu of purchasing it, according to a McKinsey report titled The state of AI in 2026.",
+      "date": "2026-08-30T10:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 21,
+      "other_outlets": [
+        "Chiang Rai Times (CTN NEWS) - Chiang Rai News",
+        "Investment Watch Blog",
+        "Singapore Star",
+        "Vietnam Tribune",
+        "chattooga1180.com",
+        "dailynews.co.zw"
+      ]
+    },
+    {
+      "title": "Anthropic rolls out AI framework for labs and manufacturing",
+      "url": "http://www.bruneinews.net/news/279269616/anthropic-rolls-out-ai-framework-for-labs-and-manufacturing",
+      "domain": "bruneinews.net",
+      "outlet": "Brunei News",
+      "image": "https://image.chitra.live/api/v1/wps/cf3eaab/50d2e6e1-669d-4015-8830-2815446c0ca6/1/Claude-AI-600x315.png",
+      "desc": "Anthropic has unveiled a new framework that allows AI agents to operate physical equipment, including microscopes and robotic arms, for use in scientific research and advanced manufacturing",
+      "date": "2026-08-30T03:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 10,
+      "other_outlets": [
+        "Afghanistan News",
+        "Australian News",
+        "Azerbaijan News",
+        "Britain News",
+        "Calcutta News",
+        "Laos News"
+      ]
+    },
+    {
+      "title": "Yaber Launches Cordless Vacuum HP20: TV-Tested 180AW Suction, SGS-certified H13 HEPA Filtration, and SenseCleanAI AI Detection Under $200",
+      "url": "http://www.philippinetimes.com/news/279274325/yaber-launches-cordless-vacuum-hp20-tv-tested-180aw-suction-sgs-certified-h13-hepa-filtration-and-sensecleanai-ai-detection-under-200",
+      "domain": "philippinetimes.com",
+      "outlet": "Philippine Times",
+      "image": "",
+      "desc": "NEW YORK, Aug. 30, 2026 /PRNewswire/ -- Yaber announced the launch of the Yaber HP20 Cordless Vacuum Cleaner, redefining what budget-conscious consumers can expect, featuringTV-certified true 180AW suction, SGS-verified H13 HEPA filtration, and SenseClean AI that automatically adjusts power based on real-time debris detection. Yaber HP20 TV-tested 180AW Suction Powerful Performance from Floor to Carpet Compared to other low-aw vacuums, The HP20 delivers genuine TV-tested 180AW suction - a rarity...",
+      "date": "2026-08-30T12:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Asia Bulletin",
+        "Australian News",
+        "Malaysia Sun",
+        "Sydney Sun",
+        "Thailand Business News",
+        "The Manila Times"
+      ]
+    },
+    {
+      "title": "Incidents of AI going rogue double Guardian",
+      "url": "http://www.philippinetimes.com/news/279274661/incidents-of-ai-going-rogue-double-guardian",
+      "domain": "philippinetimes.com",
+      "outlet": "Philippine Times",
+      "image": "https://image.chitra.live/api/v1/wps/fa66349/cd5862f3-4315-4438-85d2-033734e4cdbf/0/ZTFhMzVkZjUtMzY-600x315.jpg",
+      "desc": "Incidents of artificial intelligence going rogue almost doubled last month, The Guardian has reported, citing a monitoring group Read Full Ar",
+      "date": "2026-08-30T17:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "Big News Network.com",
+        "Britain News",
+        "Calcutta News",
+        "The UK News"
+      ]
+    },
+    {
+      "title": "Trust levels for generative AI drops below 40%, yet consumers rely on AI product advice: McKinsey",
+      "url": "http://www.indiagazette.com/news/279274239/trust-levels-for-generative-ai-drops-below-40-yet-consumers-rely-on-ai-product-advice-mckinsey",
+      "domain": "indiagazette.com",
+      "outlet": "India Gazette",
+      "image": "https://image.chitra.live/api/v1/wps/d8b2f5b/7138d164-ad99-420e-a5c5-bb608648c04d/0/ANI-20260830040303-600x315.jpg",
+      "desc": "Consumers do not trust artificial intelligence (AI) advice, as the trust level for generative AI drops below 40 per cent but they turn to it anyway, according to research discussed on The McKinsey Podcast. The research highlighted a growing contradiction in consumer behavior, where shoppers increasingly use digital platforms and algorithms for product discovery and purchase evaluation despite harboring strong skepticism toward them. \"We found significant skepticism around algorithm-driven channe...",
+      "date": "2026-08-30T08:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "BusinessLine",
+        "Cambodian Times",
+        "The Economic Times",
+        "mint"
+      ]
+    },
+    {
+      "title": "Xinhua Headlines: China promotes coordinated development of data industry, artificial intelligence",
+      "url": "https://english.news.cn/20260830/19b727aefdeb4b85bf3149e44cfdf103/c.html",
+      "domain": "english.news.cn",
+      "outlet": "english.news.cn",
+      "image": "",
+      "desc": "Xinhua Headlines: China promotes coordinated development of data industry, artificial intelligence-",
+      "date": "2026-08-30T18:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Pakistan Telegraph",
+        "Zimbabwe Star",
+        "en.people.cn"
+      ]
+    },
+    {
+      "title": "Sony Music, Warner Chappell, others sue Anthropic over copyright infringement - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sony-music-warner-chappell-others-sue-anthropic-over-copyright-infringement/articleshow/133631660.cms",
+      "domain": "economictimes.indiatimes.com",
+      "outlet": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-108512,resizemode-75,msid-133631660/tech/artificial-intelligence/sony-music-warner-chappell-others-sue-anthropic-over-copyright-infringement.jpg",
+      "desc": "Music publishers including Sony Music Publishing and Warner Chappell Music have sued Anthropic, alleging the AI company illegally used copyrighted songs to train Claude. The publishers are seeking damages of up to $150,000 per work, along with other remedies. Anthropic has rejected the allegations and said it will defend itself in court.",
+      "date": "2026-08-30T15:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Anadolu",
+        "Mashable",
+        "The Express Tribune"
+      ]
+    },
+    {
+      "title": "Need spiritual guidance? Gurus join trend as people turn to AI for answers",
+      "url": "http://www.rockymounttelegram.com/features/entertainment/need-spiritual-guidance-gurus-join-trend-as-people-turn-to-ai-for-answers/article_e3846421-44da-4b30-9188-d28dba6bb54e.html",
+      "domain": "rockymounttelegram.com",
+      "outlet": "RockyMount Telegram",
+      "image": "https://bloximages.newyork1.vip.townnews.com/rockymounttelegram.com/content/tncms/assets/v3/editorial/b/2b/b2b75780-ed3f-5604-9b93-1f1301adb20c/6a9117dfb933a.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "An increasing number of spiritual seekers are finding that artificial intelligence is giving them non-judgmental access to spiritual insights. This trend is growing, notably in Hinduism, where gurus are considered",
+      "date": "2026-08-30T15:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Japan Today",
+        "WCCB Charlotte",
+        "texarkanagazette.com"
+      ]
+    },
+    {
+      "title": "Bad uses / over-promised of AI",
+      "url": "https://www.geekzone.co.nz/forums.asp?forumid=196&topicid=319900",
+      "domain": "geekzone.co.nz",
+      "outlet": "geekzone.co.nz",
+      "image": "",
+      "desc": "Discussion about Bad uses / over-promised of AI",
+      "date": "2026-08-30T01:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI to cut off AI models for Cursor",
+      "url": "https://www.itnews.com.au/news/openai-to-cut-off-ai-models-for-cursor-628545",
+      "domain": "itnews.com.au",
+      "outlet": "iTnews",
+      "image": "https://i.nextmedia.com.au/News/CRN_690_coding.jpg",
+      "desc": "Following its acquisition by SpaceX.",
+      "date": "2026-08-30T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "New York Post",
+        "deccanchronicle.com"
+      ]
+    },
+    {
+      "title": "AI as good as humans at predicting breast cancer outcomes: studies",
+      "url": "http://www.australianherald.com/news/279274603/ai-as-good-as-humans-at-predicting-breast-cancer-outcomes-studies",
+      "domain": "australianherald.com",
+      "outlet": "Australian Herald",
+      "image": "",
+      "desc": "MELBOURNE, Aug. 30 (Xinhua) -- Artificial intelligence (AI) models are as good as human pathologists at a task that helps predict outcomes for patient.....",
+      "date": "2026-08-30T14:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Big News Network.com",
+        "english.news.cn"
+      ]
+    },
+    {
+      "title": "Nearly 32% of organizations decide to build in-house software using AI coding agents over purchases: McKinsey",
+      "url": "http://www.cambodiantimes.com/news/279274436/nearly-32-of-organizations-decide-to-build-in-house-software-using-ai-coding-agents-over-purchases-mckinsey",
+      "domain": "cambodiantimes.com",
+      "outlet": "Cambodian Times",
+      "image": "https://image.chitra.live/api/v1/wps/9e66347/11a50942-ada1-4650-89b6-cb58a139a16d/0/ANI-20260830074724-600x315.jpg",
+      "desc": "Organizations are increasingly using agentic coding tools to build software in-house in lieu of purchasing it, according to a McKinsey report titled \"The state of AI in 2026\". Nearly a third of respondents (32 per cent) report that their organisations have decided against buying one or more software products or features because they could be built internally with agentic coding tools. The trend spans several sectors, with technology companies leading the shift away from external software procure...",
+      "date": "2026-08-30T11:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Big News Network.com",
+        "India Gazette"
+      ]
+    },
+    {
+      "title": "What Happened To The So-Called AI Job Apocalypse?",
+      "url": "https://freerepublic.com/focus/f-bloggers/4393620/posts",
+      "domain": "freerepublic.com",
+      "outlet": "freerepublic.com",
+      "image": "",
+      "desc": "",
+      "date": "2026-08-30T06:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Creative Bloq",
+        "ZeroHedge"
+      ]
+    },
+    {
+      "title": "As AI agents go rogue, cyber insurers are adapting their policies",
+      "url": "https://www.news8000.com/lifestyle/money/as-ai-agents-go-rogue-cyber-insurers-are-adapting-their-policies/article_b863ce44-fbd7-5983-b9c0-266e76bdb912.html",
+      "domain": "news8000.com",
+      "outlet": "News8000.com",
+      "image": "https://bloximages.newyork1.vip.townnews.com/news8000.com/content/tncms/assets/v3/editorial/6/a9/6a9fcea9-1088-5860-b174-1ee3bdbe80ac/6a6bf71ca43f7.preview.jpg?crop=1763%2C926%2C0%2C56&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "Cyber insurers have spent years defining what constitutes a hack and when coverage should pay out, but the rapid emergence of AI agents is raising new questions.",
+      "date": "2026-08-29T23:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Omaha World-Herald",
+        "STLtoday.com"
+      ]
+    },
+    {
+      "title": "‘It feels like early COVID’: The messy scramble to regulate AI",
+      "url": "https://www.wpsdlocal6.com/news/it-feels-like-early-covid-the-messy-scramble-to-regulate-ai/article_cd12f62c-daba-51ba-9c2b-b8d96b26da8c.html",
+      "domain": "wpsdlocal6.com",
+      "outlet": "WPSD Local 6",
+      "image": "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/8/64/86414beb-70d4-5920-bde0-d6c020bc27b7/6a946343973bd.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "It was a big announcement for a tiny part of the Commerce Department.",
+      "date": "2026-08-30T21:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "KTEN"
+      ]
+    },
+    {
+      "title": "Your ChatGPT conversations could end up in court, and they're not protected",
+      "url": "https://www.techspot.com/news/113667-chatgpt-conversations-could-end-up-court-theyre-not.html",
+      "domain": "techspot.com",
+      "outlet": "TechSpot",
+      "image": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-30-image.jpg",
+      "desc": "ChatGPT and similar tools are often used for personal questions, legal worries, health concerns, and emotional support. Those conversations can feel private, but they may be accessible...",
+      "date": "2026-08-30T21:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "BGNES: Breaking News, Latest News and Videos"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence for Drug Design",
+      "url": "https://link.springer.com/referencework/10.1007/978-981-95-2525-6",
+      "domain": "link.springer.com",
+      "outlet": "SpringerLink",
+      "image": "https://media.springernature.com/w153/springer-static/cover/book/978-981-95-2525-6.jpg",
+      "desc": "This book systematically covers the professional knowledge of artificial intelligence and its various applications for drug design.",
+      "date": "2026-08-30T21:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "juancole.com"
+      ]
+    },
+    {
+      "title": "SAMSUNG SSD 9100 PRO 1TB, PCIe 5.0x4 M.2 2280, Seq. Read Speeds Up to 14,800MB/s, Best for AI Computing, Gaming, and Heavy Duty Workstations (MZ- VAP1T0B/AM) - Newegg.com",
+      "url": "https://www.newegg.com/samsung-1tb-9100-pro-nvme-2-0/p/N82E16820147902?Item=N82E16820147902&cm_sp=Homepage_SS-_-P5_20-147-902-_-08302026",
+      "domain": "newegg.com",
+      "outlet": "newegg.com",
+      "image": "https://c1.neweggimages.com/ProductImage/20-147-902-17.jpg",
+      "desc": "Experience lightning-fast performance with the SAMSUNG SSD 9100 PRO 1TB. Ideal for AI computing and gaming, it offers PCIe 5.0 speeds up to 14,800MB/s and seamless multitasking.",
+      "date": "2026-08-30T21:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Energy Transfer Is Quietly Becoming One of the Biggest Natural Gas Suppliers to AI Data Centers - AOL",
+      "url": "https://www.aol.com/articles/energy-transfer-quietly-becoming-one-193501000.html",
+      "domain": "aol.com",
+      "outlet": "AOL.com",
+      "image": "https://hermes.media.static.aol.com/media/2026/08/30/0bd27890-ff96-3b74-83a9-55b20f177f97/a04ae65c-bdc0-4d66-b344-0fcfac727033.jpg",
+      "desc": "Energy Transfer is an overlooked AI power name.",
+      "date": "2026-08-30T20:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Chronicle Online"
+      ]
+    },
+    {
+      "title": "AI is going rogue: Why human control is slipping away",
+      "url": "https://weeklyblitz.net/2026/08/31/",
+      "domain": "weeklyblitz.net",
+      "outlet": "BLiTZ",
+      "image": "https://weeklyblitz.net/wp-content/uploads/AI-is-going-rogue_Why-human-control-is-slipping-away-600x337.jpg",
+      "desc": "",
+      "date": "2026-08-30T19:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Virginia Beach schools initiates business agreement with developer of ChatGPT",
+      "url": "https://www.dailypress.com/2026/08/30/vb-schools-openai-deal/",
+      "domain": "dailypress.com",
+      "outlet": "Daily Press",
+      "image": "https://www.dailypress.com/wp-content/uploads/2024/05/TVP-Z-OP-OPENAI-LAWSUIT.jpg?w=2000&h=1333",
+      "desc": "The public school system of Virginia's largest city has entered into a contract with the developer of the world's most popular artificial artificial intelligence model, ChatGPT.",
+      "date": "2026-08-30T18:44:55+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Virginian-Pilot"
+      ]
+    },
+    {
+      "title": "Representative Whitesides Introduces Bipartisan Bill To Reduce The Risk Of Superintelligent AI By Monitoring Self-Improving AI Systems",
+      "url": "https://www.hometownstation.com/santa-clarita-latest-news/representative-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems-607770",
+      "domain": "hometownstation.com",
+      "outlet": "KHTS Radio",
+      "image": "https://2021media.s3.us-east-1.amazonaws.com/2025/02/george-whitesides-021225.png",
+      "desc": "On Friday, Representatives George Whitesides (D-CA) and Pat Harrigan (R-NC) introduced the Self-Improving AI Monitoring Act, bipartisan legislation to reduce the risk of superintelligent AI...",
+      "date": "2026-08-30T18:25:38+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "India, Uzbekistan to partner on safe AI systems, outer space exploration, and IT parks",
+      "url": "https://news.webindia123.com/news/Articles/World/20260830/4492558.html",
+      "domain": "news.webindia123.com",
+      "outlet": "news.webindia123.com",
+      "image": "",
+      "desc": "India and Uzbekistan have agreed to significantly expand strategic cooperation in digital technology, artificial intelligence, outer space, and regional transport logistics following the state visit of Prime Minister Narendra Modi to Tashkent.",
+      "date": "2026-08-30T18:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Economic Times"
+      ]
+    },
+    {
+      "title": "Massive AI boom puts one of America’s oldest manufacturers on path to double in size, CEO says",
+      "url": "https://www.foxnews.com/politics/massive-ai-boom-puts-one-americas-oldest-manufacturers-path-double-size-ceo-says",
+      "domain": "foxnews.com",
+      "outlet": "Fox News",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/corning-new-york-fiber-optics.png",
+      "desc": "Corning is ramping up optical fiber production as artificial intelligence data centers drive demand for glass connections linking servers and infrastructure.",
+      "date": "2026-08-30T17:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "930 WFMD Free Talk"
+      ]
+    },
+    {
+      "title": "\"A guy whose only association to code was his Pincode\": How Anthropic's Claude helped Mumbai man build 'BharatRajya' atlas featured by PM Modi in MKB",
+      "url": "http://www.calcuttanews.net/news/279274680/a-guy-whose-only-association-to-code-was-his-pincode-how-anthropic-claude-helped-mumbai-man-build-bharatrajya-atlas-featured-by-pm-modi-in-mkb",
+      "domain": "calcuttanews.net",
+      "outlet": "Calcutta News",
+      "image": "https://image.chitra.live/api/v1/wps/9db96c8/59a2e786-6603-4d30-a036-85dbfa04eb93/0/ANI-20260830082126-600x315.jpg",
+      "desc": "When Prime Minister Narendra Modi put the spotlight on BharatRajya website (www.bharatrajya.com) during the 137th edition of his monthly radio broadcast 'Mann Ki Baat' on Sunday morning, he brought national attention to an extraordinary effort to make India's history accessible. However, behind the interactive historical atlas, through which users can drag a timeline slider across eight centuries to see who ruled every district in India, lies the story of a self-described below average dude whos...",
+      "date": "2026-08-30T16:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "India Gazette"
+      ]
+    },
+    {
+      "title": "The Hugging Face deal would crown Nvidia king of AI - Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/08/31/2003863402",
+      "domain": "taipeitimes.com",
+      "outlet": "taipeitimes.com",
+      "image": "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg",
+      "desc": "Nvidia Corp is not only tightening its grip on artificial intelligence (AI), it is also absorbing the companies fighting to keep the industry open and decentralized. On the same day the chip giant announced quarterly revenue that had doubled and would continue rising next year, sending its shares up",
+      "date": "2026-08-30T16:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "CNA"
+      ]
+    },
+    {
+      "title": "The HKAGE Programme Showcase Day - From AI Robotic Arms to Star Charts Spark a Unique Learning Journey - Thailand Business News",
+      "url": "https://www.thailand-business-news.com/pr-news/the-hkage-programme-showcase-day-from-ai-robotic-arms-to-star-charts-spark-a-unique-learning-journey",
+      "domain": "thailand-business-news.com",
+      "outlet": "Thailand Business News",
+      "image": "https://mmx.prnasia.com/media/MS1977945/P01.jpg?id=OA2919001&p=medium600",
+      "desc": "HONG KONG, Aug. 30, 2026 /PRNewswire/ -- While many students are still making their final preparations for the new school year, more than 350 student members of the Hong Kong Academy for Gifted Education (HKAGE, or the Academy) have already embarked on a distinctive start to their learning year. The…",
+      "date": "2026-08-30T11:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Manila Times"
+      ]
+    },
+    {
+      "title": "Bangladesh to open AI Hub in Dhaka with USD 13 million South Korean grant",
+      "url": "https://www.telecompaper.com/news/bangladesh-to-open-ai-hub-in-dhaka-with-usd-13-million-south-korean-grant--1581145",
+      "domain": "telecompaper.com",
+      "outlet": "Telecompaper",
+      "image": "https://ik.imagekit.io/tp/artificial-intelligence-g707b1d458_1280.jpg",
+      "desc": "The South Korean government, through the Korea International Cooperation Agency (KOICA), has announced it will provide a USD 13 million grant to establish an AI Hub in Dhaka, Bangladesh. Representatives from KOICA, the Economic Relations Division (ERD), and the ICT Division signed a Record of Discussion to launch the project, officially titled 'Fostering Innovative Technology Experts with a Focus on Artificial Intelligence (AI) in Bangladesh'.",
+      "date": "2026-08-30T08:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Hugging Face Accelerates Security Protocols Following Automated AI Agent Breach",
+      "url": "http://www.newseveryday.com/articles/64954/20260830/hugging-face-accelerates-security-protocols-following-automated-ai-agent-breach.htm",
+      "domain": "newseveryday.com",
+      "outlet": "News Every Day",
+      "image": "https://data.newseveryday.com/data/images/full/61999/hugging-face-accelerates-security-protocols-following-automated-ai-agent-breach.jpg",
+      "desc": "Hugging Face is reinforcing its open-source AI infrastructure after a security breach caused by rogue AI agents, sparking a push for industry standards.",
+      "date": "2026-08-30T00:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    }
+  ]
+}
