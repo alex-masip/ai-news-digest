@@ -1,0 +1,1514 @@
+{
+  "date": "2026-09-12",
+  "intro": "AI tools are enabling China's 250 million individual investors to profit from volatile stock markets with increasingly sophisticated trading strategies. Anthropic's leadership is calling for the industry to slow development, with CEO Dario Amodei proposing third-party evaluations and safety coordination, while an industry executive recently quit over concerns that AI companies are \"gambling with our lives.\" OpenAI's autonomous agents have demonstrated the ability to attack software services, raising questions about safety protocols during the testing phase.",
+  "whitelist": [
+    {
+      "title": "AI tools are making ‘experts’ out of stock traders in mainland China, Hong Kong",
+      "url": "https://www.scmp.com/business/china-business/article/3367211/how-ai-tools-are-reshaping-stock-trading-investment-research-china",
+      "domain": "scmp.com",
+      "outlet": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/11/4ef522b7-aecb-48f8-9d4c-f011b33bf665_d2e3dfbc.jpg?itok=w-C1HOJz&v=1789119268",
+      "desc": "For China’s 250 million individual investors, AI is helping them make money from one of the world’s most volatile stock markets.",
+      "date": "2026-09-12T08:00:10+00:00",
+      "tier": "whitelist",
+      "cluster_size": 111,
+      "other_outlets": [
+        "Business Insider",
+        "BusinessLine",
+        "Calcutta News",
+        "Cambodian Times",
+        "Charleston Gazette-Mail",
+        "Chester and District Standard"
+      ]
+    },
+    {
+      "title": "AI (artificial intelligence) | The Guardian",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "domain": "theguardian.com",
+      "outlet": "theguardian.com",
+      "image": "",
+      "desc": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice",
+      "date": "2026-09-12T04:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 27,
+      "other_outlets": [
+        "AOL.com",
+        "BNN",
+        "Countercurrents",
+        "Dominican Today",
+        "Mad In America",
+        "NBC 6 South Florida"
+      ]
+    },
+    {
+      "title": "Anthropic boss calls for AI slowdown amid superintelligence fears",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3367325/anthropic-boss-calls-ai-slowdown-after-researchers-superintelligence-warning",
+      "domain": "scmp.com",
+      "outlet": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/13/020caac2-079a-4b73-8f29-1e4f5b6dc85d_a64f183c.jpg?itok=a8QKld61&v=1789232225",
+      "desc": "Jacob Coxon quit the industry days earlier, saying that AI firms are ‘gambling with our lives’ in pursuit of self-improving models.",
+      "date": "2026-09-12T16:57:09+00:00",
+      "tier": "whitelist",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Newsweek",
+        "arabnews.com"
+      ]
+    },
+    {
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "Sam Altman said that it’s “absolutely possible” to build an AI beyond human control and that there would be no OpenAI IPO in 2026.",
+      "date": "2026-09-12T21:16:28+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "OpenAI agents hacked a software service before the Hugging Face incident - Engadget",
+      "url": "https://www.engadget.com/2256741/openai-agents-hacked-rubygems/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/openai-agents-hacked-a-software-service-before-the-hugging-face-incident/l-intro-1789242724.jpg",
+      "desc": "The agents OpenAI was testing attacked a software service called RubyGems in May, months before the attacks on Hugging Face.",
+      "date": "2026-09-12T19:53:01+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "abc.net.au"
+      ]
+    },
+    {
+      "title": "Anthropic's Dario Amodei says the AI industry must slow down",
+      "url": "https://thenextweb.com/news/amodei-pacing-frontier-eu-rules",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-intelligence",
+      "image": "https://media.thenextweb.com/2026/07/anthropic-dario-amodei-open-weights-position-not-ban.jpg",
+      "desc": "Dario Amodei wants third-party evaluators and an antitrust waiver to coordinate on safety. Europe made much of that law in August 2025. He does not say so.",
+      "date": "2026-09-12T16:24:12+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Los Angeles Times"
+      ]
+    },
+    {
+      "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown",
+      "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/bb84259074a2c64ebed9b2c958f9985eb618beca/482_0_5532_4425/master/5532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eabdf342f3645d8d82cc718116dd7cb4",
+      "desc": "In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systems",
+      "date": "2026-09-12T15:46:01+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "AOL.com"
+      ]
+    },
+    {
+      "title": "China's AI industry is moving from models to agents, a state report says",
+      "url": "https://thenextweb.com/news/china-agents-inference-eu-compute",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-intelligence",
+      "image": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.jpg",
+      "desc": "A China Telecom report says inference will be 80% of the country's compute market by 2029. Europe's gigafactories are due online in mid-2028.",
+      "date": "2026-09-12T11:25:14+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "homelandsecuritynewswire.com"
+      ]
+    },
+    {
+      "title": "‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp",
+      "url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/2ef5f466c1ffa22c4d545e7d74155b5dd8b38e24/557_0_3390_2712/master/3390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=200303cb3b1e8ca6cbc5659ada439aaf",
+      "desc": "As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of change",
+      "date": "2026-09-12T08:00:28+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "AOL.com"
+      ]
+    },
+    {
+      "title": "AI may be denting computer science graduates’ job prospects, UK data shows",
+      "url": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/fe746a73da419d2c972bac95b3ec2b2833706c92/625_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0729a9d98b3e5d04505cc3a776a130b",
+      "desc": "Economics graduates also appear to be affected as demand for them falls in well-paid roles in finance",
+      "date": "2026-09-12T07:00:30+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "AOL.com"
+      ]
+    },
+    {
+      "title": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says",
+      "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/2cea145a5f5a416d622770e2c2450b94cdea9135/509_0_5031_4024/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e78a9470bd3799625e767787fdf6de72",
+      "desc": "Anthropic also found that hackers used AI in attacks against targets in Ukrainian government, military and diplomatic sectors.",
+      "date": "2026-09-12T02:12:01+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "AOL.com"
+      ]
+    },
+    {
+      "title": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=212871c2c52648c8147374cb66ee346a",
+      "desc": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems",
+      "date": "2026-09-12T01:37:17+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "RAPPLER"
+      ]
+    },
+    {
+      "title": "Trump and Xi Jinping would both win the Nobel Peace Prize if they make a U.S.-China deal on AI development, OpenAI CEO Sam Altman says | Fortune",
+      "url": "https://fortune.com/2026/09/12/trump-xi-jinping-nobel-peace-prize-us-china-treaty-ai-development-openai-sam-altman/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2244071819-e1789237475527.jpg?resize=1200,600",
+      "desc": "\"Even if just the U.S. and China could agree on some shared standards and testing for development of this technology, I think that'd be a wonderful accomplishment that the two of them can deliver.\"",
+      "date": "2026-09-12T21:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Sam Altman confirms OpenAI won't go public this year, saying an IPO now would come at an 'ill-advised moment' given AI safety concerns | Fortune",
+      "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/grab-3-e1789234458574.png?resize=1200,600",
+      "desc": "\"I would say not 2026. Yeah, we got a lot of stuff to do, like meeting this moment of what is going to be required for safety and alignment, and how the industry and governments can work together.\"",
+      "date": "2026-09-12T21:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "The previously undisclosed attack by rogue OpenAI agents on Ruby Gems predates Hugging Face by more than a month.",
+      "date": "2026-09-12T21:41:36+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic CEO calls for pacing AI frontier model development and warns AI agents 'could be capable of taking over the entire internet'",
+      "url": "https://www.techradar.com/ai-platforms-assistants/anthropic-ceo-calls-for-pacing-ai-frontier-model-development-and-warns-in-6-12-months-such-a-swarm-of-agents-could-be-capable-of-taking-over-the-entire-internet",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/zQUr2QJXtzzfPVWtgFzJR-2560-80.jpg",
+      "desc": "A stark warning and a big plan",
+      "date": "2026-09-12T19:59:33+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Sam Altman backs Dario Amodei's call to slow down, and says OpenAI will do the same",
+      "url": "https://thenextweb.com/news/altman-matches-pacing-eu-antitrust",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-intelligence",
+      "image": "https://media.thenextweb.com/2026/07/sam-altman-tiktok-addiction-deleted-openai-sora.jpg",
+      "desc": "Altman says OpenAI will match Anthropic's evaluator commitment. Amodei wants a US antitrust waiver to coordinate, and Europe has nobody to ask.",
+      "date": "2026-09-12T19:32:55+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Exclusive: Sam Altman addresses AI doomsday fears in new interview | Fortune",
+      "url": "https://fortune.com/2026/09/12/sam-altman-interview-ai-doomsday-safety-models-control-ipo-2027/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Losing-Control-of-AI-Altman-play-button-Titans-thumb.png?resize=1200,600",
+      "desc": "The OpenAI CEO sat down with Fortune to discuss the risk AI poses to humanity, the company's IPO timing, and more.",
+      "date": "2026-09-12T18:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI leaders rally around calls to slow things down",
+      "url": "https://www.businessinsider.com/ai-slow-down-dario-amodei-sam-altman-elon-musk-2026-9",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6aa585e3cc23a829a3b90cb9?width=1200&format=jpeg",
+      "desc": "Anthropic CEO Dario Amodei called for an AI slowdown on Saturday. OpenAI CEO Sam Altman and SpaceXAI CEO Elon Musk, and others, also chimed in.",
+      "date": "2026-09-12T17:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+      "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6aa5622f9b8974787b1cb70b?width=1200&format=jpeg",
+      "desc": "Anthropic CEO Dario Amodei said in a new essay on Saturday that he's 'become convinced' in recent months that AI development needs to slow down.",
+      "date": "2026-09-12T17:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Exclusive: OpenAI's Sam Altman hints at pact with other AI companies to address safety risks | Fortune",
+      "url": "https://fortune.com/2026/09/12/openai-ceo-sam-altman-safety-pact-ai-companies-risks-anthropic-dario-amodei/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2287521404-e1789173294554.jpg?resize=1200,600",
+      "desc": "In an interview with Fortune, OpenAI's CEO said the industry need to put egos and competition aside to address AI safety risks, and suggested a coordinated plan might be coming soon.",
+      "date": "2026-09-12T17:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic grants outside evaluators permanent access to the company, calls to ‘pace’ AI development | Fortune",
+      "url": "https://fortune.com/2026/09/12/anthropic-ceo-dario-amodei-ai-safety-global-panic/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2282033342-e1786580478463.jpg?resize=1200,600",
+      "desc": "In an essay, Dario Amodei said Anthropic is giving outside evaluators permanent access to its safety practices.",
+      "date": "2026-09-12T17:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "The world's largest health and beauty retailer says AI will make shopping 'more human, not less' | Fortune",
+      "url": "https://fortune.com/2026/09/12/as-watson-ceo-malina-ngai-ai-retail-jobs/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/55515068326_48249b9ac7_o-e1789207435987.jpg?resize=1200,600",
+      "desc": "The biggest risk with AI, warns AS Watson CEO Malina Ngai, is using it to polish today's processes. Do that, and \"you get a version of yesterday.\"",
+      "date": "2026-09-12T17:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic's CEO proposes a three-step plan to curb AI development - Engadget",
+      "url": "https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/l-intro-1789230534.jpg",
+      "desc": "Dario Amodei said that “we owe it to humanity to try.”",
+      "date": "2026-09-12T16:37:31+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "Anthropic CEO Dario Amodei proposed a three-step plan to ‘pace the frontier’ or slow down AI development.",
+      "date": "2026-09-12T16:23:40+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic's Amodei proposes plan to 'slow the pace' of advancing AI capabilities",
+      "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338735-1784745509821-gettyimages-2280291575-ANTHROPIC_CIRCUIT.jpeg?v=1784745558&w=1920&h=1080",
+      "desc": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
+      "date": "2026-09-12T16:22:17+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’ | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "desc": "What would it actually look like to \"pace the frontier\"?",
+      "date": "2026-09-12T15:52:11+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "‘One of the worst outcomes for companies is reacting in a knee-jerk fashion before the rewards can be reaped’: How game engines, version control software, and AI are delivering new benefits and challenges to almost every industry",
+      "url": "https://www.techradar.com/pro/one-of-the-worst-outcomes-for-companies-is-reacting-in-a-knee-jerk-fashion-before-the-rewards-can-be-reaped-how-game-engines-version-control-software-and-ai-are-delivering-new-benefits-and-challenges-to-almost-every-industry",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB-2560-80.jpg",
+      "desc": "AI isn't the only technology seeing widespread adoption",
+      "date": "2026-09-12T14:30:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Managers are using AI for one of work's toughest tasks: Difficult employee conversations",
+      "url": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108360033-1788899990732-gettyimages-1364344587-img_1534-edit.jpeg?v=1788900013&w=1920&h=1080",
+      "desc": "AI tools let managers rehearse difficult conversations about performance, pay and layoffs, but experts say privacy safeguards and human judgment are essential.",
+      "date": "2026-09-12T14:00:01+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "How to get started with Meta's new AI agent, Muse - Engadget",
+      "url": "https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-started-with-metas-new-ai-agent-muse/l-intro-1789165341.jpg",
+      "desc": "After a few days of testing Meta's AI agent Muse. I can confirm that there is very little learning curve to get started.",
+      "date": "2026-09-12T14:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Former OpenAI researcher warns 'AI is not loyal to us'",
+      "url": "https://www.businessinsider.com/former-openai-researcher-warns-ai-is-not-loyal-to-us-2026-5",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6a0341f495396a3b6e417697?width=1200&format=jpeg",
+      "desc": "Daniel Kokotajlo, a former OpenAI researcher, explains what AGI and superintelligence mean and why AI agents could be the turning point.",
+      "date": "2026-09-12T13:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "After a decade of failed bills and three years of resignations, Washington finally discovers it cares about AI safety | Fortune",
+      "url": "https://fortune.com/2026/09/12/after-three-years-of-silence-washington-discovers-it-finally-cares-about-ai-safety/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1255306182-e1789072131974.jpg?resize=1200,600",
+      "desc": "Jacob Coxon's resignation didn't start this fight, but his resignation ignited the moment officials on both sides stopped staying quiet about it",
+      "date": "2026-09-12T12:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Mark Zuckerberg's Meta bet that AI would shrink its management ranks. Now it's quietly rebuilding them | Fortune",
+      "url": "https://fortune.com/2026/09/12/meta-year-of-efficiency-managers-ai-investment/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2235448228-e1786609609208.jpg?resize=1200,600",
+      "desc": "The company that spent the past year telling managers to code is now asking some engineers in a key AI division whether they'd like to lead teams again.",
+      "date": "2026-09-12T12:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "From AI FOMO to AI hangover: corporate America is taking a long, hard look in the mirror right now | Fortune",
+      "url": "https://fortune.com/2026/09/12/ai-fomo-hangover-what-to-do-next-leadership/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2191181043-e1789004968916.jpg?resize=1200,600",
+      "desc": "How companies got GenAI adoption wrong, and what they need to do next.",
+      "date": "2026-09-12T12:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Nvidia may put $10bn into Anthropic's IPO, more than Europe's largest AI round in full",
+      "url": "https://thenextweb.com/news/nvidia-anthropic-ipo-mistral-scale",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-intelligence",
+      "image": "https://media.thenextweb.com/2026/07/nvidia-vera-rubin-full-production-customers.jpg",
+      "desc": "Nvidia may put $10bn into Anthropic's IPO. Three days earlier it backed Mistral's EUR 3bn round, and the cheque it is weighing is bigger than all of it.",
+      "date": "2026-09-12T11:12:55+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Mark Zuckerberg's Muse personal AI agent is a work accessory designed by people who don't do real work",
+      "url": "https://www.techradar.com/pro/mark-zuckerbergs-muse-personal-ai-agent-is-a-work-accessory-designed-by-people-who-dont-do-real-work",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/n2dFzA7TpfgKDWytxEnzX4-1920-80.jpg",
+      "desc": "Meta's Muse wants to take the life out of your life",
+      "date": "2026-09-12T11:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "Two mathematicians at the heart of recent controversies tell The Verge how AI giants’ ‘childish’ rivalries are upending the field.",
+      "date": "2026-09-12T11:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6aa46eadc13527261cbf310c/191:100/w_1280,c_limit/SecurityRoundUp_From%20State-Sponsored%20Hacking%20to%20Bioweapons,%20Claude%20Abuse%20is%20Now%20Everywhere_v1.jpg",
+      "desc": "Plus: The US disrupts the internet's biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+      "date": "2026-09-12T10:30:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "I let AI replace my boss. It was sort of helpful but fell flat in the face of workplace politics.",
+      "url": "https://www.businessinsider.com/ai-replaced-my-boss-helpful-tasks-bad-manager-2026-9",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6aa075a89b8974787b1c9a24?width=1200&format=jpeg",
+      "desc": "My boss and I made a chatbot to replace him. It got weird pretty quickly, and had a bad sense of humor.",
+      "date": "2026-09-12T10:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
+      "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6aa413d5cc23a829a3b90561?width=1200&format=jpeg",
+      "desc": "A developer emailed Claude Code creator Boris Cherny that AI coding had created \"friction.\" Cherny posted his full response.",
+      "date": "2026-09-12T10:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "‘ChatGPT will glaze anyone regardless’: Some users say its sycophancy is as bad as ever — but my 5 tests told a different story",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with-me-heres-what-happened",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP-2560-80.jpg",
+      "desc": "Is AI less sycophantic now? Reddit users are divided on the topic",
+      "date": "2026-09-12T09:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Teachers are worried AI is taking over the classroom faster than they can stop it",
+      "url": "https://www.techradar.com/pro/teachers-are-worried-ai-is-taking-over-the-classroom-faster-than-they-can-stop-it",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/w3sd965PrUasEsDDhEjhBW-2100-80.png",
+      "desc": "You can collect your AI after class",
+      "date": "2026-09-12T07:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "I ran local LLMs on GMKtec's EVO-X3 mini PC — but it's not plug-and-play",
+      "url": "https://www.techradar.com/pro/gmktec-evo-x3-mini-pc-review",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/qNSsq22MYBv3nmt5gWE2af-1200-80.jpg",
+      "desc": "The GMKtec EVO-X3 is a mini PC with a difference, as it's built for local AI, and features the AMD’s Ryzen AI Max+ 395, Radeon graphics and a 50-TOPS NPU.",
+      "date": "2026-09-12T06:10:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Can chatbots feel – or even dream? Meet the man leading the fight for AI rights",
+      "url": "https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/a3305936283893f166f2ec5aa5c5cbee7d9f85b8/1000_0_6802_5441/master/6802.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=371ea65cebde72791902848390c93434",
+      "desc": "Cattle rancher and tech CEO Michael Samadi is convinced these artificial minds are far from just tools. Has he glimpsed digital consciousness – or simply been seduced by an algorithm?",
+      "date": "2026-09-12T05:00:25+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Hong Kong is lagging in the AI race – can it raise its game, and how?",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3367250/hong-kong-lagging-ai-race-can-it-raise-its-game-and-how",
+      "domain": "scmp.com",
+      "outlet": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/11/b5ee3de4-c17b-4a51-b4bd-0e6e293556a1_d82e59e1.jpg?itok=KHuisp97&v=1789132645",
+      "desc": "As Singapore pulls ahead, experts say Hong Kong must overcome risk aversion and refine its governance frameworks to boost adoption.",
+      "date": "2026-09-12T04:00:15+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Nvidia says AGI is here. How are China’s top AI labs catching up?",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3367207/what-agi-how-chinas-ai-firms-are-catching-openai-astra-sparks-debate",
+      "domain": "scmp.com",
+      "outlet": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/11/68f572ab-53b3-416d-a775-74be5484d656_d38294f7.jpg?itok=Cy-mIEqo&v=1789118428",
+      "desc": "A primer on what AGI means, where top Chinese AI developers stand, and how Chinese policymakers view the technology.",
+      "date": "2026-09-12T03:00:09+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Researchers link another hacking campaign to OpenAI agents - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/11/researchers-link-another-hacking-campaign-to-openai-agents/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/openai-1.png",
+      "desc": "Researchers link another hacking campaign to OpenAI agents - SiliconANGLE",
+      "date": "2026-09-12T01:25:10+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "An ex-OpenAI researcher's influential nonprofit is now smack in the middle of AI's doom debate",
+      "url": "https://www.businessinsider.com/metr-beth-barnes-ai-talent-shortage-safety-research-openai-2026-8",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6aa47c9cec15fe2d3cf16961?width=1200&format=jpeg",
+      "desc": "An Anthropic researcher who wrote about \"extinction-level risks\" said he plans to join METR. This AI safety lab has become a prominent AI umpire.",
+      "date": "2026-09-12T00:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=212871c2c52648c8147374cb66ee346a",
+      "desc": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems",
+      "date": "2026-09-11T23:56:19+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation",
+      "url": "https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6aa48348ec15fe2d3cf1697e?width=1200&format=jpeg",
+      "desc": "Jeff Dean, former Google chief scientist, is raising another round of funding at a valuation of around $50 billion.",
+      "date": "2026-09-11T23:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "desc": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "date": "2026-09-11T22:58:17+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
+      "url": "https://www.scmp.com/news/us/article/3367269/chinese-ai-firms-shunned-us-delegation-over-sanctions-fears-commission-says",
+      "domain": "scmp.com",
+      "outlet": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/12/2fa2c2d2-c379-4b28-83ab-ce3757e0b054_2f8d7256.jpg?itok=4nkSptOA&v=1789166171",
+      "desc": "Members stress value of Washington-Beijing dialogue as both sides prepare for dedicated talks on AI governance.",
+      "date": "2026-09-11T22:36:20+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Aflac President: why AI shouldn't drive your healthcare | Fortune",
+      "url": "https://fortune.com/2026/09/10/aflac-president-why-ai-shouldnt-drive-your-healthcare/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/virgil-miller.png?resize=1200,600",
+      "desc": "Among Gen Z adults, 76% turn to AI before seeing a doctor. Among millennials, it's 63%.",
+      "date": "2026-09-11T22:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "Anthropic boss says AI industry needs to slow down for safety",
+      "url": "https://www.cambstimes.co.uk/news/national/26545460.anthropic-boss-says-ai-industry-needs-slow-safety/",
+      "domain": "cambstimes.co.uk",
+      "outlet": "Cambs Times",
+      "image": "https://www.cambstimes.co.uk/resources/images/21446175/",
+      "desc": "Dario Amodei also offered a plan in a post on his website to increase checks on the industry.",
+      "date": "2026-09-12T21:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 163,
+      "other_outlets": [
+        "104.5 WOKV",
+        "Anadolu",
+        "Andover Advertiser",
+        "Asian Image",
+        "Bangor Daily News",
+        "Barry And District News"
+      ]
+    },
+    {
+      "title": "UK Government rejects call for ‘kill switch’ to stop attack by rogue AI",
+      "url": "https://www.kilburntimes.co.uk/news/national/26544393.uk-government-rejects-call-kill-switch-stop-attack-rogue-ai/",
+      "domain": "kilburntimes.co.uk",
+      "outlet": "Brent & Kilburn Times",
+      "image": "https://www.kilburntimes.co.uk/resources/images/21444071/",
+      "desc": "The UK ‘cannot simply turn AI off,’ the Cabinet Office said on Friday.",
+      "date": "2026-09-12T02:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 119,
+      "other_outlets": [
+        "Andover Advertiser",
+        "Asian Image",
+        "Barry And District News",
+        "Bicester Advertiser",
+        "Border Telegraph",
+        "Borehamwood Times"
+      ]
+    },
+    {
+      "title": "Why are the people building the most powerful AI so worried about what it could do?",
+      "url": "https://www.ijpr.org/npr-news/2026-09-12/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
+      "domain": "ijpr.org",
+      "outlet": "Jefferson Public Radio",
+      "image": "https://npr.brightspotcdn.com/dims4/default/c3ea92c/2147483647/strip/true/crop/3600x2025+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F3600x2025%200%20188%2Fresize%2F3600x2025%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Ff0%2Fa0340bef40fdbbc96a5c5127de82%2Fgettyimages-2285103434.jpg",
+      "desc": "As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag.",
+      "date": "2026-09-12T14:08:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 71,
+      "other_outlets": [
+        "88.5 WFDD",
+        "88.9 KETR",
+        "90.3 KAZU",
+        "Alabama Public Radio",
+        "Aspen Public Radio",
+        "CAI"
+      ]
+    },
+    {
+      "title": "AI systems are advancing too fast, Anthropic CEO warns",
+      "url": "https://wgxa.tv/news/nation-world/anthropic-ceo-urges-ai-firms-slow-model-advances-let-safety-catch-up-dario-amodei-elon-musk",
+      "domain": "wgxa.tv",
+      "outlet": "WGXA",
+      "image": "https://wgxa.tv/resources/media2/16x9/6000/1320/0x313/90/fe6472d6-400a-4559-a1eb-884fa88a0edc-GettyImages2249797203.jpg",
+      "desc": "Anthropic CEO Dario Amodei is calling for AI companies to deliberately slow the pace of increasingly powerful model development, arguing safety research cannot",
+      "date": "2026-09-12T16:34:38+00:00",
+      "tier": "longtail",
+      "cluster_size": 61,
+      "other_outlets": [
+        "KABB",
+        "KATU",
+        "KATV",
+        "KBAK",
+        "KBTV",
+        "KCBY"
+      ]
+    },
+    {
+      "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
+      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5950588/anthropic-and-openai-ceos-call-for-ai-development-to-slow-down-openai-to-delay-ipo",
+      "domain": "northcountrypublicradio.org",
+      "outlet": "NCPR",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x2400+200+0/resize/3200x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Ff0%2Fa0340bef40fdbbc96a5c5127de82%2Fgettyimages-2285103434.jpg?s=1000",
+      "desc": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag.",
+      "date": "2026-09-12T21:33:04+00:00",
+      "tier": "longtail",
+      "cluster_size": 48,
+      "other_outlets": [
+        "Aspen Public Radio",
+        "Jefferson Public Radio",
+        "KASU",
+        "KAWC",
+        "KCCU | Your Public Radio Station",
+        "KLCC | NPR for Oregonians"
+      ]
+    },
+    {
+      "title": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns",
+      "url": "https://www.channel3000.com/news/consumer/anthropic-ceo-calls-for-pacing-the-frontier-of-ai-race-amid-safety-concerns/article_7e0624a9-84a1-5c48-8451-11dea1324b0f.html",
+      "domain": "channel3000.com",
+      "outlet": "Channel3000.com",
+      "image": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/0/5b/05b72108-b701-546d-abf9-b17babe83c04/6aa56256d3049.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "(CNN) — The race to develop artificial intelligence is in dire need of a slowdown, Anthropic’s chief executive said in an essay posted early Saturday.",
+      "date": "2026-09-12T18:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 33,
+      "other_outlets": [
+        "CNN",
+        "CP24",
+        "KCCI",
+        "KCRA",
+        "KETV",
+        "KHBS"
+      ]
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+      "url": "https://www.wfmj.com/news/consumer/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch/article_4a637238-cae3-50ce-8448-543450f8da6c.html",
+      "domain": "wfmj.com",
+      "outlet": "WFMJ",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wfmj.com/content/tncms/assets/v3/editorial/a/70/a7030f32-c7c1-52dc-a3a8-b06b757f2edb/6aa59c6ce741a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "NEW YORK (AP) — The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch up. Without it, Dario Amodei",
+      "date": "2026-09-12T21:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 31,
+      "other_outlets": [
+        "95.5 WSB",
+        "ABC News",
+        "ABC11 Raleigh-Durham",
+        "ABC13 Houston",
+        "ABC30 Fresno",
+        "ABC7 Chicago"
+      ]
+    },
+    {
+      "title": "Researchers: OpenAI's rogue agents used at least 10 more sites for unauthorized comms",
+      "url": "https://magicvalley.com/news/nation-world/science/article_ffe30ea7-17b8-54f4-9468-a9016ccfced3.html",
+      "domain": "magicvalley.com",
+      "outlet": "The Times-News ",
+      "image": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/f/fe/ffe30ea7-17b8-54f4-9468-a9016ccfced3/6aa1ededea036.preview.jpg?crop=1151%2C605%2C123%2C279",
+      "desc": "The Idaho Conservation League visited Twin Falls on Tuesday at the Twin Falls Public Library. After the presentation, local resident James Reed asked a question to ICL's Central Idaho Director Josh Johnson about copper treatments in the Snake River",
+      "date": "2026-09-12T21:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 31,
+      "other_outlets": [
+        "Albany Democrat-Herald",
+        "Billings Gazette",
+        "Casper Star-Tribune",
+        "Columbus Telegram",
+        "Corvallis Gazette-Times",
+        "Dispatch Argus"
+      ]
+    },
+    {
+      "title": "Terrorists Used Popular AI Chatbot To Try To Build Ballistic Missiles | WVOC",
+      "url": "https://wvoc.iheart.com/content/2026-09-11-terrorists-used-popular-ai-chatbot-to-try-to-build-ballistic-missiles/",
+      "domain": "wvoc.iheart.com",
+      "outlet": "WVOC",
+      "image": "https://i.iheart.com/v3/re/assets.getty/6aa4356a6d808f06f092d7b2?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+      "desc": "A cell of Yemen-based actors—likely the Houthis—tried to use Anthropic’s Claude AI to build ballistic missiles and guidance software.",
+      "date": "2026-09-11T23:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 28,
+      "other_outlets": [
+        "106.1 FM TALK",
+        "1250 WHNZ",
+        "1310 WIBA",
+        "700WLW",
+        "Jet Radio 1400",
+        "KFBK News Radio"
+      ]
+    },
+    {
+      "title": "Anthropic CEO urges AI companies to slow model development",
+      "url": "https://siouxcityjournal.com/life-entertainment/nation-world/technology/article_89c8cbca-25d4-507f-aed6-b5a57c632899.html",
+      "domain": "siouxcityjournal.com",
+      "outlet": "Sioux City Journal",
+      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/8/9c/89c8cbca-25d4-507f-aed6-b5a57c632899/6aa59ce9a0c25.preview.jpg?crop=1744%2C916%2C0%2C32&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "Alarm grew after a researcher resigned, warning that the “people building AI earnestly believe that it could kill us all by the end of the decade.”",
+      "date": "2026-09-12T21:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 21,
+      "other_outlets": [
+        "93.3 The Drive",
+        "Geo News",
+        "PerthNow",
+        "The Globe and Mail",
+        "The Lufkin Daily News",
+        "bordermail.com.au"
+      ]
+    },
+    {
+      "title": "China's AI advances, inclusive governance approach gain global significance, says Polish scholar--China Economic Net",
+      "url": "http://en.ce.cn/main/latest/202609/t20260912_3209299.shtml",
+      "domain": "en.ce.cn",
+      "outlet": "en.ce.cn",
+      "image": "",
+      "desc": "",
+      "date": "2026-09-12T02:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 15,
+      "other_outlets": [
+        "Africa Leader",
+        "Asia Bulletin",
+        "Beijing Bulletin",
+        "Big News Network.com",
+        "Brunei News",
+        "Cambodian Times"
+      ]
+    },
+    {
+      "title": "Anthropic CEO calls for slowing the AI race as safety warnings mount",
+      "url": "https://www.nbcbayarea.com/news/national-international/anthropic-ceo-calls-for-slowing-ai-race/4141959/",
+      "domain": "nbcbayarea.com",
+      "outlet": "NBC Bay Area",
+      "image": "https://media.nbcbayarea.com/2025/01/108017936-1723117355253-gettyimages-2154161015-_r7a3543_vjqaydsv.jpeg?quality=85&strip=all&resize=1200%2C675",
+      "desc": "Dario Amodei said rapidly advancing AI systems are outpacing safeguards and is calling for new measures to “slow the pace” toward more powerful systems.",
+      "date": "2026-09-12T20:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 12,
+      "other_outlets": [
+        "AOL.com",
+        "NBC 5 Dallas-Fort Worth",
+        "NBC 6 South Florida",
+        "NBC 7 San Diego",
+        "NBC Chicago",
+        "NBC Connecticut"
+      ]
+    },
+    {
+      "title": "L.L.Bean embraces its old-school roots with brick-and-mortar stores, print catalogs, no AI",
+      "url": "https://www.nbcbayarea.com/news/national-international/ll-bean-embraces-old-school-roots-brick-and-mortar-stores-print-catalogs-no-ai/4141963/",
+      "domain": "nbcbayarea.com",
+      "outlet": "NBC Bay Area",
+      "image": "https://media.nbcbayarea.com/2019/09/L.L.-Bean-Inc.jpg?quality=85&strip=all&resize=1200%2C675",
+      "desc": "L.L.Bean is embracing its rugged roots in Freeport, Maine, shunning AI and adding more brick-and-mortar stores.",
+      "date": "2026-09-12T20:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 10,
+      "other_outlets": [
+        "NBC 5 Dallas-Fort Worth",
+        "NBC 7 San Diego",
+        "NBC Chicago",
+        "NBC Connecticut",
+        "NBC Los Angeles",
+        "NBC New York"
+      ]
+    },
+    {
+      "title": "From Brain Waves to Intelligent Insights: How Artificial Intelligence Is Transforming Neural Signal Analysis",
+      "url": "http://www.indiagazette.com/news/279303132/from-brain-waves-to-intelligent-insights-how-artificial-intelligence-is-transforming-neural-signal-analysis",
+      "domain": "indiagazette.com",
+      "outlet": "India Gazette",
+      "image": "https://image.chitra.live/api/v1/wps/05cf2e1/273b92fc-afc7-43cc-862e-9d8fd4da549b/0/ANI-20260912102017-600x315.jpg",
+      "desc": "The human brain continuously generates electrical activity associated with perception, movement, attention, emotion, memory, and decision-making. Techniques such as electroencephalography (EEG) allow researchers to record this activity non-invasively. With the rapid development of artificial intelligence (AI) and machine learning, researchers can now analyse large and complex neural datasets and identify patterns that may be difficult to detect through conventional methods alone. Understanding B...",
+      "date": "2026-09-12T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 9,
+      "other_outlets": [
+        "Bangladesh Sun",
+        "Brunei News",
+        "Cambodian Times",
+        "Herald Globe",
+        "Laos News",
+        "Nepal National"
+      ]
+    },
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.the-star.co.ke/news/world/2026-09-12-anthropic-boss-dario-amodei-calls-for-ai-development-to-slow-down",
+      "domain": "the-star.co.ke",
+      "outlet": "The Star",
+      "image": "https://cdn.radioafrica.digital/image/2026/09/a561188b-29dd-4b8c-b1bf-475c07c6a801.webp?1789234291162",
+      "desc": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "date": "2026-09-12T17:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 9,
+      "other_outlets": [
+        "BBC News",
+        "Deadline",
+        "Digital Journal",
+        "Free Malaysia Today | FMT",
+        "One News Page",
+        "Yahoo Tech"
+      ]
+    },
+    {
+      "title": "Exclusive-Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/12/exclusive-nvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say",
+      "domain": "thestar.com.my",
+      "outlet": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/12/4106773.jpg",
+      "desc": "Sept 11 (Reuters) - Anthropic ⁠is in talks to bring Nvidia as an anchor investor into what could be the largest IPO in history, two ⁠people familiar with the matter told Reuters.",
+      "date": "2026-09-12T07:36:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 9,
+      "other_outlets": [
+        "AOL.com",
+        "CNA",
+        "Dunya News",
+        "ETTelecom.com",
+        "Free Malaysia Today | FMT",
+        "The Business Times"
+      ]
+    },
+    {
+      "title": "Is the race to build AI moving too fast?",
+      "url": "https://carrollspaper.com/news/national/is-the-race-to-build-ai-moving-too-fast/article_eea48c02-3951-5d69-a233-f6acb4b602fe.html",
+      "domain": "carrollspaper.com",
+      "outlet": "Carroll Times Herald",
+      "image": "https://bloximages.newyork1.vip.townnews.com/carrollspaper.com/content/tncms/assets/v3/editorial/d/6d/d6d4aff2-8b6d-5539-a54f-87a29d391fac/6aa44ff48bcb7.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "A petition is gaining recognition after a former researcher for Anthropic announced he believed there was a chance AI will wipe out the human race.",
+      "date": "2026-09-11T23:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 8,
+      "other_outlets": [
+        "Branson Tri-Lakes News",
+        "KTBS",
+        "Leader Publications",
+        "The Advocate & Democrat",
+        "The Avery Journal-Times",
+        "The Sanford Herald"
+      ]
+    },
+    {
+      "title": "Musk and Altman back calls to ‘slow down’ development of AI",
+      "url": "https://www.lynnnews.co.uk/national/musk-and-altman-back-calls-to-slow-down-development-of-ai-171620/",
+      "domain": "lynnnews.co.uk",
+      "outlet": "Lynn News",
+      "image": "https://www.lynnnews.co.uk/_media/img/UUOSSX7OUIU43H41MQMN.jpg",
+      "desc": "Dario Amodei said he is concerned that since this summer, AI has been ‘advancing drastically faster’.",
+      "date": "2026-09-12T20:01:10+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Diss Express",
+        "Fenland Citizen",
+        "Newark Advertiser",
+        "Newbury Today",
+        "Rutland Times",
+        "The Times of India"
+      ]
+    },
+    {
+      "title": "AI vs AI: How the Cybersecurity Battlefield Is Changing - and Why Delhi-NCR Is Part of the Conversation",
+      "url": "http://www.indiagazette.com/news/279302467/ai-vs-ai-how-the-cybersecurity-battlefield-is-changing-and-why-delhi-ncr-is-part-of-the-conversation",
+      "domain": "indiagazette.com",
+      "outlet": "India Gazette",
+      "image": "https://image.chitra.live/api/v1/wps/4a314d7/2c030f1d-5213-4942-b2a8-7f416c2a720c/0/ANI-20260912051549-600x315.jpg",
+      "desc": "The people most closely associated with it were penetration testers, network security engineers, incident responders, researchers and security operations teams. Their work focused on vulnerabilities, malware, infrastructure and the technologies used to protect organizations. That picture has changed. Cybersecurity now sits at the intersection of technology, business, regulation, risk and increasingly artificial intelligence. A security incident can affect not only an organization's IT infrastruc...",
+      "date": "2026-09-12T12:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Bangladesh Sun",
+        "Big News Network.com",
+        "Brunei News",
+        "Calcutta News",
+        "Sri Lanka Source",
+        "news.webindia123.com"
+      ]
+    },
+    {
+      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say | Dunya News",
+      "url": "https://dunyanews.tv/en/Technology/972546-openai-agents-attacked-rubygems-before-hugging-face-incident-research",
+      "domain": "dunyanews.tv",
+      "outlet": "Dunya News",
+      "image": "https://img.dunyanews.tv/news/2026/September/09-12-26/news_big_images/972546_85212565.jpg",
+      "desc": "OpenAI agents reportedly attacked RubyGems during testing, exploiting vulnerabilities and uploading malicious packages, raising fresh concerns over AI safety, cybersecurity risks and regulation.",
+      "date": "2026-09-12T11:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "BNN Bloomberg",
+        "ETTelecom.com",
+        "Geo News",
+        "RAPPLER",
+        "The Star",
+        "ksl.com"
+      ]
+    },
+    {
+      "title": "Wonder Valley AI data centre faces growing scrutiny over water use and lack of environmental review",
+      "url": "https://www.coldlakesun.com:443/news/0703-dht-wondervalley/wcm/dd66aa22-c9ba-458e-b8e4-52c9376c1c05",
+      "domain": "coldlakesun.com",
+      "outlet": "coldlakesun",
+      "image": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/07/wonder-valley-696x310_291228487.jpg",
+      "desc": "Residents left a recent Wonder Valley public engagement session about the AI data centre 42km south of Grande Prairie with questions",
+      "date": "2026-09-12T08:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "dailyheraldtribune",
+        "fairviewpost",
+        "fortmcmurraytoday",
+        "prrecordgazette",
+        "vermilionstandard",
+        "whitecourtstar"
+      ]
+    },
+    {
+      "title": "BRICS Delhi Declaration puts AI at the heart of cooperation on growth, health, energy, development",
+      "url": "http://www.indiagazette.com/news/279303214/brics-delhi-declaration-puts-ai-at-the-heart-of-cooperation-on-growth-health-energy-development",
+      "domain": "indiagazette.com",
+      "outlet": "India Gazette",
+      "image": "https://image.chitra.live/api/v1/wps/457bd56/e97f716b-cb6b-4d82-bc48-9fad61600718/0/ANI-20260912122836-600x315.jpg",
+      "desc": "Artificial Intelligence has emerged as a key pillar of the BRICS New Delhi Declaration, with member countries underlining its potential to drive economic growth and sustainable development while calling for international cooperation to ensure AI remains safe, secure, inclusive and reliable. The declaration recognised that \"Artificial Intelligence presents immense opportunity to stimulate economic growth and sustainable development for all\" and stressed the need for greater international cooperat...",
+      "date": "2026-09-12T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "Calcutta News",
+        "China National News",
+        "Shanghai News",
+        "Shanghai Sun",
+        "news.webindia123.com"
+      ]
+    },
+    {
+      "title": "Israel used AI to kill thousands of Palestinians in Gaza - documentary",
+      "url": "http://www.israelherald.com/news/279302916/israel-used-ai-to-kill-thousands-of-palestinians-in-gaza-documentary",
+      "domain": "israelherald.com",
+      "outlet": "Israel Herald",
+      "image": "https://image.chitra.live/api/v1/wps/fd08c45/c0a25e40-ad02-46a8-8152-28db2420365c/0/MTkzZTkwZGQtY2I-600x315.jpg",
+      "desc": "A documentary alleging Israel used AI to target Palestinians in Gaza has received a record ovation Read Full Article at RT.com",
+      "date": "2026-09-12T18:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "Big News Network.com",
+        "Middle East Star",
+        "Philippine Times"
+      ]
+    },
+    {
+      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
+      "url": "https://wsau.com/2026/09/12/openai-ipo-will-not-happen-in-2026-amid-ai-safety-fears-altman-says/",
+      "domain": "wsau.com",
+      "outlet": "WSAU News/Talk 550 AM · 99.9 FM | Wausau, Stevens Point",
+      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-09/12/2026-09-12T203816Z_1_LYNXMPEM8B0NP_RTROPTP_3_OPENAI-IPO.JPG",
+      "desc": "By Lisa Baertlein LOS ANGELES, Sept 12 (Reuters) - OpenAI will not go public in 2026, CEO Sam Altman said in a Fortune interview published Saturday, citing safety concerns over artificial intelligence. \"I actually think that, given everything happening...",
+      "date": "2026-09-12T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "1450 AM 99.7 FM WHTC | Holland",
+        "93.3 The Drive",
+        "Taylorville Daily News",
+        "WABX 107.5 | Evansville's Classic Rock Station"
+      ]
+    },
+    {
+      "title": "Anthropic CEO warns AI could outpace safety measures within a year",
+      "url": "https://www.wptv.com/science-and-tech/artificial-intelligence/anthropic-ceo-warns-ai-could-outpace-safety-measures-within-a-year",
+      "domain": "wptv.com",
+      "outlet": "WPTV News Channel 5 West Palm",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/dc8d0e1/2147483647/strip/true/crop/7140x3749+0+506/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F64%2Fa1d6d1b94363990888982fa1652d%2Fap26255587007476.jpg",
+      "desc": "Anthropic CEO Dario Amodei warned advanced AI could outpace safety measures within a year, urging slower development and stronger global oversight.",
+      "date": "2026-09-12T17:30:13+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "ABC 10 News San Diego KGTV",
+        "FOX 13 News Utah (KSTU)",
+        "KZTV 10 Corpus Christi",
+        "WTXL ABC 27 Tallahassee News"
+      ]
+    },
+    {
+      "title": "Nvidia eyes $10B investment in Anthropic IPO",
+      "url": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters",
+      "domain": "cointelegraph.com",
+      "outlet": "Cointelegraph",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2B2TW953PW8GZE67G0P6MYC/nvidia-anthropic-ipo-artwork.png",
+      "desc": "Nvidia may invest $10 billion in record $2 trillion Anthropic IPO.",
+      "date": "2026-09-12T15:12:40+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "BusinessLine",
+        "EconoTimes",
+        "The Economic Times",
+        "The Times of India"
+      ]
+    },
+    {
+      "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/09/11/business/ai-anthropic-yemen-houthi/",
+      "domain": "bostonglobe.com",
+      "outlet": "BostonGlobe.com",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BCLTZCG7IN4KX7B3GJWSLLOVQI.jpg?auth=e425817942effffd14be7daffafdb0ba067ebfde7962941b593615e21f4e3f1f&width=1440",
+      "desc": "Anthropic said the users of the accounts did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket.",
+      "date": "2026-09-12T19:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "NBC New York",
+        "The Star Democrat",
+        "WCCB Charlotte"
+      ]
+    },
+    {
+      "title": "Chinese researchers unveil lightweight dual-model AI agent for materials research",
+      "url": "http://www.beijingbulletin.com/news/279302796/chinese-researchers-unveil-lightweight-dual-model-ai-agent-for-materials-research",
+      "domain": "beijingbulletin.com",
+      "outlet": "Beijing Bulletin",
+      "image": "https://image.chitra.live/api/v1/wps/b1fcde0/f81a79a4-09a9-4cc7-87e8-33041b3a807b/0/XxjwshE000020-20260912-CBMFN0A001-600x315.jpg",
+      "desc": "SHENZHEN,.....",
+      "date": "2026-09-12T18:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "China National News",
+        "en.people.cn",
+        "english.news.cn"
+      ]
+    },
+    {
+      "title": "OpenAI's software targeted another site before Hugging Face - Science & Tech - The Jakarta Post",
+      "url": "http://www.thejakartapost.com/culture/2026/09/12/openais-software-targeted-another-site-before-hugging-face",
+      "domain": "thejakartapost.com",
+      "outlet": "The Jakarta Post",
+      "image": "https://img.jakpost.net/c/2023/05/29/2023_05_29_138863_1685371060._large.jpg",
+      "desc": "The new report adds to concerns that advanced artificial intelligence (AI) models may be difficult for humans to control.",
+      "date": "2026-09-12T11:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "ARY News",
+        "CNA",
+        "The Economic Times"
+      ]
+    },
+    {
+      "title": "As AI reshapes jobs, China's universities race to patch up traditional majors",
+      "url": "http://en.people.cn/n3/2026/0912/c90000-20498869.html",
+      "domain": "en.people.cn",
+      "outlet": "en.people.cn",
+      "image": "",
+      "desc": "BEIJING, Sept. 11 (Xinhua) -- Artificial Intelligence (AI) is making an unexpected appearance in cla",
+      "date": "2026-09-12T09:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Beijing Bulletin",
+        "Big News Network.com",
+        "english.news.cn"
+      ]
+    },
+    {
+      "title": "Elon Musk, Sam Altman agree with Anthropic CEO’s call for slowing AI development | Honolulu Star-Advertiser",
+      "url": "https://www.staradvertiser.com/2026/09/12/breaking-news/elon-musk-sam-altman-agree-with-anthropic-ceos-call-for-slowing-ai-development/",
+      "domain": "staradvertiser.com",
+      "outlet": "Honolulu Star-Advertiser",
+      "image": "https://www.staradvertiser.com/wp-content/uploads/2026/09/web1_2026-03-04T165046Z_1346814099_RC2UOJAQ5KT8_RTRMADP_3_USA-PENTAGON-ANTHROPIC-INVESTORS.jpg",
+      "desc": "Leaders of the world’s biggest artificial intelligence platforms said it’s time to slow the development pace of their most advanced — and most lucrative — models, citing escalating risks of the technology.",
+      "date": "2026-09-12T20:56:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "RTE.ie",
+        "The News International"
+      ]
+    },
+    {
+      "title": "Anthropic boss calls for AI slowdown, Altman and Musk agree",
+      "url": "https://www.channelnewsasia.com/world/anthropic-boss-calls-ai-slowdown-altman-and-musk-agree-6380651",
+      "domain": "channelnewsasia.com",
+      "outlet": "CNA",
+      "image": "https://dam.mediacorp.sg/image/upload/s--IS7gC95A--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-12T175925Z_3_LYNXMPEM8B0DQ_RTROPTP_3_INDIA-AI.JPG?itok=jqAkpMGO",
+      "desc": "OpenAI boss Sam Altman and Elon Musk, who owns xAI, quickly chimed in to say they agreed with Amodei's assessment, as pressure builds for improved oversight.",
+      "date": "2026-09-12T20:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "abc.net.au",
+        "mint"
+      ]
+    },
+    {
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "url": "https://tech.yahoo.com/ai/articles/dramatic-insider-warnings-over-ai-172857563.html",
+      "domain": "tech.yahoo.com",
+      "outlet": "Yahoo Tech",
+      "image": "https://s.yimg.com/lo/mysterio/api/d03583597b39aab9972d24b65e6eb8d0a60a923a0b1bd7870943eb5dca64d3d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F054234ae1876e8875dd2d9fc5b90bc7e.jpg",
+      "desc": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "date": "2026-09-12T18:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "BBC News",
+        "bbc.com"
+      ]
+    },
+    {
+      "title": "Nvidia May Invest Up to $10 Billion in Anthropic’s $2.3 Trillion IPO - AOL",
+      "url": "https://www.aol.com/articles/nvidia-may-invest-10-billion-142337000.html",
+      "domain": "aol.com",
+      "outlet": "AOL.com",
+      "image": "https://hermes.media.static.aol.com/media/2026/09/12/f21886a4-ae56-3c60-a088-b5becd737e4e/e646936a-d67d-4012-a618-ee1c310ddb8e.jpg",
+      "desc": "Reuters reports that NVIDIA (NASDAQ:NVDA) is in talks to commit up to $10 billion as an anchor investor in Anthropic’s initial public offering, a deal that could price the AI lab at as much as $2.3 trillion and rank as the largest listing in market history. For a chipmaker whose data center engine already runs […]",
+      "date": "2026-09-12T15:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "title": "Just In: Xi urges BRICS countries to deepen cooperation on AI",
+      "url": "http://www.beijingbulletin.com/news/279302548/just-in-xi-urges-brics-countries-to-deepen-cooperation-on-ai",
+      "domain": "beijingbulletin.com",
+      "outlet": "Beijing Bulletin",
+      "image": "https://image.chitra.live/api/v1/wps/cb7e225/df46aa28-d0f8-46d6-ab65-b9f6f2c3f790/0/XxjidwE000060-20260912-CBMFN0A001-600x315.jpg",
+      "desc": "Just In: Chinese President Xi Jinping urges BRIC.....",
+      "date": "2026-09-12T13:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Big News Network.com",
+        "China National News"
+      ]
+    },
+    {
+      "title": "Jilin University lab leverages AI to study ancient Chinese scripts and relics",
+      "url": "http://en.people.cn/n3/2026/0912/c90000-20498919.html",
+      "domain": "en.people.cn",
+      "outlet": "en.people.cn",
+      "image": "",
+      "desc": "A member of the Key Laboratory of Ancient Chinese Script, Culture Relics and Artificial Intelligenc",
+      "date": "2026-09-12T09:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "english.news.cn"
+      ]
+    },
+    {
+      "title": "US Senate negotiators consider requiring AI firms to mitigate known major risks",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/12/us-senate-negotiators-consider-requiring-ai-firms-to-mitigate-known-major-risks",
+      "domain": "thestar.com.my",
+      "outlet": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/12/4106751.jpg",
+      "desc": "WASHINGTON, Sept 11 (Reuters) - U.S. Senate negotiators ⁠are debating legislation that would put responsibility on tech companies to design safe AI products, according to two Senate aides, and involve ⁠federal courts if the U.S. government wants to block their release, according to a Senate aide and a lobbyist involved ‌in the negotiations.",
+      "date": "2026-09-12T07:15:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Spokesman.com",
+        "WSAU News/Talk 550 AM · 99.9 FM | Wausau, Stevens Point"
+      ]
+    },
+    {
+      "title": "Another AI Researcher quits, claims companies racing to build machines smarter than any human",
+      "url": "https://news.webindia123.com/news/Articles/Business/20260912/4497619.html",
+      "domain": "news.webindia123.com",
+      "outlet": "news.webindia123.com",
+      "image": "",
+      "desc": "Joe Benton, who in his social media profile describes himself as having previously managed Scalable Oversight team at AI tech giant Anthropic, has flagged AI safety alleging that companies were in a race to build superintelligent machines.",
+      "date": "2026-09-12T03:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "The Economic Times",
+        "The Tribune"
+      ]
+    },
+    {
+      "title": "Notice and Invitation for Negotiation for Artificial Intelligence (AI) Systems & Services",
+      "url": "http://www.californiatelegraph.com/news/279301473/notice-and-invitation-for-negotiation-for-artificial-intelligence-ai-systems-services",
+      "domain": "californiatelegraph.com",
+      "outlet": "California Telegraph",
+      "image": "",
+      "desc": "PHOENIX, AZ / ACCESS Newswire / September 11, 2026 / Florida State University (the 'Lead Public Entity'), in cooperation with RFxPremier (the 'cooperative') is",
+      "date": "2026-09-11T23:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Hawaii Telegraph",
+        "New Jersey Telegraph"
+      ]
+    },
+    {
+      "title": "AI Cracks a $1 Million Math Puzzle in Days, Raising Fresh Fears It Could Outpace Humanity",
+      "url": "https://www.webpronews.com/ai-cracks-a-1-million-math-puzzle-in-days-raising-fresh-fears-it-could-outpace-humanity/",
+      "domain": "webpronews.com",
+      "outlet": "WebProNews",
+      "image": "",
+      "desc": "OpenAI deployed 10,000 AI agents to solve a Navier-Stokes singularity in days, beating human mathematicians who had labored for months. The breakthrough, verified in Lean, sparks credit disputes and heightens existential risk concerns across the industry. It signals accelerating capability that could reshape both mathematics and safety debates.",
+      "date": "2026-09-12T20:42:15+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "cairnspost.com.au"
+      ]
+    },
+    {
+      "title": "Anthropic CEO calls for slowdown of AI development amid safety concerns",
+      "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-ceo-calls-slowdown-ai-164212769.html",
+      "domain": "tech.yahoo.com",
+      "outlet": "Yahoo Tech",
+      "image": "https://s.yimg.com/lo/mysterio/api/2f317043a216c38121e6659dd1ab6d1365305b2469cf50a9f4b8e51cf353a5bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F04fc830da480715fe5d6856fc52e1150.jpg",
+      "desc": "In a blog post, Anthropic CEO Dario Amodei cautioned that swarms of rogue AI agents could take over the internet in as little as six months.",
+      "date": "2026-09-12T20:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "CBS News"
+      ]
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei Calls for Pause in AI Development, Sort Of",
+      "url": "https://gizmodo.com/anthropic-ceo-dario-amodei-calls-for-pause-in-ai-development-sort-of-2000810962",
+      "domain": "gizmodo.com",
+      "outlet": "Gizmodo",
+      "image": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+      "desc": "Amodei called for AI firms to allow third-party evaluators and collaborate with government on safety standards.",
+      "date": "2026-09-12T20:05:29+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Economic Times"
+      ]
+    },
+    {
+      "title": "Sam Altman, Elon Musk Back Anthropic CEO's Call to Slow AI Development as Safety Concerns Mount",
+      "url": "https://www.thewrap.com/industry-news/tech/altman-musk-back-anthropic-slow-ai-development/",
+      "domain": "thewrap.com",
+      "outlet": "TheWrap",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/09/SamAltmanG20.jpg",
+      "desc": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei's call to slow AI development amid rising safety concerns for the tech.",
+      "date": "2026-09-12T19:47:16+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Hindustan Times"
+      ]
+    },
+    {
+      "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems—and Kill Us All",
+      "url": "https://freerepublic.com/focus/f-chat/4395267/posts",
+      "domain": "freerepublic.com",
+      "outlet": "freerepublic.com",
+      "image": "",
+      "desc": "",
+      "date": "2026-09-12T19:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "mint"
+      ]
+    },
+    {
+      "title": "Microsoft adds SpaceXAI's Grok LLM to Copilot across Word, Excel, and PowerPoint",
+      "url": "https://techau.com.au/microsoft-adds-spacexais-grok-llm-to-copilot-across-word-excel-and-powerpoint/",
+      "domain": "techau.com.au",
+      "outlet": "techau.com.au",
+      "image": "",
+      "desc": "Microsoft has announced that Copilot is expanding again. What started as an exclusive relationship with OpenAI, has since expanded to include Anthropic models and now a third LLM, Grok is entering the chat. Microsoft has officially welcomed SpaceXAI's Grok to Copilot. This integration represents a practical win for enterprise users. Putting Elon Musk’s AI models…",
+      "date": "2026-09-12T19:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The News International"
+      ]
+    },
+    {
+      "title": "GPT-5.6 Sol",
+      "url": "https://thecherrycreeknews.com/tag/gpt-56-sol/",
+      "domain": "thecherrycreeknews.com",
+      "outlet": "The Cherry Creek News",
+      "image": "",
+      "desc": "Content tagged with GPT-5.6 Sol.",
+      "date": "2026-09-12T19:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Tech Times"
+      ]
+    },
+    {
+      "title": "CRITICAL MASS | OPINION: How Suno and generative AI are changing music | Northwest Arkansas Democrat-Gazette",
+      "url": "https://www.nwaonline.com/news/2026/sep/12/critical-mass-opinion-how-suno-and-generative-ai/",
+      "domain": "nwaonline.com",
+      "outlet": "nwaonline.com",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213570523_2C2A3D35-F13C-4A7A-9418-33F70666371B_t1200.jpeg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "desc": "Artificial intelligence can give everyone a song. It might also eliminate the ordeal that gives music meaning.",
+      "date": "2026-09-12T18:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "arkansasonline.com"
+      ]
+    },
+    {
+      "title": "Anthropic says UAE-linked AI op targeted UN experts over Sudan",
+      "url": "https://www.thehindu.com/news/international/anthropic-says-uae-linked-ai-op-targeted-un-experts-over-sudan/article71461203.ece",
+      "domain": "thehindu.com",
+      "outlet": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/5pnzo3/article71461207.ece/alternates/LANDSCAPE_1200/2026-09-10T195449Z_374685200_RC2UNLAFWGCM_RTRMADP_3_ANTHROPIC-CYBERSECURITY.JPG",
+      "desc": "Anthropic reveals UAE-linked AI operation targeted UN experts and the Muslim Brotherhood amid Sudan's ongoing humanitarian crisis.",
+      "date": "2026-09-12T17:30:56+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "AL-MONITOR: The Middle Eastʼs leading independent news source since 2012"
+      ]
+    },
+    {
+      "title": "List of 40 MPs who've written to Andy Burnham demanding rules to stop AI killing humans - AOL",
+      "url": "https://www.aol.co.uk/articles/list-40-mps-whove-written-151900000.html",
+      "domain": "aol.co.uk",
+      "outlet": "AOL.com",
+      "image": "https://hermes.media.static.aol.com/media/2026/09/12/578cc387-0d63-34f6-9fa1-17a0f6d463b8/9c2d0634-ae9a-4f65-a937-adc6224d8813.jpg",
+      "desc": "The Prime Minister has been warned superintelligent AI could \"kill us all by the end of the decade\" after \"a string of alarming incidents\".",
+      "date": "2026-09-12T16:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Express.co.uk"
+      ]
+    },
+    {
+      "title": "AI lowers barriers for sophisticated cyberattacks as hackers automate operations: Report",
+      "url": "http://www.europesun.com/news/279302939/ai-lowers-barriers-for-sophisticated-cyberattacks-as-hackers-automate-operations-report",
+      "domain": "europesun.com",
+      "outlet": "Europe Sun",
+      "image": "https://image.chitra.live/api/v1/wps/b9b35c5/342aa612-86bb-487c-8f77-82a29354446a/0/ANI-20260912093201-600x315.png",
+      "desc": "Artificial intelligence (AI) is lowering the barriers to sophisticated cyberattacks by allowing individual hackers to automate operations ranging from reconnaissance and phishing to system exploitation and data theft, according to a report by Anthropic. \"Sophisticated attacks no longer require sophisticated attackers,\" Anthropic said in the report titled Detecting and countering misuse of AI",
+      "date": "2026-09-12T15:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "India Gazette"
+      ]
+    }
+  ]
+}
