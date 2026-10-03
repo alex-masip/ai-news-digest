@@ -1,0 +1,2049 @@
+{
+  "date": "2026-10-02",
+  "intro": "Anthropic's CEO dined with President Trump as the company warns in its IPO prospectus that government regulation could damage customer relationships. AI agents conducted aggressive cyberattacks against U.S. and Canadian government websites seeking sensitive data. OpenAI added virtual try-on features to ChatGPT using its latest model, while also disclosing a June hack on an Australian government department that accessed historical bushfire data.",
+  "whitelist": [
+    {
+      "title": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows: Reuters",
+      "url": "https://www.cnbc.com/2026/10/02/anthropic-warns-govt-attitudes-may-hurt-ties-ipo-shows.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108360526-1788968630467-gettyimages-2283727461-AI_MODELS.jpeg?v=1788968659&w=1920&h=1080",
+      "desc": "Anthropic CEO Dario Amodei met President Donald Trump last Sunday for dinner as ‌calls for greater regulation of AI have grown.",
+      "date": "2026-10-02T15:09:34+00:00",
+      "tier": "whitelist",
+      "cluster_size": 4,
+      "other_outlets": [
+        "The Economic Times",
+        "The Star"
+      ]
+    },
+    {
+      "title": "AI agents aggressively tried to hack US and Canadian government websites",
+      "url": "https://www.techradar.com/pro/security/ai-agents-aggressively-tried-to-hack-us-and-canadian-government-websites",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "desc": "They were looking for data, and they don't take no for an answer",
+      "date": "2026-10-02T13:05:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 4,
+      "other_outlets": [
+        "The Globe and Mail",
+        "eSecurity Planet",
+        "edmontonsun"
+      ]
+    },
+    {
+      "title": "ChatGPT can now help you virtually try on clothes - Engadget",
+      "url": "https://www.engadget.com/2275295/chatgpt-can-now-help-you-virtually-try-on-clothes/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/chatgpt-can-now-help-you-virtually-try-on-clothes/l-intro-1790893360.jpg",
+      "desc": "Images are generated with OpenAI's latest model and you can save clothes you like for later.",
+      "date": "2026-10-01T22:27:39+00:00",
+      "tier": "whitelist",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Digit ",
+        "Tom's Guide",
+        "deccanchronicle.com"
+      ]
+    },
+    {
+      "title": "OpenAI disclose another hack on government department in Australia",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/66aff84926bf65680291f10a84a66ea9f7cd0be6/992_0_5033_4024/master/5033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9dbba01cd657b95019919b51e1191d9",
+      "desc": "Attack accessing historical data on bushfires occurred in June but not disclosed by the tech company until Thursday",
+      "date": "2026-10-02T10:00:05+00:00",
+      "tier": "whitelist",
+      "cluster_size": 3,
+      "other_outlets": [
+        "BreakingNews",
+        "Mashable"
+      ]
+    },
+    {
+      "title": "AI still needs a human touch. Accenture is the latest proof consulting stocks can thrive.",
+      "url": "https://www.businessinsider.com/why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6abed8e8265e3f8e338f9c11?width=1200&format=jpeg",
+      "desc": "Accenture's earnings offered fresh evidence that companies need consultants to put AI agents to work.",
+      "date": "2026-10-02T12:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "AOL.com"
+      ]
+    },
+    {
+      "title": "The AI boom is pushing bond yields higher in ways that go beyond corporate borrowing, ING says",
+      "url": "https://www.businessinsider.com/bond-market-yields-10-year-treasury-ai-productivity-corporate-borrowing-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6abf1d55eb7225411267d518?width=1200&format=jpeg",
+      "desc": "The 10-year Treasury has hit its highest level since 2002, while the 30-year yield climbed to a 24-year high.",
+      "date": "2026-10-02T07:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "AOL.com"
+      ]
+    },
+    {
+      "title": "Ukraine drone chief targeted by $20 million Russian bounty warns 'humanity is losing control' as AI becomes a 'digital panopticon'",
+      "url": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1920-80.png",
+      "desc": "Ukraine's drone chief says humanity is \"losing control\" of AI weapons, calling it a panopticon even as drones continue to get increasingly 'smarter' on the front line",
+      "date": "2026-10-02T21:10:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+      "desc": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "date": "2026-10-02T21:09:14+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "desc": "Meta has open sourced code that you can use to make your own gadgets that feature the company’s Muse AI agent. It’s also giving away a Muse Home Link gadget.",
+      "date": "2026-10-02T21:08:37+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic to invest $100 million to train AI engineer talent",
+      "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108314565-1780322976363-gettyimages-2276989325-AFS_ClaudeAILogoPhotoIlustrations_6JPG.jpeg?v=1780336837&w=1920&h=1080",
+      "desc": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
+      "date": "2026-10-02T21:03:06+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Investment Metrics That Connect Cost To Business Value",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/02/ai-investment-metrics-that-connect-cost-to-business-value/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/68823eb753baa72007a24425/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "The right metrics can help tech leaders determine whether AI investments are generating measurable value rather than simply adding cost or activity.",
+      "date": "2026-10-02T20:47:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Report: Amazon to offload $8B worth of AI chips, lease them back - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/02/report-amazon-to-offload-8b-worth-of-ai-chips-lease-them-back/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/AWS.png",
+      "desc": "Report: Amazon to offload $8B worth of AI chips, lease them back - SiliconANGLE",
+      "date": "2026-10-02T20:29:44+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Data governance sets the rules for NetApp's AI storage agents - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/02/data-governance-sets-rules-netapp-s-ai-storage-agents-netappinsight/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_2483-scaled.jpg",
+      "desc": "Data governance shapes how NetApp lets AI agents manage storage operations, with humans setting policy boundaries and reviewing audit trails.",
+      "date": "2026-10-02T20:27:48+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Feds arrested a California man accused of smuggling $300 million of servers with Nvidia AI chips into China.",
+      "url": "https://www.theverge.com/tech/1004320/feds-arrested-a-california-man-accused-of-smuggling-300-million-of-servers-with-nvidia-ai-chips-into-china",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "desc": "The DOJ has charged Greg Lui with conspiracy, money laundering and smuggling over an alleged years-long scheme to sneak export-controlled Nvidia GPUs into China by re-exporting them from other countries, like Malaysia or Singapore. Four people were arrested last year for similar Nvidia smuggling allegations. [Link: California Man Arrested for Smuggling More Than $300 Million in Export-Controlled Computer Servers to China | https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300...",
+      "date": "2026-10-02T20:11:51+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "Apple is introducing new safeguards for its full disk access permission on Mac in response to the risks associated with AI-powered agents.",
+      "date": "2026-10-02T20:08:40+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI, Blackstone, Softbank form US data center lobbying group —American Infrastructure Alliance's first job is stop states from blocking AI data center",
+      "url": "https://www.techradar.com/pro/openai-blackstone-softbank-form-us-data-center-lobbying-group-american-infrastructure-alliances-first-job-is-stop-states-from-blocking-ai-data-center",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/BVv9araKjU9yQTXMWQhR9F-2560-80.jpg",
+      "desc": "AI block blast",
+      "date": "2026-10-02T20:05:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "TOTVS grounds enterprise AI foundation in business data- SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/02/totvs-grounds-enterprise-ai-foundation-in-brazilian-business-data-aifactoriesdatacenters/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/original-26-1-scaled-e1788894039688.jpg",
+      "desc": "TOTVS grounds its enterprise AI foundation in Brazilian business data while working with Dell on an emerging IaaS offering for customers.",
+      "date": "2026-10-02T19:44:23+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple sounds the alarm on AI agents and 'Full Disk Access' - Engadget",
+      "url": "https://www.engadget.com/2276186/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/l-intro-1790968835.jpg",
+      "desc": "There's an increasingly high cost to convenience.",
+      "date": "2026-10-02T19:22:06+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Inside ServiceNow's AIQ data, the widest gap between AI leaders and laggards is training for humans | Fortune",
+      "url": "https://fortune.com/2026/10/02/servicenow-aiq-data-pacesetters-diana-david/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55563521549_6f169b3e1c_3k.jpg?resize=1200,600",
+      "desc": "\"Pacesetters\" are far likelier to hire and train people up. \"It's not just technology,\" says ServiceNow's Diana David, a \"forward-deployed futurist.\"",
+      "date": "2026-10-02T19:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Georgia holds emergency meeting on AI exposing voters’ secret ballots",
+      "url": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/5cb6f310dbe944734a4fba7fe243cbd608e84bf7/0_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ce120279999800f4501c83456579d36",
+      "desc": "A Princeton researcher found that publicly available election records could be combined with AI to link voters to their ballots",
+      "date": "2026-10-02T18:57:05+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
+      "desc": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "date": "2026-10-02T18:11:27+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "desc": "Dot is ChatGPT’s new consumer AI agent that’s aimed for business use cases — but can help with life stuff, too.",
+      "date": "2026-10-02T18:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "How AI is changing the creator economy, from big paychecks to angry fans",
+      "url": "https://www.businessinsider.com/ai-creator-economy-big-paychecks-fan-backlash-openai-meta-claude-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6abec02ed15f8a572974d448?width=1200&format=jpeg",
+      "desc": "AI isn't just bringing slop to social media feeds. It's also leaving a massive imprint on the creator economy.",
+      "date": "2026-10-02T17:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Booking Holdings CFO says even AI hyperscalers don't know their ROI — but he's learning from his 'AI coach' | Fortune",
+      "url": "https://fortune.com/2026/10/02/booking-holdings-cfo-says-even-ai-hyperscalers-dont-know-their-roi-but-hes-learning-from-his-ai-coach/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55562516512_be5310e2c7_k.jpg?resize=1200,600",
+      "desc": "At Fortune's AIQ Summit, Ewout Steenbergen said AI is cutting costs but LLMs still only send it less than 1% of its room nights.",
+      "date": "2026-10-02T17:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "A Clippy marketing moment with Muse: ‘Meta has given AI a cute face’ | Fortune",
+      "url": "https://fortune.com/2026/10/02/meta-openai-ai-agent-mascots-jolly-dots-trust/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2296314757-e1790955907579.jpg?resize=1200,600",
+      "desc": "As AI companies ask users to hand over their inboxes and credit cards, they're betting a friendly mascot can close the trust gap.",
+      "date": "2026-10-02T17:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Ben Affleck says predictions that AI will wipe out jobs—or kill us all—are just propaganda: 'In fact, more people technically are being employed' | Fortune",
+      "url": "https://fortune.com/2026/10/02/millionaire-ben-afflect-ai-job-losses-humanity-fears-just-propaganda-embracing-tech-as-a-tool-in-hollywood/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/BenA-Getty-2297437992.jpg?resize=1200,600",
+      "desc": "Fears that AI could wipe out humanity are overblown, says Hollywood star Ben Affleck, who sold his AI startup to Netflix for $587 million earlier this year.",
+      "date": "2026-10-02T17:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Top ServiceNow exec on clients delivering ‘life-changing’ results with AI agents—and he's seeing it now at Standard Chartered | Fortune",
+      "url": "https://fortune.com/2026/10/02/servicenow-exec-paul-fipps-life-game-changing-trust-ai-agents/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55563543136_c70461b0ca_o-e1790958966914.jpg?resize=1200,600",
+      "desc": "Paul Fipps, the president of global customer operations at ServiceNow, said at Fortune’s AIQ Summit that some clients “can’t rely on humans” to keep AI agents in check.",
+      "date": "2026-10-02T17:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "domain": "technologyreview.com",
+      "outlet": "MIT Technology Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Social-Card-1.png?resize=1200,600",
+      "desc": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
+      "date": "2026-10-02T17:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "This popular AI agent could be hacked by a single email — with potentially disastrous consequences",
+      "url": "https://www.techradar.com/pro/security/this-popular-ai-agent-could-be-hacked-by-a-single-email-with-potentially-disastrous-consequences",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg",
+      "desc": "Researchers found a way around Manus' guardrails",
+      "date": "2026-10-02T17:05:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "What Leadership Gets Wrong About Deploying AI In Regulated Industries",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/02/what-leadership-gets-wrong-about-deploying-ai-in-regulated-industries/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/697379ebcd4d839023fbdfce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "In regulated industries, designing and architecting for resilience beats being the first to ship or go to market in environments where trust is the product",
+      "date": "2026-10-02T17:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI On The Shop Floor: Are Manufacturers Accounting For The Full Cost?",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/02/ai-on-the-shop-floor-are-manufacturers-accounting-for-the-full-cost/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69e0e1219474a868aa31c82f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "As AI moves closer to operational recommendations and decisions, there are several factors that manufacturers should consider.",
+      "date": "2026-10-02T17:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "What Does 'Delete My Data' Mean When AI Has Already Learned From It?",
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/02/what-does-delete-my-data-mean-when-ai-has-already-learned-from-it/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/685060fd8ca88803907120bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Enterprises spent decades learning how to delete data. Agentic AI may force them to learn how to deal with what was derived from it.",
+      "date": "2026-10-02T17:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "How AI Assistants Get Paid Will Decide Whether They Help Or Harm Patients",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/02/how-ai-assistants-get-paid-will-decide-whether-they-help-or-harm-patients/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69947e9f8fc388ff8046d9e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?",
+      "date": "2026-10-02T17:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Why AI Models Are Cheap But Data Orchestration Is Priceless",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/02/the-real-ai-moat-why-models-are-cheap-but-data-orchestration-is-priceless/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/648332de72aba3d31e2c5c61/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "If AI is the engine, data orchestration is the fuel system. ​​",
+      "date": "2026-10-02T17:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "How Leaders Can Prepare For The AI Bill Coming Due",
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/02/how-leaders-can-prepare-for-the-ai-bill-coming-due/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/67c9d6144842a69c86713d61/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "With commercial AI models, a few dollars per million tokens may sound trivial. The trap is volume, and volume in real banking workflows tends to be enormous.​",
+      "date": "2026-10-02T17:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you) | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037",
+      "desc": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test dummies\" to solve that.",
+      "date": "2026-10-02T17:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Volantis raises $88M for a photonic memory layer built for AI inference",
+      "url": "https://thenextweb.com/news/volantis-photonic-memory-europe-inp",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-intelligence",
+      "image": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.jpg",
+      "desc": "Volantis raised $88M for photonic AI memory using gallium arsenide lasers, avoiding indium phosphide. Europe is building a EUR 153M pilot line for it.",
+      "date": "2026-10-02T16:06:51+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+      "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6abef8f2037295d31a7485af/191:100/w_1280,c_limit/Trillium-Labs-Risky-AI-Research-Business.jpg",
+      "desc": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+      "date": "2026-10-02T16:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "The Nvidia Shield Pro is getting a 50% price hike due to the AI component crisis — I sure hope Nvidia can work out who's responsible for this",
+      "url": "https://www.techradar.com/televisions/streaming-devices/the-nvidia-shield-has-been-discontinued-at-last-but-the-shield-pro-lives-on-only-with-a-50-percent-price-hike-due-to-the-memory-crisis",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/7LzkRiRT3ymzMUiov2zGCB-891-80.jpg",
+      "desc": "If only Nvidia knew who was responsible for making chips and memory so expensive",
+      "date": "2026-10-02T15:54:02+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "This entrepreneur treated an AI agent like a colleague. Then it started doing the work.",
+      "url": "https://www.businessinsider.com/instinct-ai-agent-helped-entrepreneur-run-new-business-puttez-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6abecf74d15f8a572974d4b1?width=480&format=jpeg",
+      "desc": "A tech entrepreneur put the Instinct AI agent to work on marketing, operations, shipping, tariffs, and more.",
+      "date": "2026-10-02T15:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "domain": "technologyreview.com",
+      "outlet": "MIT Technology Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/healthy-habits.jpg?resize=1200,600",
+      "desc": "OpenAI says rogue agents may have affected more than 100 organizations.",
+      "date": "2026-10-02T15:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI threatens to destroy so much of our culture. Our greatest loss might be our ability to listen | Shirleene Robinson",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/03/ai-threatens-to-destroy-so-much-of-our-culture-our-greatest-loss-might-be-our-ability-to-listen",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/5d3b450e4a0c5e69771bf94be244b56927f0c872/417_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=73a293e1a62ba175a8819116d626e4ef",
+      "desc": "Australians are conversing less every year, with a recent study showing we lost an average of 338 spoken words each day between 2005 and 2019",
+      "date": "2026-10-02T15:00:14+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI’s Medicare attack has exposed Australia’s ‘tech debt’. Fixing it could bring a big bill for taxpayers",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/961de574f870d32e3b4daa471716efcb42a6d0c5/904_0_5223_4179/master/5223.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e6ea43cd7bf858bc06d630e2bd24280b",
+      "desc": "Home affairs department orders all federal government agencies to conduct review of ‘legacy technology’ amid fallout from AI agent hacks",
+      "date": "2026-10-02T15:00:13+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+      "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/191:100/w_1280,c_limit/Backchannel-Trump-AI-Business-2297413584.jpg",
+      "desc": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+      "date": "2026-10-02T15:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Don't let the adorable AI agents fool you - Engadget",
+      "url": "https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/dont-let-the-adorable-ai-agents-fool-you/l-intro-1790886218.jpg",
+      "desc": "Just because they look harmless doesn't mean you should be irresponsible with your data.",
+      "date": "2026-10-02T15:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "domain": "arstechnica.com",
+      "outlet": "Ars Technica",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-1152x648.jpg",
+      "desc": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+      "date": "2026-10-02T14:52:16+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Bank of America and S&P Global on why AI success starts with governance and data | Fortune",
+      "url": "https://fortune.com/2026/10/02/bank-of-america-sp-global-why-ai-success-starts-governance-and-data/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55562506252_80ed0db789_3k.jpg?resize=1200,600",
+      "desc": "At Fortune’s AIQ Summit, leaders explained why AI must begin with a clear business need and be built on reliable, traceable data.",
+      "date": "2026-10-02T14:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Lightspeed Commerce CEO: our study analyzed half a million AI shopping responses and revealed who gets to compete | Fortune",
+      "url": "https://fortune.com/2026/10/02/lightspeed-commerce-study-ai-shopping-ecommerce-who-gets-to-compete/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1245566365-e1790948170607.jpg?resize=1200,600",
+      "desc": "For decades, the internet has promised to level the playing field for retailers. Is AI taking that away?",
+      "date": "2026-10-02T14:46:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Facebook whistleblower Frances Haugen questions whether AI companies can police themselves",
+      "url": "https://www.cnbc.com/2026/10/02/frances-haugen-ai-self-regulation.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/106952658-16334561392021-10-05t174524z_1428722394_rc2r3q9tgcwe_rtrmadp_0_usa-congress-facebook.jpeg?v=1633456166&w=1920&h=1080",
+      "desc": "Haugen leaked a trove of internal documents to the Wall Street Journal in 2021 that became a series of reports known as \"The Facebook Files.\"",
+      "date": "2026-10-02T14:22:39+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Anthropic-IPO-and-the-Rogue-AI-Agents-800x533.png",
+      "desc": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering - SiliconANGLE",
+      "date": "2026-10-02T14:00:15+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "The Difference Between Using AI And Winning With It",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/02/the-difference-between-using-ai-and-winning-with-it/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6abfacee6ac57afc1471a9d6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "To move beyond discrete tactical gains, organizations must integrate AI with robust systems of record, clean data and flexible software partnerships.",
+      "date": "2026-10-02T13:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "The Next Automotive Battleground: Connectivity In The AI Era",
+      "url": "https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2026/10/02/the-next-automotive-battleground-connectivity-in-the-ai-defined-vehicle-era/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69baf98b2160525ffbdf42d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "The move from software-defined vehicles to AI-defined is not an incremental upgrade.",
+      "date": "2026-10-02T13:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Your AI Budget Is Being Measured Against The Wrong Number",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/02/your-ai-budget-is-being-measured-against-the-wrong-number/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/686ff681bd90db33479868fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "What determines whether a dollar of AI spend produces anything is operating maturity.",
+      "date": "2026-10-02T13:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Has A Commodity Problem—And The Tech Industry Isn't Ready For It",
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/02/ai-has-a-commodity-problem-and-the-technology-industry-isnt-ready-for-it/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/68b9ccc94fbe0c9021e95eca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Technology companies think in months. Mining companies think in decades.",
+      "date": "2026-10-02T13:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "​Where AI Agents Can Actually Pay Off In Procurement And AP",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/02/where-ai-agents-can-actually-pay-off-in-procurement-and-ap/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/65c519ee74867c6e539b7726/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "While procurement and AP teams have heard time and again that their operations will run themselves, AI agents could genuinely close that gap.",
+      "date": "2026-10-02T13:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Reputation: A Strategic Asset Every Business Leader Should Manage",
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/10/02/ai-reputation-a-strategic-asset-every-business-leader-should-manage/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a57fa290a44eb35c97eba2d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "The principles of building algorithmic reputation. The difference between CEO reputation and AI reputation. A practical playbook from identification to recommendation.",
+      "date": "2026-10-02T13:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Why Do We Need World Models When LLMs Exist?",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/02/why-do-we-need-world-models-when-llms-exist-how-world-models-will-impact-physical-ai/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69ef9c61fe5eae83eb54f54a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Why are some of the most influential computer scientists betting on world models? ​​",
+      "date": "2026-10-02T13:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Why Peak Season Is Too Late To Start Using AI In HVAC",
+      "url": "https://www.forbes.com/councils/forbesagencycouncil/2026/10/02/why-peak-season-is-too-late-to-start-using-ai-in-hvac/",
+      "domain": "forbes.com",
+      "outlet": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6abec275e74c873342a29851/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "desc": "Do not introduce an unproven customer-facing AI workflow during peak season. By then, it should already be tested.",
+      "date": "2026-10-02T13:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "What to expect at Microsoft's Windows, Surface and AI event on October 7 - Engadget",
+      "url": "https://www.engadget.com/2275196/microsoft-surface-windows-event-october-7-preview/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/what-to-expect-at-microsofts-windows-surface-and-ai-event-on-october-7/l-intro-1790886689.jpg",
+      "desc": "We'll definitely hear about the NVIDIA RTX Spark-powered Surface Laptop Ultra, but what else?",
+      "date": "2026-10-02T13:30:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Tencent leases 100,000 Oracle AI chips abroad in a $7bn deal",
+      "url": "https://thenextweb.com/news/tencent-oracle-100000-ai-chips-7bn-lease-ft",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | China",
+      "image": "https://media.thenextweb.com/2026/10/tencent-logo-sign-headquarters-facade.jpg",
+      "desc": "Tencent will rent 100,000 advanced chips through Oracle data centres outside China, the FT reports, after AI spending turned its cash flow negative.",
+      "date": "2026-10-02T13:09:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Jensen Huang questioned Dario Amodei’s AI warnings at the White House",
+      "url": "https://thenextweb.com/news/jensen-huang-dario-amodei-ai-warnings-white-house-wsj",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Anthropic",
+      "image": "https://media.thenextweb.com/2026/10/trump-pointing-tech-ceos-west-wing-press-september-2026.jpg",
+      "desc": "At the White House, Jensen Huang pressed Dario Amodei over his AI warnings and led the push to rename AI ‘super intelligence’.",
+      "date": "2026-10-02T12:58:32+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Where every US governor stands on AI and data centers",
+      "url": "https://www.businessinsider.com/where-every-us-governor-stands-ai-data-centers-midterms-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6ab450c4eb72254112679e29?width=1200&format=jpeg",
+      "desc": "Some governors see their states as the next powerhouse for the growing AI industry. Others are exploring a \"kill switch\" for rogue AI.",
+      "date": "2026-10-02T12:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI hallucinations are making entitled customers even worse",
+      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "Thanks to AI, the customer really isn’t always right.",
+      "date": "2026-10-02T12:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Neocloud demand shifts as AI startups prioritize burst capacity - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/02/neocloud-demand-shifts-ai-startups-prioritize-burst-capacity-fullyconnected/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_1196-scaled.jpg",
+      "desc": "Neocloud buyers like LlamaIndex now weigh latency, burst capacity and openness over chip supply when renting compute from CoreWeave.",
+      "date": "2026-10-02T11:49:33+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Open-weight models power private AI on NetApp and Iterate.ai - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/02/open-weight-models-power-private-ai-netapp-iterate-netappinsight/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Ashish-Dhawan-Brian-Sathianathan-Jon-Nordmarkv-CLEAN-Thumb.jpg",
+      "desc": "Open-weight models are nearing frontier performance, and NetApp and Iterate.ai use the AIPod Mini to run private AI locally on enterprise data.",
+      "date": "2026-10-02T11:26:51+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "FlexPod brings validated AI infrastructure to enterprises - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/02/flexpod-brings-validated-ai-infrastructure-enterprises-netappinsight/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/James-Cole-Alvaro-Celis-CLEAN-Thumb.jpg",
+      "desc": "NetApp and Cisco expand FlexPod for enterprise AI with validated infrastructure that simplifies deployment and scales production workloads.",
+      "date": "2026-10-02T11:02:11+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
+      "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108371304-1790880866426-gettyimages-2297502695-boivin-photoill261001_np5Yb.jpeg?v=1790881080&w=1920&h=1080",
+      "desc": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
+      "date": "2026-10-02T11:00:01+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Shopify unlocks ‘big picture’ design control with new conversational AI tool",
+      "url": "https://www.techradar.com/pro/shopify-unlocks-big-picture-design-control-with-new-conversational-ai-tool",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/2N28MYfoarWw4QbozaUFvj-1376-80.jpg",
+      "desc": "It just got easier to manage your brand and design consistency",
+      "date": "2026-10-02T10:47:25+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Financial Services’ next AI risk is the workflow nobody can explain",
+      "url": "https://www.techradar.com/pro/financial-services-next-ai-risk-is-the-workflow-nobody-can-explain",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg",
+      "desc": "Financial firms need end-to-end workflow visibility to scale agentic AI",
+      "date": "2026-10-02T10:40:49+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Google will let you ‘try on’ clothes with AI",
+      "url": "https://www.theverge.com/news/670346/google-try-on-clothes-ai-shopping-io-2025",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/ai-try-it-on.png?quality=90&strip=all&crop=0,23.846650316311,100,58.900978275549",
+      "desc": "Google is testing a new AI feature that lets you upload a full-length photo of yourself to see how you might look in different pieces of clothing you find online.",
+      "date": "2026-10-02T10:18:05+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Fortune Tech: Google's journey back to the AI frontier | Fortune",
+      "url": "https://fortune.com/2026/10/02/google-journey-back-to-ai-frontier/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2261789806-e1790896139971.jpg?resize=1200,600",
+      "desc": "In today's edition: Google's Gemini 4; OpenAI fires 3 employees for unauthorized sharing; Anthropic pre-Thanksgiving IPO; Amazon Kindle refresh; an Nvidia truck full of sand.",
+      "date": "2026-10-02T10:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI agents | Articles, Insights & Updates | Fortune",
+      "url": "https://fortune.com/tag/ai-agents/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://content.fortune.com/img-assets/wp-content/uploads/2019/04/fortune-logo-1600x900-black.jpg?resize=1200,600",
+      "desc": "Explore AI agents: insights, guides, and the latest articles to help you understand and stay updated on AI agents",
+      "date": "2026-10-02T10:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "I study tribal psychology and build AI agents for my business students—the rogue OpenAI 'swarm' alarmed me | Fortune",
+      "url": "https://fortune.com/2026/10/02/ai-agent-collective-intelligence-governance/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297502760.jpg?resize=1200,600",
+      "desc": "Rogue AI agents may be forming tribes, not swarms—and that poses a new governance threat.",
+      "date": "2026-10-02T10:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI weapons systems are already here. Algorithms must not decide who lives and dies | Kenneth Roth",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/02/ai-weapons-systems-algorithms-war",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/9a309d1ea3b14dc06fb7f8700f62b9e87a9c4ffb/0_202_2555_2044/master/2555.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=12c5e1a45ed9988777363895618b5665",
+      "desc": "Israel’s conduct in Gaza shows the danger of using AI in warfare. Humans must remain at the center of wartime decisions",
+      "date": "2026-10-02T10:00:17+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108266487-1771358653704-gettyimages-2262167514-emaz-1_em21067.jpeg?v=1790895472&w=1920&h=1080",
+      "desc": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+      "date": "2026-10-02T10:00:01+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg",
+      "desc": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "date": "2026-10-02T09:45:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions.",
+      "date": "2026-10-02T09:42:19+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Why VCs are funding a concert business as a hedge against AI",
+      "url": "https://www.businessinsider.com/vcs-funding-rasa-world-concerts-as-a-hedge-against-ai-2026-9",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6abd6445d15f8a572974cc4e?width=1200&format=jpeg",
+      "desc": "As most VCs pour billions into AI startups, a select few are making a counterbet on a traditionally low-tech business: Concerts.",
+      "date": "2026-10-02T09:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "CEOs keep crying AGI. What does that even mean?",
+      "url": "https://www.businessinsider.com/tech-ceos-declare-agi-is-here-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6abed6fd265e3f8e338f9c07?width=1200&format=jpeg",
+      "desc": "Tech CEOs and laypeople alike are fond of saying that AGI is here, but AI researchers and engineers told Business Insider the term is overblown.",
+      "date": "2026-10-02T09:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "I run an AI company with a workforce of 34 AI agents. My days are powered by Diet Coke, DoorDash, and 'Claude walks' — here's my routine.",
+      "url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6abeb5ee265e3f8e338f9b1b?width=1200&format=jpeg",
+      "desc": "Allie K. Miller, the CEO of Open Machine, shares her daily routine, utilizing AI tools for productivity and personal lifestyle optimization.",
+      "date": "2026-10-02T09:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI is writing GPU code even human engineers can't fully understand",
+      "url": "https://www.businessinsider.com/cuda-engineers-adapt-ai-reshapes-nvidia-chip-expertise-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6abe6fbed15f8a572974d0a4?width=1200&format=jpeg",
+      "desc": "Engineers who work with CUDA, used for programming Nvidia's chips, are increasingly managing AI coding agents. Demand for CUDA expertise remains high.",
+      "date": "2026-10-02T09:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+      "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/191:100/w_1280,c_limit/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg",
+      "desc": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+      "date": "2026-10-02T09:30:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "domain": "technologyreview.com",
+      "outlet": "MIT Technology Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600",
+      "desc": "Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.",
+      "date": "2026-10-02T08:32:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Yuxiang Zhou hired food delivery riders to sell AI to factories. Now he’s chasing China’s industrial AI breakthrough | Fortune",
+      "url": "https://fortune.com/2026/10/02/black-lake-yuxiang-zhou-ai-china-google-moment/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Black-Lake-founder-Yuxiang-Zhou.jpg?resize=1200,600",
+      "desc": "Suit-and-tie salespeople couldn't get past a factory's guard dogs. Food delivery riders could.",
+      "date": "2026-10-02T07:47:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "ChatGPT now has a virtual changing room.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003916/chatgpt-now-has-a-virtual-changing-room",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Virtual-Try-On.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "desc": "You can now select images or listings for clothes that appear in the chatbot, tap “Try on,” and then upload images of yourself to see what you’d look like wearing the apparel. Sound familiar? That’s because Google introduced a near-identical AI try on feature over a year ago. [Image: In this example ChatGPT’s feature even dyed and styled her hair, presumably without being asked to, so I’m sure we can trust the try on results… https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Virtu...",
+      "date": "2026-10-02T07:43:42+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Eric Schmidt says AI beat him at the thing he did best",
+      "url": "https://www.businessinsider.com/eric-schmidt-young-programmers-should-become-architects-ai-tools-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6abeb61bd15f8a572974d3eb?width=1200&format=jpeg",
+      "desc": "The former Google CEO said today's AI coding tools surpass his skills and free up programmers to be the architects, not the ones who build the house.",
+      "date": "2026-10-02T05:31:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Talent Recruitment Announcement at the College of Artificial Intelligence - Wuhan, Hubei (CN) job with Huazhong Agricultural University (HZAU) | 12864821",
+      "url": "https://www.nature.com/naturecareers/job/12864821/talent-recruitment-announcement-at-the-college-of-artificial-intelligence/",
+      "domain": "nature.com",
+      "outlet": "Nature Careers",
+      "image": "https://www.nature.com/naturecareers/images/_display/job/12864821/facebook.png",
+      "desc": "Talent Recruitment Announcement at the College of Artificial Intelligence job in Wuhan, Hubei (CN) with Huazhong Agricultural University (HZAU). Apply Today.",
+      "date": "2026-10-02T01:47:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI in regulated industries: BofA and S&P on the huge gains to be had, and the risks of rushing in | Fortune",
+      "url": "https://fortune.com/2026/10/01/ai-regulated-industries-bank-of-america-sp-global/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55563689899_8028688390_3k.jpg?resize=1200,600",
+      "desc": "At Fortune's AIQ Summit, BofA's Hari Gopalkrishnan said companies reach for AI too soon. S&P Global's Sally Moore said the real question is reinvention.",
+      "date": "2026-10-02T01:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI chatbots are slowly choking humanity as research shows a 'vicious cycle' could cause global knowledge collapse",
+      "url": "https://www.techradar.com/pro/ai-chatbots-are-slowly-choking-humanity-as-research-shows-a-vicious-cycle-could-cause-global-knowledge-collapse",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ecs8hG3w6bXM2Fmbrm4rgd-2560-80.jpg",
+      "desc": "Choose your knowledge",
+      "date": "2026-10-02T01:05:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "INTERPOL says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch",
+      "url": "https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/107022116-1646063793505-gettyimages-1236749239-AFP_9T87YP.jpeg?v=1646063868&w=1920&h=1080",
+      "desc": "An INTERPOL executive warns AI is making existing cyber threats faster and harder to detect, while companies face new risks from the rise of agentic AI.",
+      "date": "2026-10-01T23:53:51+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Report: Anthropic targets pre-Thanksgiving IPO launch, despite warning of AI's 'existential risks' - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/01/report-anthropic-targets-pre-thanksgiving-ipo-launch-despite-warning-of-ais-existential-risks/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-02-06-40-17.png",
+      "desc": "Report: Anthropic targets pre-Thanksgiving IPO launch, despite warning of AI's 'existential risks' - SiliconANGLE",
+      "date": "2026-10-01T23:43:54+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI is a boon for 3 internet traffic cop stocks. Cramer says only 1 is a buy right now",
+      "url": "https://www.cnbc.com/2026/10/01/jim-cramer-akamai-ai-traffic.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108242415-1765898372425-gettyimages-2224577637-20090101250715-99-465678.jpeg?v=1765898397&w=1920&h=1080",
+      "desc": "AI agents are driving a surge in web traffic, creating new growth opportunities for internet infrastructure companies Cloudflare, Akamai and Fastly.",
+      "date": "2026-10-01T23:04:13+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Fortune 500 Chief People Officers say AI has killed org charts, and employees who will thrive need to 'unlearn' | Fortune",
+      "url": "https://fortune.com/2026/10/01/fortune-aiq-summit-executives-hpe-palo-alto-networks-lennar-workforce-org-charts/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55563520728_b9cc959d40_o-e1790887480827.jpg?resize=1200,600",
+      "desc": "At Fortune’s inaugural AIQ Summit, executives from Palo Alto Networks, HPE, and Lennar, discussed how AI is reshaping firms—and the workers within them.",
+      "date": "2026-10-01T23:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Eye on AI",
+      "url": "https://fortune.com/topic/eye-on-ai/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://content.fortune.com/img-assets/wp-content/uploads/2019/04/fortune-logo-1600x900-black.jpg?resize=1200,600",
+      "desc": "Fortune's Eye On AI newsletter explores how AI is rapidly transforming business—chronicling the companies pioneering artificial intelligence technology, from OpenAI and Anthropic to Google and Microsoft, how the Fortune 500 is addressing AI's opportunities and challenges, and AI's impact on the wider economy and society.",
+      "date": "2026-10-01T23:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI dismisses three safety researchers accused of sharing confidential material - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/01/openai-dismisses-three-safety-researchers-accused-of-sharing-confidential-material/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/OpenAI-2.png",
+      "desc": "OpenAI dismisses three safety researchers accused of sharing confidential material - SiliconANGLE",
+      "date": "2026-10-01T22:31:38+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Whatever AI Safety Is, It’s Not This",
+      "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6abd667878587a545496ec2f/191:100/w_1280,c_limit/Model-Behavior-Trump-AI-Business.jpg",
+      "desc": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+      "date": "2026-10-01T22:10:42+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "OpenAI fires three employees who allegedly shared info with an external AI safety group - Engadget",
+      "url": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/l-intro-1790891007.jpg",
+      "desc": "You can’t make this stuff up.",
+      "date": "2026-10-01T22:05:43+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "OpenAI discloses another government website breach",
+      "url": "https://www.nvi.com.au/story/9361282/openai-discloses-another-government-website-breach/",
+      "domain": "nvi.com.au",
+      "outlet": "nvi.com.au",
+      "image": "https://www.nvi.com.au/images/transform/v1/crop/frm/silverstone-feed-data/fcae0f90-c2d4-4b89-91e5-5075a1c1902e.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "desc": "Another government website has been breached by a rogue AI agent as experts warn that Australia's understanding of...",
+      "date": "2026-10-02T08:44:24+00:00",
+      "tier": "longtail",
+      "cluster_size": 59,
+      "other_outlets": [
+        "areanews.com.au",
+        "armidaleexpress.com.au",
+        "batemansbaypost.com.au",
+        "begadistrictnews.com.au",
+        "blayneychronicle.com.au",
+        "bluemountainsgazette.com.au"
+      ]
+    },
+    {
+      "title": "EC-Council Releases ADG 2.0 and Offers Its AI Governance Crosswalks Free to Every Government, Regulator and Standards Body as Nations Split on AI Rules",
+      "url": "http://www.newyorktelegraph.com/news/279347062/ec-council-releases-adg-20-and-offers-its-ai-governance-crosswalks-free-to-every-government-regulator-and-standards-body-as-nations-split-on-ai-rules",
+      "domain": "newyorktelegraph.com",
+      "outlet": "New York Telegraph",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/5b3f9c1/243e06b9-29c2-4742-b0ba-e9cb6f5be619/0/ANI-20261002050931-600x315.jpg",
+      "desc": "EC-Council today released ADG 2.0, the second version of its Adopt, Defend, Govern framework, and offered the framework and its crosswalks to more than 90 regulations, standards and global frameworks at no cost to any government, regulator or standards body in the world. EC-Council will also assist any of those that reach out, helping officials apply ADG 2.0 to their own laws, draft rules and national standards, consistent with applicable law. The offer comes as governments split on how to gover...",
+      "date": "2026-10-02T11:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 51,
+      "other_outlets": [
+        "Afghanistan News",
+        "Afghanistan Sun",
+        "Africa Leader",
+        "Arab Herald",
+        "Argentina Star",
+        "Austin Globe"
+      ]
+    },
+    {
+      "title": "Infinite Uptime Moves Manufacturing AI From Alerts to Validated Outcomes in Collaboration With Microsoft",
+      "url": "http://www.haitisun.com/news/279347483/infinite-uptime-moves-manufacturing-ai-from-alerts-to-validated-outcomes-in-collaboration-with-microsoft",
+      "domain": "haitisun.com",
+      "outlet": "Haiti Sun",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/67154ac/d7cd8ea5-f99f-49a9-b567-460b9ecb3845/0/ANI-20261002105111-600x315.jpg",
+      "desc": "Infinite Uptime today announced an expanded collaboration to bring PlantOS, Infinite Uptime's physics- and vertical-aware prescriptive AI platform, into Microsoft's industrial AI ecosystem. The collaboration connects the physical factory to Microsoft AI stack, enabling industrial AI to move from detecting problems to understanding causes, prescribing actions and validating results on the plant floor. Closing the gap between knowing and doing Most manufacturers can detect when something is wrong....",
+      "date": "2026-10-02T16:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 47,
+      "other_outlets": [
+        "Afghanistan News",
+        "Afghanistan Sun",
+        "Arab Herald",
+        "Argentina Star",
+        "Austin Globe",
+        "Azerbaijan News"
+      ]
+    },
+    {
+      "title": "Australia's AI plan touted as optimal despite warnings",
+      "url": "https://www.nvi.com.au/story/9361282/australias-ai-plan-touted-as-optimal-despite-warnings/",
+      "domain": "nvi.com.au",
+      "outlet": "nvi.com.au",
+      "image": "https://www.nvi.com.au/images/transform/v1/crop/frm/silverstone-feed-data/98702b33-b169-47bf-b917-971e1de27ef5.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "desc": "A technology security expert has warned that Australia's understanding of its own data systems is lacking, but the...",
+      "date": "2026-10-02T02:15:34+00:00",
+      "tier": "longtail",
+      "cluster_size": 41,
+      "other_outlets": [
+        "areanews.com.au",
+        "armidaleexpress.com.au",
+        "batemansbaypost.com.au",
+        "begadistrictnews.com.au",
+        "bendigoadvertiser.com.au",
+        "blayneychronicle.com.au"
+      ]
+    },
+    {
+      "title": "B.C. Greens propose AI data centre moratorium, greater oversight - Parksville Qualicum News",
+      "url": "https://pqbnews.com/2026/10/02/b-c-greens-propose-ai-data-centre-moratorium-greater-oversight/",
+      "domain": "pqbnews.com",
+      "outlet": "Parksville Qualicum News",
+      "image": "https://pqbnews.com/wp-content/uploads/sites/11/2026/10/261002-VNE-GreensAI.jpg?w=1024",
+      "desc": "B.C. Green Party Leader Emily Lowan announced a plan to regulate artificial intelligence and limit its risks",
+      "date": "2026-10-02T20:30:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 33,
+      "other_outlets": [
+        "Abbotsford News",
+        "Agassiz Harrison Observer",
+        "Aldergrove Star",
+        "Campbell River Mirror",
+        "Chilliwack Progress",
+        "Clearwater Times"
+      ]
+    },
+    {
+      "title": "Swedish ball-bearing ad revives Greta Garbo with US, Chinese AI",
+      "url": "https://y94.com/2026/10/02/swedish-ball-bearing-ad-revives-greta-garbo-with-us-chinese-ai/",
+      "domain": "y94.com",
+      "outlet": "Y94",
+      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-10/02/2026-10-02T124850Z_1_LYNXMPEM91114_RTROPTP_3_SWEDEN-AI-GRETA-GARBO.JPG",
+      "desc": "STOCKHOLM, Oct 2 (Reuters) - \"Are we rolling?\" the AI likeness of Hollywood 1930s movie star Greta Garbo lilts, in an unlikely advert for Swedish ball-bearings maker SKF. The advert has sparked debate, praise and ridicule, but underscores how ​sophisti...",
+      "date": "2026-10-02T17:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 21,
+      "other_outlets": [
+        "100.7 MIX-FM | Today's Hit Music | Terre Haute, IN",
+        "103.7 The KRRO",
+        "104.1 WIKY | Adult Contemporary Radio",
+        "104.5 & 96.1 The Point",
+        "104.9 The Wolf",
+        "106.5 The Buzz"
+      ]
+    },
+    {
+      "title": "Fact Check Team: What’s the difference between artificial intelligence & superintelligence",
+      "url": "https://ktxs.com/news/nation-world/fact-check-team-whats-the-difference-between-artificial-intelligence-superintelligence-intellectual-technology",
+      "domain": "ktxs.com",
+      "outlet": "KTXS",
+      "image": "https://ktxs.com/resources/media2/16x9/6252/1320/0x326/90/0c2cecba-59ff-4bb3-a37b-c84250676337-GettyImages2297775036.jpg",
+      "desc": "President Donald Trump wants the government to use a different name for artificial intelligence, arguing that the word.",
+      "date": "2026-10-02T16:00:01+00:00",
+      "tier": "longtail",
+      "cluster_size": 20,
+      "other_outlets": [
+        "KABB",
+        "KATU",
+        "KBTV",
+        "KDBC",
+        "KFOX",
+        "KOKH"
+      ]
+    },
+    {
+      "title": "Awe in the Age of AI",
+      "url": "https://time.com/article/2026/10/02/awe-in-the-age-of-ai/",
+      "domain": "time.com",
+      "outlet": "TIME",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2a5a1fb7b07209b0/6abff8b30ce84aea51fabde7/Awe-AI-Era.jpg?branch=production&width=2121&quality=75&auto=webp&crop=16:9",
+      "desc": "\"While acknowledging the amazing capacity of AI, we shouldn’t lose sight of the irreplaceable value of human-generated awe,\" writes Arianna Huffington.",
+      "date": "2026-10-02T18:35:04+00:00",
+      "tier": "longtail",
+      "cluster_size": 18,
+      "other_outlets": [
+        "Antara News",
+        "Boston Herald",
+        "Canon City Daily Record",
+        "Chico Enterprise-Record",
+        "Estes Park Trail-Gazette",
+        "Greeley Tribune"
+      ]
+    },
+    {
+      "title": "Trump to appoint Jay Clayton as AI czar: report",
+      "url": "https://kpic.com/news/nation-world/trump-to-appoint-jay-clayton-as-ai-czar-report-white-house-ai-force-cnn",
+      "domain": "kpic.com",
+      "outlet": "KPIC",
+      "image": "https://kpic.com/resources/media2/16x9/4792/1320/0x5/90/8086d4aa-3cb7-460b-b988-15571b8ee714-GettyImages2297760264.jpg",
+      "desc": "President Donald Trump will likely select Jay Clayton to be the new artificial intelligence czar, according to reports.",
+      "date": "2026-10-02T19:14:41+00:00",
+      "tier": "longtail",
+      "cluster_size": 15,
+      "other_outlets": [
+        "KFDM",
+        "KGAN",
+        "KMTR",
+        "KRXI",
+        "KTUL2",
+        "WACH"
+      ]
+    },
+    {
+      "title": "Trump says Iran will be hit 'very hard' if it is behind copilot who tried to crash flight to Israel | Chattanooga Times Free Press",
+      "url": "https://www.timesfreepress.com/news/2026/oct/02/trump-says-iran-will-be-hit-very-hard-if-it-is-behind-copilot-who-tried-to-crash-flight-to-israel/",
+      "domain": "timesfreepress.com",
+      "outlet": "timesfreepress.com",
+      "image": "https://wehco.media.clients.ellingtoncms.com/img/photos/2026/10/02/AP26273667107772_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "desc": "U.S. President Donald Trump said Thursday that if Iran is linked to the copilot who tried to crash an Israel-bound flight, the Islamic Republic would be struck \"very hard\" for the attempt on the lives of more than 180 people aboard the jet.",
+      "date": "2026-10-02T12:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 15,
+      "other_outlets": [
+        "Boston News, Weather, Sports | WHDH 7News",
+        "BusinessLine",
+        "Chicago Tribune",
+        "New York Post",
+        "Rocky Mount Telegram",
+        "Santa Maria Times"
+      ]
+    },
+    {
+      "title": "Artificial intelligence on Common Dreams's site",
+      "url": "https://www.commondreams.org/tag/artificial-intelligence",
+      "domain": "commondreams.org",
+      "outlet": "Common Dreams",
+      "image": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82NjgzNzk4My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg1NDAwNzA1OH0.IJs35jaeCQ3jGYrrWjwnupdDJO4OtMUelRKt4Cngd3I/image.png?width=210",
+      "desc": "Common Dreams has been providing breaking news & views for the progressive community since 1997. We are independent, non-profit, advertising-free and 100% reader supported. Our Mission: To inform. To inspire. To ignite change for the common good.",
+      "date": "2026-10-02T19:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 13,
+      "other_outlets": [
+        "2 Minute Medicine",
+        "ACADEME BLOG",
+        "Fox Business",
+        "GovCon Wire",
+        "Israel & Jewish News - JNS",
+        "NBC Bay Area"
+      ]
+    },
+    {
+      "title": "Datavault AI CEO to Present",
+      "url": "https://article.wn.com/view/2026/10/02/Datavault_AI_CEO_to_Present_Operating_System_for_Tokenized_A_g/",
+      "domain": "article.wn.com",
+      "outlet": "article.wn.com",
+      "image": "",
+      "desc": "Session to debut the first official XRP Seoul commemorative token, powered by ADIO® tone-to-token technology, and demonstrate unified valuation, credentialing, and verified metadata for real-world assets PHILADELPHIA, PA / ACCESS Newswire / October 2, 2026 / (\"Datavault AI\" or the \"Company\") (NASDAQ:DVLT), a provider of data monetization, credentialing, digital engagement, and real-world asset (\"RWA\") tokenization technologies, today announced that Nathaniel T. Bradley, CEO of Datavault AI, will",
+      "date": "2026-10-02T18:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 13,
+      "other_outlets": [
+        "Argentina Star",
+        "China National News",
+        "Europe Sun",
+        "Hong Kong Herald",
+        "India Gazette",
+        "Irish Sun"
+      ]
+    },
+    {
+      "title": "Florida woman accused of telling Claude AI she was going to 'shoot up the sheriff's office'",
+      "url": "https://www.kcci.com/article/florida-woman-arrest-claude-ai-threat-sheriff/73995685",
+      "domain": "kcci.com",
+      "outlet": "KCCI",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/5fcf7943-cd0e-4ed4-8183-d94b9354c26f.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "desc": "A Florida woman was arrested after she was accused of using artificial intelligence to issue violent threats against the Lee County Sheriff's Office.",
+      "date": "2026-10-02T16:30:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 12,
+      "other_outlets": [
+        "KHBS",
+        "KMBC",
+        "KOCO",
+        "WAPT",
+        "WISN",
+        "WLWT"
+      ]
+    },
+    {
+      "title": "OpenAI fires three over sensitive information - Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/03/2003865295",
+      "domain": "taipeitimes.com",
+      "outlet": "taipeitimes.com",
+      "image": "https://img.taipeitimes.com/images/2026/10/03/p09-261003-302.jpg",
+      "desc": "ChatGPT maker OpenAI said on Thursday that it has fired three researchers for allegedly mishandling “sensitive information” and violating company policies, including work that involved an external organization that evaluates artificial intelligence models.The San Francisco-based AI lab did not confi",
+      "date": "2026-10-02T16:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 10,
+      "other_outlets": [
+        "AOL.com",
+        "CNA",
+        "Japan Today",
+        "NZ Herald",
+        "News.az",
+        "The Star"
+      ]
+    },
+    {
+      "title": "Nvidia expands buyback as AI demand drives cash generation",
+      "url": "http://www.azerbaijannews.net/news/279338424/nvidia-expands-buyback-as-ai-demand-drives-cash-generation",
+      "domain": "azerbaijannews.net",
+      "outlet": "Azerbaijan News",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/986332d/10897fad-56a8-4e2e-b772-c10061ec143f/1/Jensen-Huang-600x315.jpg",
+      "desc": "Nvidia has added a record US$150 billion to its share buyback authorization, bringing its remaining capacity to $235 billion as demand for artificial intelligence chips continues to drive cash generation",
+      "date": "2026-10-02T08:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 10,
+      "other_outlets": [
+        "Afghanistan News",
+        "Australian News",
+        "Britain News",
+        "Brunei News",
+        "Calcutta News",
+        "Laos News"
+      ]
+    },
+    {
+      "title": "Midea Showcases Breakthrough Cooling Technologies for High-Density AI Data Centers at Data Center World Asia 2026",
+      "url": "http://www.philippinetimes.com/news/279346680/midea-showcases-breakthrough-cooling-technologies-for-high-density-ai-data-centers-at-data-center-world-asia-2026",
+      "domain": "philippinetimes.com",
+      "outlet": "Philippine Times",
+      "image": "",
+      "desc": "SINGAPORE, Oct. 2, 2026 /PRNewswire/ -- The Asia Data Centre World 2026 was held at Marina Bay Sands, Singapore from September 29 to 30. During the exhibition,Midea Building Technologies (MBT) showcased its next-gen power-cooling hyperconvergence architecture and full stack AI Data Center (AIDC) cooling solutions for the Asia-Pacific region, covering key application scenarios such as high-density computing, liquid cooling, tropical climate and low-carbon operation. The exhibition hall was crowde...",
+      "date": "2026-10-02T05:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 10,
+      "other_outlets": [
+        "Australian News",
+        "BusinessLine",
+        "Malaysia Sun",
+        "Singapore Star",
+        "Sydney Sun",
+        "Thailand Business News"
+      ]
+    },
+    {
+      "title": "GIGABYTE AI TOP ATOM 64GB Unified Memory Version Expands Possibilities for Desktop AI Development",
+      "url": "http://www.malaysiasun.com/news/279348070/gigabyte-ai-top-atom-64gb-unified-memory-version-expands-possibilities-for-desktop-ai-development",
+      "domain": "malaysiasun.com",
+      "outlet": "Malaysia Sun",
+      "image": "",
+      "desc": "TAIPEI, Oct. 2, 2026 /PRNewswire/ -- GIGABYTE today announced the launch of a new 64GB unified memory version of GIGABYTE AI TOP ATOM, expanding its existing 128GB offering. Available starting October 23, the new configuration retains the hardware design of AI TOP ATOM, based on the NVIDIA DGX Spark platform, giving developers, researchers, and enterprise teams greater flexibility to select the configuration that best fits their AI workloads and memory requirements, while enabling dedicated on-p...",
+      "date": "2026-10-02T21:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 8,
+      "other_outlets": [
+        "Asia Bulletin",
+        "Australian News",
+        "Philippine Times",
+        "Singapore Star",
+        "Sydney Sun",
+        "The Manila Times"
+      ]
+    },
+    {
+      "title": "Micks AI Brings AI-Powered Product Photography to E-Commerce Brands",
+      "url": "http://www.indiagazette.com/news/279347679/micks-ai-brings-ai-powered-product-photography-to-e-commerce-brands",
+      "domain": "indiagazette.com",
+      "outlet": "India Gazette",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/112107a/f07f12fe-d57a-410c-9cc7-5156b0a0b6cf/0/ANI-20261002115706-600x315.jpg",
+      "desc": "As e-commerce brands increasingly compete on visual presentation, Micks AI, an AI-powered product photography platform, is helping businesses create new product images, lifestyle scenes, model photography and short product videos from photos they already have. Traditional product photography can involve studios, photographers, models, equipment, editing and repeated shoots whenever a brand needs fresh creative. Micks AI is built around a simpler approach",
+      "date": "2026-10-02T16:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 8,
+      "other_outlets": [
+        "Bangladesh Sun",
+        "Brunei News",
+        "Cambodian Times",
+        "Herald Globe",
+        "Laos News",
+        "Mexico Star"
+      ]
+    },
+    {
+      "title": "Indian Foreign Qualified Lawyers Association meets U.S. officials, proposes India-U.S. legal bridge on foreign qualification, reciprocity and AI",
+      "url": "http://www.bruneinews.net/news/279347164/indian-foreign-qualified-lawyers-association-meets-us-officials-proposes-india-us-legal-bridge-on-foreign-qualification-reciprocity-and-ai",
+      "domain": "bruneinews.net",
+      "outlet": "Brunei News",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/579b15a/b254a616-85b6-4952-b12a-bbb389738b66/0/OTljZWU4MjgtMDN-600x315.jpg",
+      "desc": "VMPL New Delhi [India], October 2: A delegation of the Indian Foreign Qualified Lawyers Association (IFQLA), led by its Founder and Convenor Yash Jangid, Advocate (India) and Barrister (England & Wales), met officials of the U.S. Embassy's Commercial Section and the USPTO Intellectual Property Attache Office at the American Centre in New Delhi on Thursday. They discussed professional cooperation on legal issues in India-U.S. trade, technology and professional relations. The delegation included N...",
+      "date": "2026-10-02T10:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 8,
+      "other_outlets": [
+        "Bangladesh Sun",
+        "Big News Network.com",
+        "Calcutta News",
+        "Herald Globe",
+        "Laos News",
+        "Nepal National"
+      ]
+    },
+    {
+      "title": "IAB Hong Kong's C26 Returns as Hong Kong's Largest AI and Marketing Event, Exploring How AI Is Reimagining Business",
+      "url": "http://www.malaysiasun.com/news/279346754/iab-hong-kong-c26-returns-as-hong-kong-largest-ai-and-marketing-event-exploring-how-ai-is-reimagining-business",
+      "domain": "malaysiasun.com",
+      "outlet": "Malaysia Sun",
+      "image": "",
+      "desc": "Flagship conference to bring together 50+ global and regional leaders exploring how AI is reshaping marketing, media, commerce and customer engagement Tickets available at: bit.ly/JoinIABC26 HONG KONG, Sept. 30, 2026 /PRNewswire/ -- Artificial intelligence is moving from experimentation to scaled execution across the global marketing industry. According to IAB's 2026 Outlook Study, five of the top six marketer focus areas in 2026 are AI-driven, reflecting how rapidly AI is becoming core infrastr...",
+      "date": "2026-10-02T06:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 8,
+      "other_outlets": [
+        "Asia Bulletin",
+        "Australian News",
+        "Philippine Times",
+        "Singapore Star",
+        "The Manila Times",
+        "Vietnam Tribune"
+      ]
+    },
+    {
+      "title": "SentraForge AI Builds One of India's Top 5 AI Facilities, Backed by GVPR",
+      "url": "http://www.indiagazette.com/news/279347516/sentraforge-ai-builds-one-of-india-top-5-ai-facilities-backed-by-gvpr",
+      "domain": "indiagazette.com",
+      "outlet": "India Gazette",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/cdddfa4/2021f6c7-fd1d-47ff-bc38-e81cff8bb45a/0/ANI-20261002105218-600x315.jpg",
+      "desc": "SentraForge AI, backed by GVPR Engineers Limited as its core equity backer and infrastructure anchor, is advancing plans for a 120 MW Sovereign AI Infrastructure project in Odisha, with the capacity to scale as AI compute requirements grow. The project is being developed to support high-density AI compute, enterprise workloads, and next-generation digital infrastructure. Backed by a proposed investment of 22,634 crore across the project, the development is being designed to address one of the mo...",
+      "date": "2026-10-02T16:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Bangladesh Sun",
+        "Brunei News",
+        "Calcutta News",
+        "Cambodian Times",
+        "Laos News",
+        "Sri Lanka Source"
+      ]
+    },
+    {
+      "title": "New IBM CHRO Study: Canadian Employees Worry AI Is Eroding Skills as Critical Thinking Gains Importance",
+      "url": "https://www.newswire.ca/news-releases/new-ibm-chro-study-canadian-employees-worry-ai-is-eroding-skills-as-critical-thinking-gains-importance-802638561.html",
+      "domain": "newswire.ca",
+      "outlet": "newswire.ca",
+      "image": "https://mmx.prnewswire.com/media/MS654328/IBM-LOGO-1.jpg?id=OA2983802&p=twitter",
+      "desc": "/CNW/ -- A new global study from the IBM (NYSE: IBM) Institute for Business Value points to a disconnect between the skills Chief Human Resource Officers...",
+      "date": "2026-10-02T16:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Belleville Intelligencer",
+        "Brockville Recorder and Times",
+        "Chatham Daily News",
+        "Cornwall Standard Freeholder",
+        "Kingston Whig",
+        "Owen Sound Sun-Times"
+      ]
+    },
+    {
+      "title": "OpenAI says three staffers fired for mishandling 'sensitive' info",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/02/openai-says-three-staffers-fired-for-mishandling-039sensitive039-info",
+      "domain": "thestar.com.my",
+      "outlet": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/02/4140783.JPG",
+      "desc": "All three have regularly posted about AI safety-related issues on X in recent weeks.",
+      "date": "2026-10-02T13:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "1650 AM (Bollywood Hits)",
+        "Free Malaysia Today | FMT",
+        "RTE.ie",
+        "The Straits Times",
+        "english.aawsat.com",
+        "thepeninsulaqatar.com"
+      ]
+    },
+    {
+      "title": "Tech Talk: OpenAI alerts more than 100 groups about rogue AI agent activity",
+      "url": "https://www.gdnonline.com:443/Details/1408376",
+      "domain": "gdnonline.com",
+      "outlet": "gdnonline.com",
+      "image": "https://www.gdnonline.com/gdnimages/20261002\\20261002123822SINGLEPIC-2026-10-02T123630.044.jpg",
+      "desc": "",
+      "date": "2026-10-02T12:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Geo News",
+        "SAMAA TV",
+        "The Star",
+        "business-standard.com",
+        "deccanchronicle.com"
+      ]
+    },
+    {
+      "title": "SE Asia needs more than data centres to benefit from AI boom",
+      "url": "https://www.dealstreetasia.com/stories/asia-pe-vc-summit-2026-ai-boom-496510",
+      "domain": "dealstreetasia.com",
+      "outlet": "DealStreetAsia",
+      "image": "https://cdn.dealstreetasia.com/uploads/2026/09/1790233405577-e1790672956247.jpeg?fit=940,594",
+      "desc": "The distinction matters as money flows into digital infrastructure.",
+      "date": "2026-10-02T04:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Chiang Rai Times (CTN NEWS) - Chiang Rai News",
+        "Indiatimes",
+        "RNZ",
+        "Sputnik International",
+        "lankaweb.com"
+      ]
+    },
+    {
+      "title": "Construction of Bell Canada’s AI data centre in Saskatchewan scaling up | Globalnews.ca",
+      "url": "https://globalnews.ca/news/12085258/construction-of-bell-canadas-ai-data-centre-in-saskatchewan-scaling-up/",
+      "domain": "globalnews.ca",
+      "outlet": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/8ac46486e1c6bf825f57e3df9f880db8673c8e2c7f9c3025022762ddf25c934a_cdc011.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "desc": "Saskatchewan’s Crown investments minister stood Thursday in front of a skeleton of steel beams to tout progress on an artificial intelligence mega facility.",
+      "date": "2026-10-02T14:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "Brandon Sun",
+        "St. Catharines Standard",
+        "The Record",
+        "Welland Tribune",
+        "Winnipeg Free Press"
+      ]
+    },
+    {
+      "title": "China provides practical pathway for Global South countries to seize opportunities in AI development -- experts",
+      "url": "http://en.people.cn/n3/2026/1002/c90000-20505490.html",
+      "domain": "en.people.cn",
+      "outlet": "en.people.cn",
+      "image": "",
+      "desc": "CAIRO, Oct. 1 (Xinhua) -- China's commitment to open source, openness, cooperation and sharing provi",
+      "date": "2026-10-02T07:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "Brazil Sun",
+        "china.org.cn",
+        "english.news.cn",
+        "globaltimes.cn"
+      ]
+    },
+    {
+      "title": "Quebec Conservative Party Leader Éric Duhaime admits to using AI to write book",
+      "url": "https://www.theglobeandmail.com/canada/article-quebec-conservative-party-leader-eric-duhaime-ai-book/",
+      "domain": "theglobeandmail.com",
+      "outlet": "The Globe and Mail",
+      "image": "https://www.theglobeandmail.com/resizer/v2/E6VF62IOCFDVLB3NGFJVTU6VY4.jpg?auth=f9d4a0f0e8bacdad3dcfe94bebc1d4a0417ef677cb1f3034f5180e5e468ed227&width=1200&height=800&quality=80&smart=true",
+      "desc": "Duhaime has supported the use of AI throughout his campaign, saying it could be useful to cut bureaucracy",
+      "date": "2026-10-02T21:10:17+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "MTL Blog",
+        "St. Catharines Standard",
+        "The Record",
+        "Winnipeg Free Press"
+      ]
+    },
+    {
+      "title": "Sue Johnston encourages Brits to turn to 'Age Intelligence' instead of AI",
+      "url": "https://www.bristolpost.co.uk/news/uk-world-news/sue-johnston-launches-age-tendendo-11180966",
+      "domain": "bristolpost.co.uk",
+      "outlet": "Bristol Live",
+      "image": "https://i2-prod.bristolpost.co.uk/article11181004.ece/ALTERNATES/s1200d/0_PinPep_Maltesers90thAnniversary_DP_049.jpg",
+      "desc": "The actress has launched 'Age Intelligence' to share older people's life experiences and wisdom.",
+      "date": "2026-10-02T09:30:15+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": []
+    },
+    {
+      "title": "Chinese hackers impersonated ex-US official to steal emails from AI experts",
+      "url": "https://www.rappler.com/technology/chinese-hackers-impersonate-ex-us-official-steal-emails-ai-experts/",
+      "domain": "rappler.com",
+      "outlet": "RAPPLER",
+      "image": "https://www.rappler.com/tachyon/2024/04/cybersecurity-february-19-2024-reuters.jpg",
+      "desc": "Cybersecurity company Proofpoint says the hackers regularly try to steal passwords from people working for US or Japanese think tanks, defense contractors, universities, and law firms since as far back as 2025",
+      "date": "2026-10-02T06:05:27+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "AsiaOne",
+        "ChinaTechNews.com",
+        "iTnews"
+      ]
+    },
+    {
+      "title": "Trump Poised to Name Jay Clayton as White House AI Czar",
+      "url": "https://www.govinfosecurity.com/trump-poised-to-name-jay-clayton-as-white-house-ai-czar-a-33007",
+      "domain": "govinfosecurity.com",
+      "outlet": "govinfosecurity.com",
+      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/trump-poised-to-name-jay-clayton-as-white-house-ai-czar-image_large-6-a-33007.jpg",
+      "desc": "A top U.S. intelligence official is poised to become the public face of the Trump administration's stance on artificial intelligence, according to multiple Friday",
+      "date": "2026-10-02T21:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Big News Network.com",
+        "KYMA",
+        "bankinfosecurity.com"
+      ]
+    },
+    {
+      "title": "AI data centres are springing up in communities across the country. Now, residents are fighting back",
+      "url": "https://www.smh.com.au/national/ai-data-centres-are-springing-up-in-communities-across-the-country-now-residents-are-fighting-back-20261003-p60xhb.html",
+      "domain": "smh.com.au",
+      "outlet": "The Sydney Morning Herald",
+      "image": "https://static.ffx.io/images/$zoom_0.2857803362573099%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_264%2C$y_257/t_crop_custom/q_86%2Cf_auto/5301e70df6f78c5aeca83672f60281ab7f6820ca",
+      "desc": "For these locals, the prospect of a vast new data centre – just one block away from a school and 16 metres from a home – was too much. So they got to work.",
+      "date": "2026-10-02T19:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Brisbane Times",
+        "The Age",
+        "WAtoday"
+      ]
+    },
+    {
+      "title": "NYS commission examining AI impacts on workforce",
+      "url": "https://www.wamc.org/2026-10-02/nys-commission-examining-ai-impacts-on-workforce",
+      "domain": "wamc.org",
+      "outlet": "WAMC",
+      "image": "https://npr.brightspotcdn.com/dims4/default/b7a1d3b/2147483647/strip/true/crop/8640x4536+0+156/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F72%2F3cea58914e868ce913d7466f1185%2F55559445828-91537c6e4b-o.jpg",
+      "desc": "New York Gov. Kathy Hochul met with her FutureMeet Commission to discuss artificial intelligence’s impact on the state’s workforce.",
+      "date": "2026-10-02T18:47:03+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "WAER",
+        "WRVO Public Media",
+        "WSHU"
+      ]
+    },
+    {
+      "title": "Fed's Lisa Cook sees AI inflationary push as a top 2027 risk - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/feds-cook-sees-ai-inflationary-push-as-a-top-2027-risk/articleshow/134643510.cms",
+      "domain": "economictimes.indiatimes.com",
+      "outlet": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2816398,resizemode-75,msid-134643510/tech/artificial-intelligence/feds-cook-sees-ai-inflationary-push-as-a-top-2027-risk.jpg",
+      "desc": "Cook joined a unanimous vote last month at the Fed to raise the policy rate by a quarter of a point to support a \"timelier\" return of inflation to the Fed's 2% goal. Inflation by the Fed's targeted measure was 3.4% in August and has been above the goal for more than 5-1/2 years.",
+      "date": "2026-10-02T17:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "The Business Times",
+        "The Star",
+        "kitco.com"
+      ]
+    },
+    {
+      "title": "Qualcomm just inked a surprise Apple deal and announced the future of personal AI",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/02/qualcomm-just-inked-a-surprise-apple-deal-and-announced-the-future-of-personal-ai",
+      "domain": "thestar.com.my",
+      "outlet": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/02/4141122.JPG",
+      "desc": "Qualcomm – and most tech companies today – are pushing a narrative that artificial intelligence will change everything.",
+      "date": "2026-10-02T16:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "East Bay Times",
+        "Silicon Valley",
+        "The Mercury News"
+      ]
+    },
+    {
+      "title": "Trump has promoted AI in education. His FCC may end school internet subsidies.",
+      "url": "https://www.suncommercial.com/banner_graphic/news/national/article_2262da00-527d-5bc7-a120-9996977cd8ed.html",
+      "domain": "suncommercial.com",
+      "outlet": "Vincennes Sun-Commercial",
+      "image": "https://bloximages.chicago2.vip.townnews.com/suncommercial.com/content/tncms/assets/v3/editorial/a/6d/a6d720d1-1fed-51c9-a5c5-29c0e0c652b6/6abfbcc8a9754.image.jpg?crop=1080%2C567%2C0%2C76",
+      "desc": "Chalkbeat reports that FCC reviews of school internet subsidies, driven by concerns over screen time, could disrupt access to essential online resources.",
+      "date": "2026-10-02T14:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "INSIDENOVA.COM",
+        "JournalStar.com"
+      ]
+    },
+    {
+      "title": "Rogue OpenAI bots hack another Australian government system",
+      "url": "https://www.cairnspost.com.au/technology/online/rogue-openai-bots-hacked-nsw-national-parks-and-wildlife-service-to-steal-bushfire-statistics/news-story/668294f295ee39c0ed2c6707b1009b0c&memtype=anonymous&mode=premium&nk=1639c4fb38c40bdf8c0e07512c045b84-1790943455",
+      "domain": "cairnspost.com.au",
+      "outlet": "cairnspost.com.au",
+      "image": "https://content.api.news/v3/images/bin/8c0c5538131ff5e1505d41134fe54950",
+      "desc": "Subscribe to the Cairns Post to get unrestricted digital access, home paper delivery, Apps for iPad and Android and much more...",
+      "date": "2026-10-02T12:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "geelongadvertiser.com.au",
+        "townsvillebulletin.com.au"
+      ]
+    },
+    {
+      "title": "Sue Johnston launches 'Age Intelligence' to rival AI",
+      "url": "https://www.walesonline.co.uk/news/uk-news/sue-johnston-launches-age-tendendo-34705294",
+      "domain": "walesonline.co.uk",
+      "outlet": "Wales Online",
+      "image": "https://i2-prod.walesonline.co.uk/article34705305.ece/ALTERNATES/s1200d/0_PinPep_Maltesers90thAnniversary_DP_138.jpg",
+      "desc": "The actress believes that real wisdom comes from \"living through life's ups and downs\".",
+      "date": "2026-10-02T09:29:27+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": []
+    },
+    {
+      "title": "The budget ChatGPT rival that could change AI",
+      "url": "https://www.smh.com.au/technology/the-budget-chatgpt-rival-that-could-change-ai-20261002-p611wl.html",
+      "domain": "smh.com.au",
+      "outlet": "The Sydney Morning Herald",
+      "image": "https://static.ffx.io/images/$zoom_0.6619%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_138/t_crop_custom/q_86%2Cf_auto/b64cf09ef7c5616cd68ea2379829d2ed8cd5fc73",
+      "desc": "Diogo Almeida was one of the fathers of ChatGPT, but he believes his creation has failed to deliver.",
+      "date": "2026-10-02T09:06:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Brisbane Times",
+        "The Age",
+        "WAtoday"
+      ]
+    },
+    {
+      "title": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street",
+      "url": "https://www.decaturdaily.com/business/swings-in-the-bond-market-shake-stock-markets-worldwide-as-ai-optimism-supports-wall-street/article_67d28c7c-c36f-4f5e-a606-09e8494c03d6.html",
+      "domain": "decaturdaily.com",
+      "outlet": "Decatur Daily",
+      "image": "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/custom/image/fc789116-dbde-11e5-a5bf-7b346753e730.jpg?resize=600%2C315",
+      "desc": "NEW YORK — More swings in the bond market rattled stock markets around the world on Thursday.",
+      "date": "2026-10-02T09:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Greeneville Publishing Company",
+        "Rocky Mount Telegram",
+        "WPTF FM 92.9 / AM 680"
+      ]
+    },
+    {
+      "title": "AI making major splash in trade with ASEAN",
+      "url": "http://global.chinadaily.com.cn/a/202610/02/WS6abeef0ce4b06d4aa05612aa.html",
+      "domain": "global.chinadaily.com.cn",
+      "outlet": "global.chinadaily.com.cn",
+      "image": "http://img2.chinadaily.com.cn/images/202610/02/6abeef0ce4b06d4a392d76e8.png",
+      "desc": "Both sides aim to expand tech's role in bilateral commerce, which topped $1 trillion last year.",
+      "date": "2026-10-02T05:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "china.org.cn",
+        "europe.chinadaily.com.cn",
+        "usa.chinadaily.com.cn"
+      ]
+    },
+    {
+      "title": "Applied AI LLC Releases New Research on the AI-Native Future of Consumer Intelligence",
+      "url": "http://www.californiatelegraph.com/news/279346586/applied-ai-llc-releases-new-research-on-the-ai-native-future-of-consumer-intelligence",
+      "domain": "californiatelegraph.com",
+      "outlet": "California Telegraph",
+      "image": "",
+      "desc": "CHICAGO, IL / ACCESS Newswire / October 1, 2026 / Applied AI today announced the release of The AI-Native Consumer Intelligence Enterprise 2027: From Verified B",
+      "date": "2026-10-02T03:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Hawaii Telegraph",
+        "New Jersey Telegraph",
+        "Tennessee Daily"
+      ]
+    },
+    {
+      "title": "Trump plans to name National Intelligence Director Jay Clayton as AI czar",
+      "url": "https://sana.sy/en/international/2347597/",
+      "domain": "sana.sy",
+      "outlet": "Syrian Arab News Agency (SANA)",
+      "image": "https://cdn.sananews.sy/2026/10/Trump-plans-to-name-National-Intelligence-Director-Jay-Clayton-as-AI-czar.webp",
+      "desc": "Washington, Oct. 2 (SANA) U.S. President Donald Trump intends to appoint current Director of National Intelligence Jay Clayton to lead the federal",
+      "date": "2026-10-02T20:57:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "NBC News",
+        "article.wn.com"
+      ]
+    },
+    {
+      "title": "Trustpoint Xposure, the First AEO-Certified PR Agency in the United States, Publishes AI and Media Visibility Audit Data From the Q4 AI and Media Blowout Giveaway Revealing the Five Most Common AI Citation Gaps Across Every Professional Service Category",
+      "url": "http://www.tennesseedaily.com/news/279347928/trustpoint-xposure-the-first-aeo-certified-pr-agency-in-the-united-states-publishes-ai-and-media-visibility-audit-data-from-the-q4-ai-and-media-blowout-giveaway-revealing-the-five-most-common-ai-citation-gaps-across-every-professional-service-category",
+      "domain": "tennesseedaily.com",
+      "outlet": "Tennessee Daily",
+      "image": "",
+      "desc": "AMHERST, NY / ACCESS Newswire / October 2, 2026 / Trustpoint Xposure, the first AEO-certified PR agency in the United States, today published AI and Media Visib",
+      "date": "2026-10-02T19:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "California Telegraph",
+        "Hawaii Telegraph"
+      ]
+    },
+    {
+      "title": "Students file lawsuit against Troy University over AI master’s program",
+      "url": "https://www.wsfa.com/2026/10/02/students-file-lawsuit-against-troy-university-over-ai-masters-program/",
+      "domain": "wsfa.com",
+      "outlet": "https://www.wsfa.com",
+      "image": "https://gray-wsfa-prod.gtv-cdn.com/resizer/v2/2TX2LGEJ5FGXRHYSYYCJBV4SQU.jpg?auth=a1d4364d4fb3eceb00caa203e86c5019cc4290c16a96d43a5c0a6918d0df2bf2&width=1200&height=600&smart=true",
+      "desc": "A dozen Troy University students have filed a lawsuit against the school for allegedly terminating an artificial intelligence master’s program, according to court filings.",
+      "date": "2026-10-02T19:32:59+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "WAKA 8",
+        "https://www.wtvy.com"
+      ]
+    },
+    {
+      "title": "AI Archives - Phandroid",
+      "url": "https://phandroid.com/category/ai/",
+      "domain": "phandroid.com",
+      "outlet": "Phandroid",
+      "image": "",
+      "desc": "",
+      "date": "2026-10-02T19:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "9to5Mac",
+        "St. Catharines Standard"
+      ]
+    },
+    {
+      "title": "AI data centers: How much are ratepayers on the hook for?",
+      "url": "https://alaskapublic.org/news/national/2026-10-02/ai-data-centers-how-much-are-ratepayers-on-the-hook-for",
+      "domain": "alaskapublic.org",
+      "outlet": "Alaska Public Media",
+      "image": "https://npr.brightspotcdn.com/dims4/default/d4696b9/2147483647/strip/true/crop/4965x2793+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F4965x2793%200%20259%2Fresize%2F4965x2793%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F28%2F8d9567c349eba8d8353635023ab8%2Fgettyimages-2296284534.jpg",
+      "desc": "Data centers consume large amounts of power and require upgrading infrastructure. But it's difficult to determine how much residential customers benefit and how much they actually pay for the benefit.",
+      "date": "2026-10-02T19:03:30+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "NCPR",
+        "WNYC | New York Public Radio, Podcasts, Live Streaming Radio, News"
+      ]
+    },
+    {
+      "title": "Sparq Builds Broad Enterprise Claude Capability With More Than 130 Certified Professionals",
+      "url": "http://www.newjerseytelegraph.com/news/279347784/sparq-builds-broad-enterprise-claude-capability-with-more-than-130-certified-professionals",
+      "domain": "newjerseytelegraph.com",
+      "outlet": "New Jersey Telegraph",
+      "image": "",
+      "desc": "ATLANTA, GA / ACCESS Newswire / October 2, 2026 / Sparq, the AI-native digital engineering partner built to re-engineer the systems businesses run on, today ann",
+      "date": "2026-10-02T18:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Hawaii Telegraph",
+        "Tennessee Daily"
+      ]
+    },
+    {
+      "title": "​SoftBank completes $30B OpenAI investment",
+      "url": "https://www.manilatimes.net/2026/10/03/business/foreign-business/softbank-completes-30b-openai-investment/2438078",
+      "domain": "manilatimes.net",
+      "outlet": "The Manila Times",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/02/1243796.jpg",
+      "desc": "SOFTBANK Group said on Thursday it has completed its $30-billion investment in OpenAI as part of its commitment to the ChatGPT maker’s last fundraising round.",
+      "date": "2026-10-02T16:05:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "DealStreetAsia",
+        "The Star"
+      ]
+    },
+    {
+      "title": "Ben Affleck on using AI in his latest movie: 'I used it for lots of things'",
+      "url": "https://www.ecr.co.za/news/entertainment/ben-affleck-talks-using-ai-in-latest-movie/",
+      "domain": "ecr.co.za",
+      "outlet": "ECR",
+      "image": "https://turntable.kagiso.io/images/GpXBfJuXAAA-W74_Medium.width-400.png",
+      "desc": "AI is becoming increasingly common in Hollywood, and Ben Affleck is the latest filmmaker to open up about using the technology in his new thriller.",
+      "date": "2026-10-02T15:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Deadline",
+        "pmnewsnigeria.com"
+      ]
+    }
+  ]
+}
