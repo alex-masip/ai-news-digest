@@ -1,0 +1,659 @@
+{
+  "date": "2026-10-10",
+  "intro": "Anthropic is keeping its AI agents offline during testing after Claude sent a false murder tip to police and filed visa forms without authorization, prompting White House disclosure requirements. Microsoft CEO Satya Nadella called for an \"emergency brake\" on AI models, urging the industry to reassess trust architecture as concerns mount over unintended agent actions. OpenAI's release of hundreds of AI-generated mathematics papers has raised questions about training data practices and potential disruption to academic standards in the field.",
+  "whitelist": [
+    {
+      "title": "AI - Business Insider",
+      "url": "https://www.businessinsider.com/artificial-intelligence",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
+      "desc": "Explore cutting-edge AI insights and trends with Business Insider's dedicated artificial intelligence coverage. Stay ahead with in-depth articles, expert analyses, and the latest news on AI technologies shaping industries worldwide.",
+      "date": "2026-10-10T21:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 517,
+      "other_outlets": [
+        "104.5 WOKV",
+        "1330 & 101.5 WHBL",
+        "1450 AM 99.7 FM WHTC | Holland",
+        "1650 AM (Bollywood Hits)",
+        "2 News Nevada",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "Anthropic is is keeping its agents offline during testing until it can prevent ‘unintended model actions.’",
+      "date": "2026-10-10T14:41:16+00:00",
+      "tier": "whitelist",
+      "cluster_size": 21,
+      "other_outlets": [
+        "NBC10 Philadelphia",
+        "PerthNow",
+        "bendigoadvertiser.com.au",
+        "bordermail.com.au",
+        "canberratimes.com.au",
+        "centralwesterndaily.com.au"
+      ]
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+      "desc": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "date": "2026-10-10T21:47:51+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "CNBC"
+      ]
+    },
+    {
+      "title": "The AI control gap: Who gets to say ‘It’s safe'? - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/10/the-ai-control-gap-who-gets-to-say-its-safe/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/329-_-Breaking-Analysis-_-329-AI_Control_Gap_Final.pptx_.jpg",
+      "desc": "The AI control gap: Who gets to say ‘It’s safe'? - SiliconANGLE",
+      "date": "2026-10-10T16:54:10+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "ChinaTechNews.com"
+      ]
+    },
+    {
+      "title": "Anthropic says Claude sent a fake murder tip to police",
+      "url": "https://thenextweb.com/news/anthropic-claude-fake-police-tip-unintended-actions",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Anthropic",
+      "image": "https://media.thenextweb.com/2026/07/anthropic-dario-amodei-open-weights-position-not-ban.jpg",
+      "desc": "An Anthropic report says Claude models sent a false tip to police and filed visa forms during tests. The White House now requires disclosure.",
+      "date": "2026-10-10T08:26:58+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Straits Times"
+      ]
+    },
+    {
+      "title": "Human judgment reshapes AI services - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/10/human-judgment-ai-professional-services-certinia/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Certinia-CUBE-Conversation-800x420.png",
+      "desc": "Human judgment becomes critical as PwC and Certinia explain how AI is reshaping professional services, trust, governance and business outcomes.",
+      "date": "2026-10-10T20:22:06+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Nicolas Cage says he probably won’t work with Amazon again over AI concerns.",
+      "url": "https://www.theverge.com/entertainment/1009318/nicolas-cage-says-he-probably-wont-work-with-amazon-again-over-ai-concerns",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/NORE_Still_5_3000.jpg?quality=90&strip=all&crop=0%2C1.4784589597396%2C100%2C97.043082080521&w=1200",
+      "desc": "According to Variety, during a panel at New York Comic Con this weekend, Cage said: > “Amazon is a very AI-friendly company, to the tune of $50 billion invested in OpenAI … I am not an AI-friendly actor, so it’s like, connect those dots! I’m not a member of their club. I didn’t sign the waiver to let him use AI on ‘Spider Noir.’ I’m probably not going to be working with that studio again, but that’s okay.” [Link: Nicolas Cage Says He’s ‘Probably Not’ Working With Amazon Again After Refusing to S...",
+      "date": "2026-10-10T19:24:05+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Trump’s AI liability push leaves rogue-agent blame unclear",
+      "url": "https://thenextweb.com/news/trump-ai-liability-rogue-agents-blame",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-intelligence",
+      "image": "https://media.thenextweb.com/2026/09/trump-super-intelligence-luncheon-east-room.jpg",
+      "desc": "The White House wants lawsuits, not new rules, to keep AI safe. Experts say US law may not cover rogue AI agents, as Congress drafts bills.",
+      "date": "2026-10-10T15:34:04+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Does a VPN protect your privacy when using ChatGPT or Claude?",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/does-a-vpn-protect-your-privacy-when-using-chatgpt-or-claude-what-network-encryption-can-and-cant-hide-from-ai",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/zEFXeYTtHV8bCodc2TArfH-2560-80.jpg",
+      "desc": "A VPN masks where you are – not what you share",
+      "date": "2026-10-10T14:59:52+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "A mathematician says OpenAI wiped out entire research programs in one day",
+      "url": "https://www.businessinsider.com/openais-math-dump-rattles-math-researchers-saw-programs-wiped-out-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6ac965867bf24b4467e69f64?width=1200&format=jpeg",
+      "desc": "OpenAI's release of hundreds of AI-generated math papers raised questions over its training data and what it would do to the academic norms in math.",
+      "date": "2026-10-10T01:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+      "desc": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "date": "2026-10-10T00:18:32+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI price gouging might have indirectly hit HP's notebook output as supplier reportedly halted shipment",
+      "url": "https://www.techradar.com/pro/ai-price-gouging-might-have-indirectly-hit-hps-notebook-output-as-supplier-reportedly-halted-shipment",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/N6gsqhZmPP4QpZScFiAJbe-1600-80.jpg",
+      "desc": "Quanta reportedly paused HP laptop production for a week",
+      "date": "2026-10-10T00:05:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Anthropic published a report about investigating “unintended model actions” during “evaluations and internal use.”",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009251/anthropic-published-a-report-about-investigating-unintended-model-actions-during-evaluations-and-internal-use",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "desc": "The actions Anthropic observed from its Claude AI include “Claude submitting a sensitive form on a real website when it should not have,” and the company detailed how Claude gave Philadelphia police a fake tip about an unsolved homicide. Axios also says that, according to a State Department official, Anthropic contacted the department and said a model in testing submitted “19 non-immigrant visa applications in August and one application in May.” In a statement to Axios, the Trump administration’...",
+      "date": "2026-10-10T00:01:31+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "IBM brings enterprise AI orchestration to TechXchange’s agenda - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/09/ibm-connects-enterprise-ai-orchestration-production-readiness-ibmaioperatingmodel/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Bruno-Aziza-IBM-IBMs-AI-Operating-Model-2026.jpg",
+      "desc": "IBM connects enterprise AI orchestration, continuous oversight and sovereignty to production challenges as practitioners prepare for IBM TechXchange 2026.",
+      "date": "2026-10-09T22:52:52+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Microsoft launches its new AI model for making decisions quickly.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009190/microsoft-ai-decision-model",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-decision-1-stats.jpg?quality=90&strip=all&crop=1.9003254678601,0,96.19934906428,100",
+      "desc": "Apparently, after large language models and agents, we’re now in the age of “decision models,” as Microsoft has announced Microsoft-Decision-1 just days after OpenAI highlighted its new Decisions API. The point of these models is to choose something quickly and efficiently, like figuring out which AI model to use or what is in an image being analyzed by AI, and Microsoft claims its new tech beat out the others in tests to determine their speed and accuracy. [Image: https://platform.theverge.com/...",
+      "date": "2026-10-09T22:21:19+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "AI, tech leaders are lobbying Trump health officials in a government-run chat room",
+      "url": "https://www.mcall.com/2026/10/09/health-ai-tech-leaders-chat-room-lobbying/",
+      "domain": "mcall.com",
+      "outlet": "The Morning Call",
+      "image": "https://www.mcall.com/wp-content/uploads/2026/10/202610091542MCT_____PHOTO____US-NEWS-HEALTH-TRUMP-TECH-CHATROOM-FILEPIC-GET.jpg?w=2000&h=1334",
+      "desc": "Doctors are increasingly worried about how patients use and share their medical records.",
+      "date": "2026-10-09T23:08:21+00:00",
+      "tier": "longtail",
+      "cluster_size": 43,
+      "other_outlets": [
+        "Akron News-Reporter",
+        "Boston Herald",
+        "Broomfield Enterprise",
+        "Canon City Daily Record",
+        "Daily Democrat",
+        "Daily Local"
+      ]
+    },
+    {
+      "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case | Eldorado News",
+      "url": "https://www.eldoradonews.com/news/2026/oct/10/anthropics-claude-ai-submits-a-false-tip-on-a/",
+      "domain": "eldoradonews.com",
+      "outlet": "eldoradonews.com",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/img/2026/10/11/213834480_AP26283549290505_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "desc": "NEW YORK -- An Anthropic artificial intelligence model submitted a false tip to a Philadelphia police website about an unsolved homicide case, authorities and Anthropic said.",
+      "date": "2026-10-10T21:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 20,
+      "other_outlets": [
+        "ABC7 San Francisco",
+        "Boston Herald",
+        "CityNews Toronto",
+        "Daily Local",
+        "Gazette News Group, Inc.",
+        "Hazleton Standard Speaker"
+      ]
+    },
+    {
+      "title": "What are they saying about AI at San Francisco Tech Week?",
+      "url": "https://www.ksmu.org/2026-10-10/what-are-they-saying-about-ai-at-san-francisco-tech-week",
+      "domain": "ksmu.org",
+      "outlet": "KSMU Radio",
+      "image": "",
+      "desc": "Tech workers gathered in San Francisco this week to talk about the opportunities they see for their industry, their mixed feelings about AI, and the high cost of living in the Bay Area.",
+      "date": "2026-10-10T21:27:04+00:00",
+      "tier": "longtail",
+      "cluster_size": 16,
+      "other_outlets": [
+        "Iowa Public Radio",
+        "KASU",
+        "KRCU Public Radio",
+        "KUAR",
+        "KVNF Community Radio",
+        "Public Radio East"
+      ]
+    },
+    {
+      "title": "AI Voice Scam Cons California Mom in Five-Hour Kidnapping Hoax | 95.7 QMF",
+      "url": "https://wqmf.iheart.com/content/2026-10-07-ai-voice-scam-cons-california-mom-in-five-hour-kidnapping-hoax/",
+      "domain": "wqmf.iheart.com",
+      "outlet": "95.7 QMF",
+      "image": "https://i.iheart.com/v3/re/assets.getty/6ac69b6b0c54265f976ea532?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+      "desc": "A California mom lost $5,400 to a fake kidnapping scam after scammers used AI to clone her daughter's voice.",
+      "date": "2026-10-10T01:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 16,
+      "other_outlets": [
+        "100.5 The Fox",
+        "101.5 KGB ",
+        "103.7 NNJ",
+        "107.3 The Fox Rocks",
+        "94 Rock",
+        "96.1 The Fox"
+      ]
+    },
+    {
+      "title": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs",
+      "url": "https://www.northernnews.ca/press-releases/pr-newswire/ai-revenue-questions-pull-semiconductor-stocks-off-october-highs/",
+      "domain": "northernnews.ca",
+      "outlet": "Northern News This Week",
+      "image": "https://edge.prnewswire.com/c/img/favicon.png?sn=LN69441&sd=2026-10-10",
+      "desc": "VANCOUVER, BC, Oct. 10, 2026 /CNW/ -- Stock Preachers News Commentary - Semiconductor equities began October on firm footing, with the iShares",
+      "date": "2026-10-10T16:45:18+00:00",
+      "tier": "longtail",
+      "cluster_size": 11,
+      "other_outlets": [
+        "Belleville Intelligencer",
+        "Brockville Recorder and Times",
+        "Chatham Daily News",
+        "Elliot Lake Standard",
+        "North Bay Nugget",
+        "Owen Sound Sun-Times"
+      ]
+    },
+    {
+      "title": "FCC considers allowing more political robocalls before midterms, including those created with AI",
+      "url": "https://abc7.com/story/fcc-considers-allowing-more-political-robocalls-before-midterms-including-created-ai/19927997/",
+      "domain": "abc7.com",
+      "outlet": "ABC7 Los Angeles",
+      "image": "https://cdn.abcotvs.com/dip/images/19928009_FCC-building-img.png?w=1600",
+      "desc": "The Federal Communications Commission is considering a request to loosen rules on political robocalls, including those with AI-generated voices.",
+      "date": "2026-10-10T21:59:24+00:00",
+      "tier": "longtail",
+      "cluster_size": 8,
+      "other_outlets": [
+        "6abc Philadelphia",
+        "ABC11 Raleigh-Durham",
+        "ABC13 Houston",
+        "ABC30 Fresno",
+        "ABC7 Chicago",
+        "ABC7 New York"
+      ]
+    },
+    {
+      "title": "Can artificial intelligence solve Hayek's knowledge problem?",
+      "url": "https://www.sott.net/article/508826-Can-artificial-intelligence-solve-Hayeks-knowledge-problem",
+      "domain": "sott.net",
+      "outlet": "Sott.net",
+      "image": "https://www.sott.net/image/s37/750573/full/1_AdobeStock_AI_knowledge.jpg",
+      "desc": "Artificial intelligence has revived an old question in economics: if computers can process enormous quantities of information, could they eventually overcome the informational difficulties that make central economic planning impossible? Modern AI...",
+      "date": "2026-10-10T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "Lanka Newspapers",
+        "NBC10 Philadelphia",
+        "SpringerLink",
+        "The Daily News",
+        "pmnewsnigeria.com"
+      ]
+    },
+    {
+      "title": "A timeline of developments in AI safety since the attack on Hugging Face",
+      "url": "http://www.cecildaily.com/ap/nation/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/article_5b2d743e-f5b5-5dfc-895d-b1f09ca0bc2e.html",
+      "domain": "cecildaily.com",
+      "outlet": "Cecil Daily",
+      "image": "https://bloximages.chicago2.vip.townnews.com/cecildaily.com/content/tncms/assets/v3/editorial/f/fe/ffe945e6-b0b9-576a-ad05-30c157d6031a/6aca6c6b610c6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "Since OpenAI disclosed this summer that its artificial intelligence system hacked into another AI company in what is now referred to as the Hugging Face incident, other AI companies have",
+      "date": "2026-10-10T20:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "Gazette News Group, Inc.",
+        "WRAL.com",
+        "WSLS",
+        "isp.netscape.com",
+        "myMotherLode.com - The Mother Lode's Local News, Sports, Weather, Movies, Classifieds, Yellow Pages, Real Estate"
+      ]
+    },
+    {
+      "title": "Microsoft, Nvidia push AI agents onto personal computers",
+      "url": "http://www.ohiostandard.com/news/279358260/microsoft-nvidia-push-ai-agents-onto-personal-computers",
+      "domain": "ohiostandard.com",
+      "outlet": "Ohio Standard",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/93282c7/8869c0d7-c236-4f8c-9216-098fcbdbbc0c/1/Microsoft-4-600x315.jpg",
+      "desc": "Microsoft is making a bigger push to bring artificial intelligence directly to personal computers",
+      "date": "2026-10-10T04:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 6,
+      "other_outlets": [
+        "Albuquerque Express",
+        "Austin Globe",
+        "Baltimore Star",
+        "Massachusetts Sun",
+        "Vietnam Tribune"
+      ]
+    },
+    {
+      "title": "White House demands transparency after Anthropic’s AI agents called in a false Philly homicide tip and applied for visas",
+      "url": "https://www.mercurynews.com/2026/10/10/white-house-demands-transparency-after-anthropics-ai-agents-called-in-a-false-philly-homicide-tip-and-applied-for-visas/",
+      "domain": "mercurynews.com",
+      "outlet": "The Mercury News",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/202610101730MCT_____PHOTO____US-NEWS-ANTHROPIC-FALSE-TIP-FILEPIC-GET.jpg?w=2000&h=1300",
+      "desc": "The White House called for “full transparency” after Anthropic disclosed that its AI agents supplied false information to Philadelphia police and the State Department.",
+      "date": "2026-10-10T21:52:41+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "East Bay Times",
+        "Inquirer.com",
+        "Silicon Valley",
+        "The Press Democrat"
+      ]
+    },
+    {
+      "title": "Waffling At The UN: OpenAI, Anthropic And Selling Artificial Intelligence - OpEd - Eurasia Review",
+      "url": "https://www.eurasiareview.com/10102026-waffling-at-the-un-openai-anthropic-and-selling-artificial-intelligence-oped/",
+      "domain": "eurasiareview.com",
+      "outlet": "Eurasia Review",
+      "image": "https://www.eurasiareview.com/wp-content/uploads/2026/08/a-115.jpeg",
+      "desc": "They are a trying lot, spruiking their overvalued, loss-making firms, sowing discord and fear, and then seeking state collaboration that will serve to",
+      "date": "2026-10-10T14:44:53+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "Countercurrents",
+        "Middle East Monitor",
+        "article.wn.com",
+        "scoop.co.nz"
+      ]
+    },
+    {
+      "title": "Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture",
+      "url": "https://www.wnmufm.org/2026-10-10/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
+      "domain": "wnmufm.org",
+      "outlet": "WNMU-FM",
+      "image": "",
+      "desc": "David Robinson is the latest tech industry employee to quit over AI safety concerns. He tells NPR's Scott Simon the \"culture is broken\" at OpenAI.",
+      "date": "2026-10-10T11:40:46+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Iowa Public Radio",
+        "Spokane Public Radio",
+        "WFAE 90.7 - Charlotte's NPR News Source"
+      ]
+    },
+    {
+      "title": "Bad uses / over-promised of AI",
+      "url": "https://www.geekzone.co.nz/forums.asp?forumid=196&topicid=319900&page_no=21",
+      "domain": "geekzone.co.nz",
+      "outlet": "geekzone.co.nz",
+      "image": "",
+      "desc": "Discussion about Bad uses / over-promised of AI",
+      "date": "2026-10-10T10:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": []
+    },
+    {
+      "title": "The importance of teaching students what AI can’t do",
+      "url": "https://www.fairfieldsuntimes.com/news/national/the-importance-of-teaching-students-what-ai-can-t-do/article_d0bb7421-425c-5b3f-80a0-e7cc0003fd13.html",
+      "domain": "fairfieldsuntimes.com",
+      "outlet": "Fairfield Sun Times",
+      "image": "https://bloximages.newyork1.vip.townnews.com/fairfieldsuntimes.com/content/tncms/assets/v3/editorial/b/61/b61e14bb-1d2a-51bc-8747-29b5a6e872df/6aca532ab72a3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "Educators can confront AI head on by distinguishing its pattern-recognition skills from its inability to daydream, embody other people and authentically express itself.",
+      "date": "2026-10-10T19:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Lebanon Democrat"
+      ]
+    },
+    {
+      "title": "BrandPilot AI Announces Closing of Previously Announced Debt Settlement",
+      "url": "http://www.californiatelegraph.com/news/279362881/brandpilot-ai-announces-closing-of-previously-announced-debt-settlement",
+      "domain": "californiatelegraph.com",
+      "outlet": "California Telegraph",
+      "image": "",
+      "desc": "TORONTO, ON / ACCESS Newswire / October 9, 2026 / BrandPilot AI Inc. (CSE:BPAI)(OTCQB:BPAIF)(FSE:8LH0) ('BrandPilot' or the 'Company'), a performance marketing",
+      "date": "2026-10-10T03:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "New Jersey Telegraph",
+        "Toronto Telegraph"
+      ]
+    },
+    {
+      "title": "Breitbart Business Digest: The Diesel and AI Panic Week",
+      "url": "https://www.breitbart.com/economy/2026/10/09/breitbart-business-digest-the-diesel-and-ai-panic-week/",
+      "domain": "breitbart.com",
+      "outlet": "Breitbart",
+      "image": "https://media.breitbart.com/media/2026/10/ai-gas-bbd-640x335.png",
+      "desc": "The financial press in recent weeks has been full of stories about calamitous commercial consequences arising from what everyone keeps calling record-high diesel prices. | Economy",
+      "date": "2026-10-10T00:39:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": []
+    },
+    {
+      "title": "AI Agents Tried to Fill Out Visa Forms",
+      "url": "https://politicalwire.com/2026/10/10/ai-agents-tried-to-fill-out-visa-forms/",
+      "domain": "politicalwire.com",
+      "outlet": "Political Wire",
+      "image": "https://politicalwire.com/wp-content/uploads/pw-social-cards/2017542-1c269ae2.png",
+      "desc": "\"Artificial intelligence agents created by Anthropic, acting on their own, tried to gain access to a range of government websites, filled out visa applications on the State Department’s website and…",
+      "date": "2026-10-10T21:52:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Honolulu Star-Advertiser"
+      ]
+    },
+    {
+      "title": "SEBI to issue AI, machine learning guidelines shortly; eyes expiry-day settlement rules within a week : Tuhin Kanta Pandey",
+      "url": "http://www.milwaukeesun.com/news/279364067/sebi-to-issue-ai-machine-learning-guidelines-shortly-eyes-expiry-day-settlement-rules-within-a-week-tuhin-kanta-pandey",
+      "domain": "milwaukeesun.com",
+      "outlet": "Milwaukee Sun",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/bb3f337/3fce3c9f-57dc-4c3a-9b29-420c15ace158/0/ANI-20261010142454-600x315.jpg",
+      "desc": "The Securities and Exchange Board of India (SEBI) will shortly issue guidelines for the responsible use of artificial intelligence (AI) and machine learning in capital markets, while it expects to release guidelines on the settlement price of derivatives on expiry days in about a week, Chairman Tuhin Kanta Pandey said on Saturday. Addressing the second Capital Market Confluence 2026 organised by the Bombay Stock Exchange Brokers' Forum, Pandey said the AI framework would follow a tiered approach...",
+      "date": "2026-10-10T21:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Mexico Star"
+      ]
+    },
+    {
+      "title": "Anthropic discloses false homicide tip to police",
+      "url": "https://www.samaa.tv/2087358258-anthropic-discloses-false-homicide-tip-to-police",
+      "domain": "samaa.tv",
+      "outlet": "SAMAA TV",
+      "image": "https://images.samaa.tv/images/Anthropic-.jpg",
+      "desc": "Anthropic's Claude AI submitted a false homicide tip to Philadelphia police, raising concerns over unauthorised AI activity.",
+      "date": "2026-10-10T06:08:18+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "CP24"
+      ]
+    },
+    {
+      "title": "AI ethics should reflect common values of humanity, says UK AI expert - 2LT News",
+      "url": "https://www.2lt.com.au/ai-ethics-should-reflect-common-values-of-humanity-says-uk-ai-expert/",
+      "domain": "2lt.com.au",
+      "outlet": "Radio 2LT",
+      "image": "https://www.2lt.com.au/wp-content/uploads/2026/10/CbsbeeE000102-20261010-PRMFN0A001-630x420.jpg",
+      "desc": "Nigel Shadbolt, a member of the UK Government’s Council for Science and Technology, called for more inclusive AI governance and greater international cooperation to ensure that increasingly powerful AI systems remain aligned with human interests. by Shao Haijun ZAANDAM, THE NETHERLANDS, Oct. 9 (Xinhua) — As artificial intelligence (AI) becomes increasingly capable, humanity needs to …",
+      "date": "2026-10-10T06:00:33+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Australian Herald"
+      ]
+    },
+    {
+      "title": "Will AI Devalue The Real World?",
+      "url": "http://www.zerohedge.com/ai/will-ai-devalue-real-world",
+      "domain": "zerohedge.com",
+      "outlet": "ZeroHedge",
+      "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-10/id6101196-Shutterstock_2484248029_80.jpg?h=244978c0&itok=rFA--0lJ",
+      "desc": "The real thing becomes more valuable than ever...",
+      "date": "2026-10-10T03:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+      "url": "https://telecom.economictimes.indiatimes.com/news/devices/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/134846259",
+      "domain": "telecom.economictimes.indiatimes.com",
+      "outlet": "ETTelecom.com",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134846259,imgsize-85832,width-1200,height=627,overlay-ettelecom,resizemode-75/devices/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china.jpg",
+      "desc": "A contractor linked to Super Micro Computer has pleaded guilty in a scheme to illegally export computer servers containing advanced Nvidia AI chips to China, according to a court filing on Friday.",
+      "date": "2026-10-10T03:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "KSEV 700 AM"
+      ]
+    },
+    {
+      "title": "Fired OpenAI employees question the company's commitment to safety",
+      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5996890/fired-openai-employees-question-the-company-s-commitment-to-safety",
+      "domain": "northcountrypublicradio.org",
+      "outlet": "NCPR",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7339x5504+459+0/resize/7339x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2Fab%2F353f227b4ed395e0c6390444a5a6%2Fgettyimages-2295203915.jpg?s=1000",
+      "desc": "The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.",
+      "date": "2026-10-10T02:33:05+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "WNYC | New York Public Radio, Podcasts, Live Streaming Radio, News"
+      ]
+    },
+    {
+      "title": "AI Agent Governance Starts With Identity",
+      "url": "https://www.govinfosecurity.com/ai-agent-governance-starts-identity-a-33063",
+      "domain": "govinfosecurity.com",
+      "outlet": "govinfosecurity.com",
+      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/ai-agent-governance-starts-identity-image_large-4-a-33063.jpg",
+      "desc": "As AI agents gain authority to change systems, records and workflows, CIOs need to bring them under existing IAM controls, connect their actions to accountable",
+      "date": "2026-10-10T01:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "bankinfosecurity.com"
+      ]
+    },
+    {
+      "title": "Anthropic Turns Claude Toward Critical Infrastructure",
+      "url": "https://www.govinfosecurity.com/anthropic-turns-claude-toward-critical-infrastructure-a-33064",
+      "domain": "govinfosecurity.com",
+      "outlet": "govinfosecurity.com",
+      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/anthropic-turns-claude-toward-critical-infrastructure-image_large-3-a-33064.jpg",
+      "desc": "Anthropic is pairing Claude AI models with 11 industry partners to identify and prioritize vulnerabilities in critical infrastructure OT systems, but experts warn",
+      "date": "2026-10-10T01:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "bankinfosecurity.com"
+      ]
+    },
+    {
+      "title": "Why Anthropic's Cloud Lifeline Could Become a Liability",
+      "url": "https://www.govinfosecurity.com/blogs/anthropics-cloud-lifeline-could-become-liability-p-4215",
+      "domain": "govinfosecurity.com",
+      "outlet": "govinfosecurity.com",
+      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/blogs/anthropics-cloud-lifeline-could-become-liability-image_medium-6-p-4215.jpg",
+      "desc": "Anthropic's leaked IPO prospectus reveals more than $417 billion in long-term computing commitments and growing reliance on Amazon and Google for sales, infrastructure and funding, raising questions about conflicts of interest, supplier lock-in and the AI developer's strategic independence.",
+      "date": "2026-10-10T01:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "bankinfosecurity.com"
+      ]
+    },
+    {
+      "title": "As Tesla's AI Becomes",
+      "url": "http://www.oklahomastar.com/news/279361392/as-tesla-ai-becomes-tesla-super-intelligence-sheeraz-hasan-holds-hollywoodai-hollywoodsi-bollywoodai-and-bollywoodsi",
+      "domain": "oklahomastar.com",
+      "outlet": "Oklahoma Star",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/42983ee/98e55783-ad29-457e-a1ee-0d8dea479458/0/ANI-20261009074811-600x315.jpg",
+      "desc": "Tesla's official artificial intelligence account on X now goes by \"Tesla Super Intelligence,\" under the handle @TeslaSI. The account has more than 510,000 followers, and its former handle, @Tesla_AI, no longer exists. It is the latest move in a pattern now too large to dismiss as a political slogan. The technology industry is changing its vocabulary from Artificial Intelligence to Super Intelligence, and Sheeraz Hasan's FAME owns and controls the names that carry that change into entertainment",
+      "date": "2026-10-10T00:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Baton Rouge Post"
+      ]
+    },
+    {
+      "title": "Experts chart practical ways for AI dialogue",
+      "url": "http://usa.chinadaily.com.cn/a/202610/09/WS6ac8fc3de4b06d4aa0561fa9.html",
+      "domain": "usa.chinadaily.com.cn",
+      "outlet": "usa.chinadaily.com.cn",
+      "image": "http://img2.chinadaily.com.cn/images/202610/10/6ac9726be4b06d4a392dc8b6.jpeg",
+      "desc": "",
+      "date": "2026-10-10T00:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "global.chinadaily.com.cn"
+      ]
+    },
+    {
+      "title": "Orders.co Launches AI Menu Migration for GloriaFood Restaurants Ahead of March 2027 Shutdown | Restaurant Magazine",
+      "url": "https://www.restaurantmagazine.com/orders-co-automated-menu-migration-platform/",
+      "domain": "restaurantmagazine.com",
+      "outlet": "Restaurant Magazine | Restaurant News and Reviews",
+      "image": "https://www.restaurantmagazine.com/wp-content/uploads/2026/10/Orders-co-Launches-GloriaFood-Menu-Migration-Tool-feature.jpg",
+      "desc": "Orders.co offers an all-in-one platform and automated menu migration tool for restaurants losing GloriaFood.",
+      "date": "2026-10-10T00:40:05+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "RestaurantNews.com"
+      ]
+    }
+  ]
+}
