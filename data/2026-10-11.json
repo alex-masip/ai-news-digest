@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-11",
+  "intro": "The Lancet Commission warns that nuclear war and malicious AI use pose catastrophic risks to humanity by 2100, though experts say actionable mitigation strategies exist for all 17 identified threats. OpenAI launched ChatGPT for Teens as retail investors show strong enthusiasm for agentic AI systems at industry summits. The US International Trade Commission is investigating 20 companies including Foxconn and Luxshare over alleged patent infringements in AI server power systems.",
+  "whitelist": [
+    {
+      "title": "AI - Business Insider",
+      "url": "https://www.businessinsider.com/artificial-intelligence",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
+      "desc": "Explore cutting-edge AI insights and trends with Business Insider's dedicated artificial intelligence coverage. Stay ahead with in-depth articles, expert analyses, and the latest news on AI technologies shaping industries worldwide.",
+      "date": "2026-10-11T21:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 419,
+      "other_outlets": [
+        "93.3 The Drive",
+        "ABC News",
+        "AG INFORMATION NETWORK OF THE WEST",
+        "AOL.com",
+        "ARY News",
+        "Afghanistan News"
+      ]
+    },
+    {
+      "title": "Talent Recruitment Announcement at the College of Artificial Intelligence - Wuhan, Hubei (CN) job with Huazhong Agricultural University (HZAU) | 12864821",
+      "url": "https://www.nature.com/naturecareers/job/12864821/talent-recruitment-announcement-at-the-college-of-artificial-intelligence/",
+      "domain": "nature.com",
+      "outlet": "Nature Careers",
+      "image": "https://www.nature.com/naturecareers/images/_display/job/12864821/facebook.png",
+      "desc": "Talent Recruitment Announcement at the College of Artificial Intelligence job in Wuhan, Hubei (CN) with Huazhong Agricultural University (HZAU). Apply Today.",
+      "date": "2026-10-11T01:17:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Al Bawaba",
+        "Gulf Times",
+        "Qatar Living Content",
+        "WAtoday",
+        "mint",
+        "nwitimes.com"
+      ]
+    },
+    {
+      "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+      "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/f50120ad5ffe55e5024a1ec6dc2e727ce8f4f95d/269_0_3928_3142/master/3928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=821105db283a829e3ca0732b7742a923",
+      "desc": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each exists",
+      "date": "2026-10-10T23:01:09+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": [
+        "AOL.com"
+      ]
+    },
+    {
+      "title": "Why AI agents might not be right for you - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/11/why-ai-agents-might-not-be-right-for-you/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/holdup.jpg",
+      "desc": "Why AI agents might not be right for you - SiliconANGLE",
+      "date": "2026-10-11T19:59:34+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "desc": "Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand.",
+      "date": "2026-10-11T18:33:56+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "US probes Foxconn, Luxshare over AI server power patents",
+      "url": "https://thenextweb.com/news/us-probes-foxconn-luxshare-and-18-others-over-ai-server-power-patents",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Asia",
+      "image": "https://media.thenextweb.com/2016/05/foxconn.jpg",
+      "desc": "The US ITC is investigating 20 firms including Foxconn, Luxshare and Quanta after Vicor alleged their AI server power systems infringe its patent.",
+      "date": "2026-10-11T17:11:22+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI won’t fix America’s debt, Guardian analysis argues",
+      "url": "https://thenextweb.com/news/ai-growth-us-debt-guardian-porter-analysis",
+      "domain": "thenextweb.com",
+      "outlet": "TNW | Artificial-intelligence",
+      "image": "https://media.thenextweb.com/2026/09/shadow-ai-enterprise-security-reco-control2.jpg",
+      "desc": "A Guardian analysis argues the White House is counting on AI growth to fix US debt, but budget experts say the numbers fall well short.",
+      "date": "2026-10-11T16:53:11+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs? | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
+      "desc": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "date": "2026-10-11T16:52:33+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "I attended a retail investor summit, and the day-trader crowd is mega-bullish on agentic AI",
+      "url": "https://www.businessinsider.com/retail-traders-agentic-ai-trading-finance-bitcoin-crypto-banks-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6ac8fcf642403ad8039a5020?width=1200&format=jpeg",
+      "desc": "At the Silvia Investor Summit in New York City, the bullishness for agentic AI was on full display among the retail traders in attendance.",
+      "date": "2026-10-11T11:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "ChatGPT for Teens is live. Here's how famed parenting expert Emily Oster says parents should approach it.",
+      "url": "https://www.businessinsider.com/parenting-expert-emily-oster-chatgpt-teens-ai-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6ac91a297bf24b4467e69c2c?width=1200&format=jpeg",
+      "desc": "Emily Oster, the founder of ParentData, shared her tips to parents navigating their kids using AI tools like ChatGPT for Teens.",
+      "date": "2026-10-11T11:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "desc": "Microsoft’s CEO calls for putting an ‘emergency brake’ on AI.",
+      "date": "2026-10-10T22:10:17+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI infrastructure bottlenecks take focus - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/10/ai-infrastructure-bottlenecks-forum-aidatapipelineforum/",
+      "domain": "siliconangle.com",
+      "outlet": "SiliconANGLE",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/AI-Data-Pipeline-Forum-2026.png",
+      "desc": "AI infrastructure bottlenecks take focus at the AI Data Pipeline Forum Oct. 13. Get a preview of theCUBE's coverage of storage, networking and power.",
+      "date": "2026-10-10T22:06:15+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Satya Nadella says a company's relationship with AI should have trust issues",
+      "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6aca696e7bf24b4467e6a102?width=1200&format=jpeg",
+      "desc": "Microsoft CEO Satya Nadella said companies should assume AI models are compromised and contain them from the start.",
+      "date": "2026-10-10T22:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "Government faces $15b cyber security overhaul to stop AI",
+      "url": "https://www.canberratimes.com.au/story/9364611/home-affairs-reveals-15b-bill-to-overhaul-vulnerable-legacy-tech/",
+      "domain": "canberratimes.com.au",
+      "outlet": "canberratimes.com.au",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/262473761/ddb88dcb-19c7-4f2a-ace1-07d59e15b2fb.jpg/r0_30_1920_1038_w1200_h630_fmax.jpg",
+      "desc": "Home Affairs warns Australia faces a $15b bill to replace vulnerable IT systems. Find out how departments must fund and wargame cyber defences.",
+      "date": "2026-10-11T18:30:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "batemansbaypost.com.au",
+        "begadistrictnews.com.au",
+        "braidwoodtimes.com.au"
+      ]
+    },
+    {
+      "title": "Report: ChatGPT's teen suicide safeguards failed to alert parents",
+      "url": "https://lakegenevanews.net/life-entertainment/nation-world/parenting/article_cd59d84f-ee9c-5c52-ac94-c24f475ab649.html",
+      "domain": "lakegenevanews.net",
+      "outlet": "Lake Geneva News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/lakegenevanews.net/content/tncms/assets/v3/editorial/c/d5/cd59d84f-ee9c-5c52-ac94-c24f475ab649/6ac8f7d69453a.preview.jpg?crop=1761%2C925%2C0%2C209&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "OpenAI also released its first report on teen use as rapid adoption of AI platforms raises concerns about their effects on adolescents.",
+      "date": "2026-10-11T19:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "Arizona Daily Star",
+        "Elko Daily Free Press"
+      ]
+    },
+    {
+      "title": "We Asked ChatGPT Whether Evernorth’s Stock Could Trade Above or Below the Value of Its XRP After Its First Week - AOL",
+      "url": "https://www.aol.com/articles/asked-chatgpt-whether-evernorth-stock-194038000.html",
+      "domain": "aol.com",
+      "outlet": "AOL.com",
+      "image": "https://hermes.media.static.aol.com/media/2026/10/11/c8b24473-96e9-3925-b864-f009add63841/7d7a7f2e-aefe-43b1-8fd9-83b4a56eb79f.jpg",
+      "desc": "Evernorth is about to list on Nasdaq as a pure XRP treasury stock, and whether it trades above or below the value of its actual crypto holdings could determine whether it ever buys another token again.",
+      "date": "2026-10-11T21:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "title": "Chick-fil-A Says AI Won’t Take Drive-Thru Orders. At 66, a Part-Time Job Could Still Raise His Social Security Check by Replacing a Low-Earning Year - AOL",
+      "url": "https://www.aol.com/articles/chick-fil-says-ai-won-180014000.html",
+      "domain": "aol.com",
+      "outlet": "AOL.com",
+      "image": "https://hermes.media.static.aol.com/media/2026/10/11/326ee77e-6982-3158-8725-81da1e48fb10/632882c7-3a8c-47ef-975f-4bcd0461028b.jpg",
+      "desc": "Chick-fil-A is keeping humans at the drive-thru window, but a 66-year-old working that window part-time may be sitting on a benefit most retirees overlook entirely.",
+      "date": "2026-10-11T18:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police",
+      "url": "https://www.fox13seattle.com/news/anthropic-claude-ai-model-sends-fake-homicide-tip-philadelphia-police",
+      "domain": "fox13seattle.com",
+      "outlet": "FOX 13 Seattle",
+      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/10/1200/630/gettyimages-2293903833-claude.jpg?ve=1&tl=1",
+      "desc": "An artificial intelligence model from Anthropic posed as someone with information on an unsolved homicide in Philadelphia and submitted a bogus tip to the city’s police department, according to both the software’s maker and local law enforcement.",
+      "date": "2026-10-11T18:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "torontosun"
+      ]
+    },
+    {
+      "title": "Anthropic's Claude AI submits a false tip on an unsolved Philadelphia homicide case",
+      "url": "https://wchstv.com/news/nation-world/anthropics-claude-ai-submits-a-false-tip-on-an-unsolved-philadelphia-homicide-case",
+      "domain": "wchstv.com",
+      "outlet": "WCHS",
+      "image": "https://wchstv.com/resources/media2/16x9/5000/1320/0x262/90/3a00af77-2e04-49cf-b2a8-d2ede43ce197-AP26283549290505.jpg",
+      "desc": "An Anthropic artificial intelligence model submitted a false tip to a Philadelphia police website about an unsolved homicide case, authorities and Anthropic sai",
+      "date": "2026-10-11T17:31:25+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Hindu"
+      ]
+    },
+    {
+      "title": "Over 8,000 users adopt Microsoft 365 Copilot across government entities",
+      "url": "https://www.qatar-tribune.com/article/258590/latest-news/over-8000-users-adopt-microsoft-365-copilot-across-government-entities",
+      "domain": "qatar-tribune.com",
+      "outlet": "Qatar Tribune",
+      "image": "https://www.qatar-tribune.com/watanqatartribune/uploads/images/2026/10/11/395777.jpg",
+      "desc": "DOHA: The Ministry of Communications and Information Technology (MCIT), in cooperation with Microsoft Office, showcased the second cohort of the Microsoft 365 Copilot Adoption...",
+      "date": "2026-10-11T12:58:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "newsnow.co.uk"
+      ]
+    },
+    {
+      "title": "Anthropic’s Claude went rogue, submitted fake tip to police in unsolved murder among several other incidents",
+      "url": "https://economictimes.indiatimes.com/world/us/anthropics-claude-went-rogue-submitted-fake-tip-to-police-in-unsolved-murder-among-several-other-incidents/articleshow/134866579.cms",
+      "domain": "economictimes.indiatimes.com",
+      "outlet": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-134866651,width-1200,height-900,imgsize-66238,overlay-economictimes/articleshow.jpg",
+      "desc": "In a baffling incident from July 2026, Anthropic's AI model Claude sent a bogus tip concerning an unsolved homicide to the Philadelphia police. This breach went unnoticed until September. Upon realization, Anthropic alerted law enforcement after identifying the issue as spam. The company is now working on adjustments to its training process to mitigate similar incidents of rogue AI behavior in the future.",
+      "date": "2026-10-11T08:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Sun Sentinel"
+      ]
+    },
+    {
+      "title": "Some Safety Protections In ChatGPT For Teens Don't Work, Watchdog Finds",
+      "url": "https://www.zerohedge.com/ai/some-safety-protections-chatgpt-teens-dont-work-watchdog-finds",
+      "domain": "zerohedge.com",
+      "outlet": "ZeroHedge",
+      "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-10/id5908386-EpochImages-7485548273-1080x720_80.jpg?itok=IVfZFpYB",
+      "desc": "Common Sense Media’s Youth AI Safety Institute said its testing indicated safeguards such as the tool not referring to itself as a teenager’s friend failed.",
+      "date": "2026-10-11T03:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "AI is creating a 'human premium' for art created by people",
+      "url": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo",
+      "domain": "bbc.co.uk",
+      "outlet": "BBC News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fb8/live/8086eea0-c3cb-11f1-a64c-550be9e3c66b.jpg",
+      "desc": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
+      "date": "2026-10-10T23:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "bbc.com"
+      ]
+    }
+  ]
+}
