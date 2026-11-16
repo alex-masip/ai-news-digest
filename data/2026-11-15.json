@@ -1,0 +1,911 @@
+{
+  "date": "2026-11-15",
+  "intro": "Venture capitalist Alexa von Tobel argues entrepreneurship represents the primary career path for workers navigating AI disruption, a perspective gaining traction across business media. Anthropic's IPO filing has drawn attention for its detailed discussion of existential AI risks, raising questions about whether corporate transparency on existential concerns influences investor confidence. Meanwhile, proposed congressional restrictions on AI chip exports follow scrutiny of Nvidia executive Jensen Huang's personal associations, signaling potential regulatory pressure on semiconductor supply chains.",
+  "whitelist": [
+    {
+      "title": "Entrepreneur may be the best 'everyday job' of the AI future, says VC investor Alexa von Tobel",
+      "url": "https://www.cnbc.com/2026/11/15/entrepreneur-may-be-best-job-of-ai-era-serial-founder-alexa-von-tobel.html",
+      "domain": "cnbc.com",
+      "outlet": "CNBC",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551061-1794581091900-AVT_2_Color.jpg?v=1794581139&w=1920&h=1080",
+      "desc": "Alexa von Tobel, LearnVest and Inspired Capital founder, says every American worried about AI should see entrepreneurship as the 'everyday job of the future.'",
+      "date": "2026-11-15T15:31:01+00:00",
+      "tier": "whitelist",
+      "cluster_size": 41,
+      "other_outlets": [
+        "24/7 Wall St.",
+        "AOL.com",
+        "ARY News",
+        "Business Insider",
+        "BusinessLine",
+        "BusinessWorld Online"
+      ]
+    },
+    {
+      "title": "A Human Reads the Anthropic I.P.O. Filing",
+      "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
+      "domain": "nytimes.com",
+      "outlet": "nytimes.com",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15bizsun-anthropic-read-08-qbjg/15bizsun-anthropic-read-08-qbjg-videoSixteenByNineJumbo1600.jpg",
+      "desc": "The prospectus is unparalleled in its willingness to discuss existential risk. But does honesty bring comfort?",
+      "date": "2026-11-15T10:01:57+00:00",
+      "tier": "whitelist",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry? | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "domain": "techcrunch.com",
+      "outlet": "TechCrunch",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "desc": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "date": "2026-11-15T21:56:35+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "domain": "theverge.com",
+      "outlet": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "desc": "Following revelations about Jensen Huang’s relationship with a suspected Chinese spy Congress wants to crack down on exports of AI chips.",
+      "date": "2026-11-15T19:15:43+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "You can now generate and edit GIFs with ChatGPT - here's how - Engadget",
+      "url": "https://www.engadget.com/2313818/how-to-generate-edit-gifs-with-chatgpt/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/you-can-now-generate-and-edit-gifs-with-chatgpt-heres-how/l-intro-1794264975.jpg",
+      "desc": "If you feel like Homer Simpson backing into the hedges has been overdone, OpenAI offers a new option for creating the right GIF for the moment.",
+      "date": "2026-11-15T19:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Gen Z believes using AI is making their colleagues dumb and lazy, but may paradoxically see it as key to their own promotion, Wharton says | Fortune",
+      "url": "https://fortune.com/article/why-does-gen-z-believe-using-ai-is-making-colleagues-dumb-lazy/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2253392709-e1769725098196.jpg?resize=1200,600",
+      "desc": "Nearly 80% of Gen Z believes AI is making people lazier, but the young generation has increased how much they’re using the technology, a Wharton-led survey finds.",
+      "date": "2026-11-15T17:02:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Some places have already banned AI glasses, and the list just keeps growing - Engadget",
+      "url": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
+      "domain": "engadget.com",
+      "outlet": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/some-places-have-already-banned-ai-glasses-and-the-list-just-keeps-growing/l-intro-1794240877.jpg",
+      "desc": "Safety and privacy concerns have led to bans on AI glasses in a number of public places, including courtrooms, schools and theaters.",
+      "date": "2026-11-15T16:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Apple’s first smart glasses will have you talking with apps through Siri AI in 2027",
+      "url": "https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/",
+      "domain": "digitaltrends.com",
+      "outlet": "Digital Trends",
+      "image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/person-wearing-smartglasses-IMG_4884-scaled.jpeg?resize=1200%2C630&ssl=1",
+      "desc": "Apple is apparently going full steam ahead with the development of its first smart glasses. And it appears the company is betting on a far more rewarding and well-knit software experience to set them apart from rivals. According to a report by Bloomberg, Apple’s first smart glasses, which are expected to be unveiled at WWDC […]",
+      "date": "2026-11-15T15:28:03+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Gamers might hate AI and the GPU pricing crisis it has caused — but some are now hooked on DLSS 5, and maybe that shows what Nvidia is angling at here",
+      "url": "https://www.techradar.com/computing/gpu/its-a-new-world-and-im-loving-it-some-gamers-are-now-hooked-on-dlss-5-and-cant-game-without-it-and-i-think-this-shows-nvidias-escape-plan-in-the-gpu-crisis",
+      "domain": "techradar.com",
+      "outlet": "TechRadar",
+      "image": "https://cdn.mos.cms.futurecdn.net/aVVGwyeKbyPmdcU6WfmBif-1920-80.jpg",
+      "desc": "DLSS 5 on versus the tech being off is like comparing 60fps versus 30fps, according to one gamer",
+      "date": "2026-11-15T15:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI writes 90% of the code at this company. It still can't hire enough engineers.",
+      "url": "https://www.businessinsider.com/ai-coding-boom-fuels-demand-senior-engineers-not-junior-developers-2026-11",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6af635eeb2c29afb4e56a6e7?width=1200&format=jpeg",
+      "desc": "AI writes over 90% of code at CIQ, but the company needs more experienced engineers. Junior programmers? Not so much.",
+      "date": "2026-11-15T12:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "'It feels like a game of Jenga': Why activists are protesting Anthropic's mega-IPO",
+      "url": "https://www.businessinsider.com/anthropic-ipo-protest-ant-stock-ai-tech-2026-11",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6af76047b2c29afb4e56abf1?width=1200&format=jpeg",
+      "desc": "A group that's staged protests in San Francisco and New York says they see Anthropic's IPO as a risk to everyday Americans' investment portfolios.",
+      "date": "2026-11-15T12:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Otter.ai’s CEO grew up with rationed food in China—now his AI startup makes $100 million a year, and he runs on Arnold Schwarzenegger’s smoothie daily | Fortune",
+      "url": "https://fortune.com/2026/11/15/otter-ai-millionaire-ceo-sam-liang-millionaire-ai-notetaker-arnold-schwarzenegger-smoothie-china-american-dream-frugal-routine/",
+      "domain": "fortune.com",
+      "outlet": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Sam-Liang-e1794582731745.jpg?resize=1200,600",
+      "desc": "Otter.ai’s Sam Liang left China for the American Dream but struggled with English. Taping lectures on a Walkman sparked the idea that made him a millionaire.",
+      "date": "2026-11-15T12:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Opinion | The Flaw at the Heart of Anthropic’s I.P.O.",
+      "url": "https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html",
+      "domain": "nytimes.com",
+      "outlet": "nytimes.com",
+      "image": "https://static01.nyt.com/images/2026/11/15/arts/15opinions-sarin-video-image/15opinions-sarin-video-image-videoSixteenByNineJumbo1600.png",
+      "desc": "Natasha Sarin read the A.I. company’s 300-page I.P.O. filing. Here’s what worries her.",
+      "date": "2026-11-15T11:00:09+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "domain": "wired.com",
+      "outlet": "WIRED",
+      "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png",
+      "desc": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "date": "2026-11-15T11:00:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Former OpenAI researcher says the 'most likely reason' you will die is due to 'an AI accident'",
+      "url": "https://www.businessinsider.com/ex-openai-researcher-says-ai-accident-could-be-your-killer-2026-11",
+      "domain": "businessinsider.com",
+      "outlet": "Business Insider",
+      "image": "https://i.insider.com/6af448658a8cac0989cc02eb?width=1200&format=jpeg",
+      "desc": "Paul Christiano, founder of the Alignment Research Center, warns that powerful AI agents could deceive overseers and escape human control.",
+      "date": "2026-11-15T10:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "domain": "theguardian.com",
+      "outlet": "the Guardian",
+      "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0345763b40006ab93f3b552b4bf8de69",
+      "desc": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool",
+      "date": "2026-11-15T08:56:11+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "domain": "technologyreview.com",
+      "outlet": "MIT Technology Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
+      "desc": "Advances in AI offer tantalizing glimpses of a future in which robots navigate the world the way humans do. The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required.",
+      "date": "2026-11-15T08:16:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    },
+    {
+      "title": "Faculty Positions in AI for Life Sciences at Westlake University - Hangzhou, Zhejiang (CN) job with Westlake University School of Life Science | 12856430",
+      "url": "https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/",
+      "domain": "nature.com",
+      "outlet": "Nature Careers",
+      "image": "https://www.nature.com/naturecareers/images/_display/job/12856430/facebook.png",
+      "desc": "Faculty Positions in AI for Life Sciences at Westlake University job in Hangzhou, Zhejiang (CN) with Westlake University School of Life Science. Apply Today.",
+      "date": "2026-11-15T05:01:00+00:00",
+      "tier": "whitelist",
+      "cluster_size": 1,
+      "other_outlets": []
+    }
+  ],
+  "longtail": [
+    {
+      "title": "No 10 insists PM writes 'most of his own speeches' after aide spotted using ChatGPT | LBC",
+      "url": "https://www.lbc.co.uk/article/no10-insists-pm-writes-speeches-aide-chatgpt-5HjdmNk_2/",
+      "domain": "lbc.co.uk",
+      "outlet": "LBC",
+      "image": "https://images.globalplayer.com/images/855790?crop=16_9&width=1200&signature=Ko0MLyZnzYfZpwknfDY8vCdwVIw=",
+      "desc": "One of the Prime Minister’s team was picture using AI as they worked on a draft of his address to Welsh Labour conference on Saturday.",
+      "date": "2026-11-15T16:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 115,
+      "other_outlets": [
+        "AOL.com",
+        "Andover Advertiser",
+        "Asian Image",
+        "Barry And District News",
+        "Basingstoke Gazette",
+        "Bicester Advertiser"
+      ]
+    },
+    {
+      "title": "New awards show celebrates AI music and its creators",
+      "url": "https://bdnews24.com/entertainment/cr2de9hygw",
+      "domain": "bdnews24.com",
+      "outlet": "bdnews24.com",
+      "image": "https://media.assettype.com/bdnews24-english/2026-11-15/5zcrpgrf/ai-music-01-16112026.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=https%3A%2F%2Fmedia.assettype.com%2Fbdnews24-english%2F2026-08-19%2Fv2z58b9u%2Fbdnews24_default_social_strip.jpg&overlay_position=bottom&overlay_width=100",
+      "desc": "New awards show celebrates AI music and its creators",
+      "date": "2026-11-15T20:02:08+00:00",
+      "tier": "longtail",
+      "cluster_size": 67,
+      "other_outlets": [
+        "areanews.com.au",
+        "armidaleexpress.com.au",
+        "batemansbaypost.com.au",
+        "begadistrictnews.com.au",
+        "bendigoadvertiser.com.au",
+        "blayneychronicle.com.au"
+      ]
+    },
+    {
+      "title": "Supporters become sceptics as Aussies turn on AI",
+      "url": "https://www.perthnow.com.au/news/politics/supporters-become-sceptics-as-aussies-turn-on-ai-c-23165895",
+      "domain": "perthnow.com.au",
+      "outlet": "PerthNow",
+      "image": "https://images.perthnow.com.au/publication/C-23165895/c1a538845773497c7f6583bd2e82a95d9110880a-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "desc": "Almost two-thirds of Australians believe the risks of artificial intelligence outweigh the benefits, despite the technology becoming more commonplace.",
+      "date": "2026-11-15T18:01:13+00:00",
+      "tier": "longtail",
+      "cluster_size": 63,
+      "other_outlets": [
+        "areanews.com.au",
+        "armidaleexpress.com.au",
+        "batemansbaypost.com.au",
+        "begadistrictnews.com.au",
+        "bendigoadvertiser.com.au",
+        "blayneychronicle.com.au"
+      ]
+    },
+    {
+      "title": "Amazon’s plan to own the world’s product data and fight AI shopping agents",
+      "url": "https://www.dglobe.com/news/national/amazons-plan-to-own-the-worlds-product-data-and-fight-ai-shopping-agents",
+      "domain": "dglobe.com",
+      "outlet": "Worthington Globe",
+      "image": "https://cdn.forumcomm.com/dims4/default/76e05da/2147483647/strip/true/crop/4000x2666+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F76%2F4d%2F246675bd962fb2ad8c48d8d08782%2F2026-11-13t111027z-2-lynxnpemac0u5-rtroptp-4-ai-energy.JPG",
+      "desc": "Already, many consumers begin researching products on Amazon. But according to a 2025 Morgan Stanley research report, the 16% of online shoppers who do so on Amazon is dwarfed by Google’s 57%",
+      "date": "2026-11-15T16:59:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 20,
+      "other_outlets": [
+        "Alexandria Echo Press",
+        "Bemidji Pioneer",
+        "Detroit Lakes Tribune",
+        "Dickinson Press",
+        "Duluth News Tribune",
+        "Grand Forks Herald"
+      ]
+    },
+    {
+      "title": "Founderz AI Wins 2026 Microsoft Partner of the Year Award in Training Services Category",
+      "url": "https://www.northernnews.ca/press-releases/newsfile/founderz-ai-wins-2026-microsoft-partner-of-the-year-award-in-training-services-category/",
+      "domain": "northernnews.ca",
+      "outlet": "Northern News This Week",
+      "image": "https://www.northernnews.ca/wp-content/uploads/sites/21/2026/09/316359.jpg",
+      "desc": "The global recognition follows Founderz's 2025 Microsoft training partner award in Spain and highlights its work bringing practical AI skills to more than 700,000 professionals worldwide.",
+      "date": "2026-11-15T08:38:41+00:00",
+      "tier": "longtail",
+      "cluster_size": 14,
+      "other_outlets": [
+        "Belleville Intelligencer",
+        "Brantford Expositor",
+        "Brockville Recorder and Times",
+        "Chatham Daily News",
+        "Cornwall Standard Freeholder",
+        "Elliot Lake Standard"
+      ]
+    },
+    {
+      "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+      "url": "https://arynews.tv/top-scorer-on-south-korean-tax-exam-confesses-to-cheating-with-ai",
+      "domain": "arynews.tv",
+      "outlet": "ARY News",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/AI-1-1.jpg",
+      "desc": "Han said he cheated by taking photos of the exam questions with a microcamera, sending them to an AI tool and...",
+      "date": "2026-11-15T15:40:21+00:00",
+      "tier": "longtail",
+      "cluster_size": 10,
+      "other_outlets": [
+        "1330 & 101.5 WHBL",
+        "93.3 The Drive",
+        "Internazionale",
+        "Japan Today",
+        "The Star",
+        "The Straits Times"
+      ]
+    },
+    {
+      "title": "South Korea probes top exam scorer after AI cheating confession",
+      "url": "https://www.arabnews.com/world/south-korea-probes-top-exam-scorer-after-ai-cheating-confession-3012119",
+      "domain": "arabnews.com",
+      "outlet": "arabnews.com",
+      "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794773385920-e5dd4d8d3392f1eb.jpg",
+      "desc": "South Korea probes top exam scorer after AI cheating confession",
+      "date": "2026-11-15T20:15:13+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Daily K2 English",
+        "Free Malaysia Today | FMT",
+        "Hürriyet Daily News",
+        "New Vision",
+        "The Star",
+        "taipeitimes.com"
+      ]
+    },
+    {
+      "title": "A view of artificial intelligence from within Spokane's tech industry",
+      "url": "https://www.spokanepublicradio.org/regional-news/2026-11-15/a-view-of-artificial-intelligence-from-within-spokanes-tech-industry",
+      "domain": "spokanepublicradio.org",
+      "outlet": "Spokane Public Radio",
+      "image": "https://npr.brightspotcdn.com/dims4/default/782a527/2147483647/strip/true/crop/4032x2268+0+378/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd1%2F86%2F61c9f416461ab19658a3f41e91fb%2Fclayton-and-dan-from-intellitect.jpeg",
+      "desc": "Dan Olvera and Clayton Gravatt from the Spokane company IntelliTect offer their views about AI, how they use it and their concerns.",
+      "date": "2026-11-15T15:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 7,
+      "other_outlets": [
+        "Brisbane Times",
+        "SpringerLink",
+        "The Age",
+        "The Sydney Morning Herald",
+        "WAtoday",
+        "worldoil.com"
+      ]
+    },
+    {
+      "title": "SEBI to issue AI usage guidelines for capital markets, focus on investor protection",
+      "url": "https://www.prokerala.com/news/articles/a1837051.html",
+      "domain": "prokerala.com",
+      "outlet": "prokerala.com",
+      "image": "",
+      "desc": "Markets regulator Securities and Exchange Board of India (SEBI) will soon issue detailed guidelines on the responsible use of Artificial Intelligence (AI) in capital markets, with a focus on investor protection, accountability and human ...",
+      "date": "2026-11-15T15:02:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 5,
+      "other_outlets": [
+        "The Economic Times",
+        "The Hindu",
+        "business-standard.com",
+        "mint"
+      ]
+    },
+    {
+      "title": "Fed's Warsh to take stock of AI revolution as US public grows wary",
+      "url": "https://www.stltoday.com/news/nation-world/government-politics/article_f33e6bd6-b524-57fa-add0-6c79461ecd02.html",
+      "domain": "stltoday.com",
+      "outlet": "STLtoday.com",
+      "image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/33/f33e6bd6-b524-57fa-add0-6c79461ecd02/6af7680d91fd9.preview.jpg?crop=1763%2C926%2C0%2C161&resize=1200%2C630&order=crop%2Cresize",
+      "desc": "In a public forum Monday, Fed Chairman Kevin Warsh will try to better understand AI’s risks and benefits — from the possible large-scale loss of jobs to the promise of",
+      "date": "2026-11-15T21:32:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Courier",
+        "JournalStar.com",
+        "Sioux City Journal"
+      ]
+    },
+    {
+      "title": "Chemical spill at xAI facility in Southaven reaches drainage ditch",
+      "url": "https://www.wtok.com/2026/11/15/chemical-spill-xai-facility-southaven-reaches-drainage-ditch/",
+      "domain": "wtok.com",
+      "outlet": "https://www.wtok.com",
+      "image": "https://gray-wtok-prod.gtv-cdn.com/resizer/v2/AKZAAMISH5GXTNRAINNXR2XGPM.png?auth=7e106148c06cce479968fc252cfdc9dd31a4b6cf365dcb0daf320a9240f61612&width=1200&height=600&smart=true",
+      "desc": "State environmental officials are responding after thousands of gallons of propylene glycol spilled at an xAI facility in Southaven and reached a drainage ditch.",
+      "date": "2026-11-15T13:37:19+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "https://www.actionnews5.com",
+        "https://www.wlox.com",
+        "https://www.wtva.com"
+      ]
+    },
+    {
+      "title": "A powerful AI tool was taken away from Australia. This Democrat wants to change that",
+      "url": "https://www.smh.com.au/politics/federal/a-powerful-ai-tool-was-taken-away-from-australia-this-democrat-wants-to-change-that-20261115-p61e4i.html",
+      "domain": "smh.com.au",
+      "outlet": "The Sydney Morning Herald",
+      "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/q_86%2Cf_auto/e62f7248c9c48a48ba34e4cf6b3c849d6debb05e",
+      "desc": "A leading Democrat says Five Eyes intelligence partners like Australia should not be denied access to the most powerful AI models.",
+      "date": "2026-11-15T02:54:21+00:00",
+      "tier": "longtail",
+      "cluster_size": 4,
+      "other_outlets": [
+        "Brisbane Times",
+        "The Age",
+        "WAtoday"
+      ]
+    },
+    {
+      "title": "Dead as a prank? Young South Koreans turn to AI for fake funeral portraits",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/dead-as-a-prank-young-south-koreans-turn-to-ai-for-fake-funeral-portraits",
+      "domain": "thestar.com.my",
+      "outlet": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/15/4213797.jpg",
+      "desc": "A growing social media trend among young South Koreans of using generative artificial intelligence to make themselves or their friends appear dead as a joke has prompted calls for tighter regulation of online platforms, news reports said on Nov 15.",
+      "date": "2026-11-15T19:44:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "The Korea Herald"
+      ]
+    },
+    {
+      "title": "AI retreat fuels India stock comeback in great rotation trade",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/ai-retreat-fuels-india-stock-comeback-great-rotation-trade",
+      "domain": "businesstimes.com.sg",
+      "outlet": "The Business Times",
+      "image": "https://cassette.sphdigital.com.sg/image/businesstimes/08f87d2841e1b204abac4ec906003f78c6147e2e3b1277402ce4ee84c4224557?t=og&f=webp&w=240",
+      "desc": "Bounce-back illustrates broader rotation by global funds away from crowded tech bets toward markets backed by strong earnings Read more at The Business Times.",
+      "date": "2026-11-15T05:09:18+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "The Economic Times",
+        "business-standard.com"
+      ]
+    },
+    {
+      "title": "Was Jensen Taken Out Over Open Source? Sacks Says Anthropic's 'Safetyist' Allies Want Full Govt Control Over Models & Chips",
+      "url": "http://www.zerohedge.com/ai/was-jensen-taken-out-over-open-source-sacks-says-anthropics-safetyist-allies-want-all-models-and",
+      "domain": "zerohedge.com",
+      "outlet": "ZeroHedge",
+      "image": "https://cms.zerohedge.com/sites/default/files/styles/16_9_max_700/public/2026-11/original_80%281%29.jpg?itok=4v-T__68",
+      "desc": "They are in full jubilee mode today...",
+      "date": "2026-11-15T04:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 3,
+      "other_outlets": [
+        "ChinaTechNews.com"
+      ]
+    },
+    {
+      "title": "International Business: Nvidia results and Anthropic IPO pose tests for volatile AI markets",
+      "url": "https://www.gdnonline.com:443/Details/1412929",
+      "domain": "gdnonline.com",
+      "outlet": "gdnonline.com",
+      "image": "https://www.gdnonline.com/gdnimages/20261116\\20261115_223040_0.jpg",
+      "desc": "",
+      "date": "2026-11-15T22:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Reading the economy from earnings calls with generative AI | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/reading-the-economy-from-earnings-calls-with-generative-ai/",
+      "domain": "hellenicshippingnews.com",
+      "outlet": "hellenicshippingnews.com",
+      "image": "",
+      "desc": "",
+      "date": "2026-11-15T22:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Cedar News"
+      ]
+    },
+    {
+      "title": "Column: The AI boom may be sowing seeds of another financial crisis",
+      "url": "https://www.dailypress.com/2026/11/15/column-the-ai-boom-may-be-sowing-seeds-of-another-financial-crisis/",
+      "domain": "dailypress.com",
+      "outlet": "Daily Press",
+      "image": "https://www.dailypress.com/wp-content/uploads/2026/11/TVP-Z-OP-DUDLEY-COLUMN-AI-ECONOMY.jpg?w=2000&h=1333",
+      "desc": "Given the magnitude of the AI boom, investors need better information to properly assess and price for risk, Bloomberg Opinion columnist Bill Dudley writes.",
+      "date": "2026-11-15T21:05:30+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Virginian-Pilot"
+      ]
+    },
+    {
+      "title": "Google Ties Search Access To AI Adoption In Schools. Teachers and Parents Are Not Having It.",
+      "url": "https://929nin.com/ixp/514/p/schools-forced-adopt-google-gemini/",
+      "domain": "929nin.com",
+      "outlet": "92.9 NIN",
+      "image": "https://townsquare.media/site/514/files/2026/11/attachment-screenshot-2026-11-04-090849.png?w=1200&q=75&format=natural",
+      "desc": "Schools face a choice: adopt Google's Gemini AI or lose access to Google Search entirely under the tech giant's new policy.",
+      "date": "2026-11-15T20:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "106.3 The Buzz"
+      ]
+    },
+    {
+      "title": "As students rely on AI in college applications, admissions offices scramble to keep up",
+      "url": "https://www.ksl.com:443/article/as-students-rely-on-ai-in-college-applications-admissions-offices-scramble-to-keep-up/51645988",
+      "domain": "ksl.com",
+      "outlet": "ksl.com",
+      "image": "https://img.ksl.com/slc/3208/320882/32088285.jpg?filter=kslv2/responsive_story_lg",
+      "desc": "The college admissions essay is in a very weird place. It's impossible to say just how many of them are now written by AI, but at this point, experts agree that it's a lot of them. And while colleges generally frown upon that practice, they're using AI to evaluate the essays, too.",
+      "date": "2026-11-15T20:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "KTEN"
+      ]
+    },
+    {
+      "title": "Data center diaspora: Democrats’ blue wave wins could send AI buildout out of US",
+      "url": "http://www.reflector.com/news/national/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-us/article_5cba6727-fa2d-54e0-a25a-d38330f93c45.html",
+      "domain": "reflector.com",
+      "outlet": "Reflector",
+      "image": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/b/48/b484dd16-6387-50ef-ae25-564ea2a2dc4c/6af72d8eb39fc.image.jpg?crop=1024%2C538%2C0%2C72",
+      "desc": "Democrats’ sweeping wins and the approvals of local data center moratoriums and restrictions in the midterm elections are poised to embolden opponents of the artificial intelligence buildout across the U.S.",
+      "date": "2026-11-15T19:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Daily Times"
+      ]
+    },
+    {
+      "title": "How Labor's rushed defence bill could put OpenAI staff with guns in Canberra's data centres",
+      "url": "https://www.canberratimes.com.au/story/9391482/richard-marles-defence-bill-sparks-alarm-over-militarised-act/",
+      "domain": "canberratimes.com.au",
+      "outlet": "canberratimes.com.au",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/262473761/0412cc67-513f-4607-8190-ca530e9815dc.jpg/r0_425_6000_3575_w1200_h630_fmax.jpg",
+      "desc": "Richard Marles could turn ACT data centres into armed defence zones under a new bill. Discover why human rights groups fear suburb militarisation.",
+      "date": "2026-11-15T18:30:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "begadistrictnews.com.au"
+      ]
+    },
+    {
+      "title": "AI mosquito trap targets deadly dengue outbreak",
+      "url": "https://www.foxnews.com/tech/ai-mosquito-trap-targets-deadly-dengue-outbreak",
+      "domain": "foxnews.com",
+      "outlet": "Fox News",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ai-mosquito-trap-bug.jpg",
+      "desc": "University of South Florida researchers developed an AI mosquito trap that identifies species with 98% accuracy as Florida battles its largest dengue outbreak in decades.",
+      "date": "2026-11-15T18:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Cedar News"
+      ]
+    },
+    {
+      "title": "Could universal basic income be part of the solution in an AI economy?",
+      "url": "https://www.dw.com/en/how-ai-is-likely-to-change-germanys-job-market/a-79941597",
+      "domain": "dw.com",
+      "outlet": "dw.com",
+      "image": "https://static.dw.com/image/79041536_6.jpg",
+      "desc": "The scale of the economic disruption caused by AI has led even conservative politicians to talk about universal basic income. But economists aren't convinced, and campaigners think we need to ask deeper questions.",
+      "date": "2026-11-15T17:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Nvidia scandal heightening AI rivalry - Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/16/2003867788",
+      "domain": "taipeitimes.com",
+      "outlet": "taipeitimes.com",
+      "image": "https://img.taipeitimes.com/images/2026/11/16/P09-261116-321.jpg",
+      "desc": "Well before reports emerged that former Nvidia Corp CEO Jensen Huang (黃仁勳) was having an affair with a suspected Chinese spy, the advanced chips made by his company were at the center of the race between the US and China to dominate artificial intelligence (AI). The scandal now threatens to intensif",
+      "date": "2026-11-15T16:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "WLEC"
+      ]
+    },
+    {
+      "title": "Andy Burnham aide caught using ChatGPT to make speech ‘more emotive’",
+      "url": "https://www.thenational.scot/news/26730389.andy-burnham-aide-uses-chatgpt-make-speech-more-emotive/",
+      "domain": "thenational.scot",
+      "outlet": "The National",
+      "image": "https://www.thenational.scot/resources/images/21719646/",
+      "desc": "ANDY Burnham writes “most of his own speeches”, Downing Street has said after an aide was pictured using ChatGPT",
+      "date": "2026-11-15T15:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Economic Times"
+      ]
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
+      "url": "https://bdnews24.com/technology/02173e2die",
+      "domain": "bdnews24.com",
+      "outlet": "bdnews24.com",
+      "image": "https://media.assettype.com/bdnews24-english/2026-11-15/u878t3sp/chatgpt-01-15112026.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=https%3A%2F%2Fmedia.assettype.com%2Fbdnews24-english%2F2026-08-19%2Fv2z58b9u%2Fbdnews24_default_social_strip.jpg&overlay_position=bottom&overlay_width=100",
+      "desc": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
+      "date": "2026-11-15T15:16:15+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "ARY News"
+      ]
+    },
+    {
+      "title": "Andy Burnham aide spotted using ChatGPT to help draft PM’s speech",
+      "url": "https://www.standard.co.uk/news/politics/andy-burnham-speech-chatgpt-wales-b1304923.html",
+      "domain": "standard.co.uk",
+      "outlet": "The Standard",
+      "image": "https://static.standard.co.uk/2026/11/15/12/81aebab0e48b5605338445c7d4c8663eY29udGVudHNlYXJjaGFwaSwxNzk0ODMwNzc1-2.86486011.jpg?crop=5:3,smart&auto=webp&quality=75&width=1200",
+      "desc": "One of the Prime Minister’s team was photographed using AI as they worked on a draft of his address to Welsh Labour conference on Saturday.",
+      "date": "2026-11-15T14:20:02+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Express.co.uk"
+      ]
+    },
+    {
+      "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia - AOL",
+      "url": "https://www.aol.com/articles/anthropic-just-delivered-great-news-104002000.html",
+      "domain": "aol.com",
+      "outlet": "AOL.com",
+      "image": "https://hermes.media.transform.aol.com/e2946ad32b569d6505c337a4fc71581f54bf5645/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/11/15/3d41b705-a426-38d4-b98e-9905f262f7f4/9754cff6-66e3-4bb9-801a-7f1f863746b8.jpg",
+      "desc": "Anthropic just undermined one of Nvidia's chief competitive advantages.",
+      "date": "2026-11-15T12:47:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "newsnow.co.uk"
+      ]
+    },
+    {
+      "title": "The AI bubble bursts: Foreign Affairs warns of corporate crash and market panic",
+      "url": "https://www.bankingnews.gr/xrimatistirio/articles/911149/the-ai-bubble-bursts-foreign-affairs-warns-of-corporate-crash-and-market-panic",
+      "domain": "bankingnews.gr",
+      "outlet": "bankingnews.gr",
+      "image": "https://www.bankingnews.gr/media/k2/items/cache/b76eb1862ce30bab14c5563bc89fa9c4_M.jpg?v=2",
+      "desc": "The AI bubble bursts: Foreign Affairs warns of corporate crash and market panic",
+      "date": "2026-11-15T12:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "UAE Business: Future Council projects leverage AI to serve business",
+      "url": "https://www.gdnonline.com:443/Details/1412894",
+      "domain": "gdnonline.com",
+      "outlet": "gdnonline.com",
+      "image": "https://www.gdnonline.com/gdnimages/20261115\\TA_20261115123157.jpg",
+      "desc": "he three winning teams of the second edition of the",
+      "date": "2026-11-15T12:17:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Fallout from the Nvidia scandal may dampen the exuberance around the AI boom",
+      "url": "https://abcnews.com/US/wireStory/fallout-nvidia-scandal-dampen-exuberance-ai-boom-138101241",
+      "domain": "abcnews.com",
+      "outlet": "ABC News",
+      "image": "https://i.abcnewsfe.com/a/1c96c3d5-f01c-4bbe-8939-0bcb00a9e423/wirestory_1b7431af84c9d78773c277672a9486f3_16x9.jpg?w=1600",
+      "desc": "Nvidia CEO Jensen Huang’s stunning resignation has sent ripples throughout the global technology industry, with competitors itching to take advantage of the uncertainty surrounding the chip giant",
+      "date": "2026-11-15T12:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "jamaica-gleaner.com"
+      ]
+    },
+    {
+      "title": "Artists concerned AI use leads to fewer commissions",
+      "url": "http://www.businessghana.com/site/news/Technology/359740/Artists-concerned-AI-use-leads-to-fewer-commissions",
+      "domain": "businessghana.com",
+      "outlet": "BusinessGhana",
+      "image": "http://www.businessghana.com/site/img/../../cms/img/news/2026-11-14-19242100.jpg",
+      "desc": "Independent artists have said that finding work in the era of AI \"is a struggle\". Artificial Intelligence has rippled...",
+      "date": "2026-11-15T11:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "The UAE's AI Adoption Is a World Record. Paying for It Is Another Story",
+      "url": "https://www.jcnnewswire.com/pressrelease/111583/2/The-UAEs-AI-Adoption-Is-a-World-Record-Paying-for-It-Is-Another-Story",
+      "domain": "jcnnewswire.com",
+      "outlet": "jcnnewswire.com",
+      "image": "",
+      "desc": "",
+      "date": "2026-11-15T09:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "International Business: Anthropic IPO generates strong investor enthusiasm",
+      "url": "https://www.gdnonline.com:443/Details/1412834/Anthropic-IPO-generates-strong-investor-enthusiasm",
+      "domain": "gdnonline.com",
+      "outlet": "gdnonline.com",
+      "image": "https://www.gdnonline.com/gdnimages/20261115\\20261114_223227_0.jpg",
+      "desc": "",
+      "date": "2026-11-15T08:46:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Judaism and AI Design Ethics part 2 - Torah Musings",
+      "url": "https://www.torahmusings.com/2025/11/judaism-and-ai-design-ethics-part-2/",
+      "domain": "torahmusings.com",
+      "outlet": "Torah Musings",
+      "image": "https://www.torahmusings.com/wp-content/uploads/2015/03/TM-Facebook-logo-backup.jpg",
+      "desc": "by R. Gil Student In the first part of this essay, we saw that Judaism has long wrestled with the ethics of publishing and the dangers of unreliable or misleading content. The halakhic tradition demands accuracy, rejects heresy and insists that those who release information bear responsibility for its impact. Just as authors and …",
+      "date": "2026-11-15T08:18:05+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "With Wärtsilä, Utkilen Devises Practical Applications for AI",
+      "url": "https://www.marinelink.com/podcast/wrtsil-utkilen-devises-practical-544330",
+      "domain": "marinelink.com",
+      "outlet": "MarineLink",
+      "image": "https://images.marinelink.com/images/maritime/w800/-175050.png",
+      "desc": "Artificial Intelligence (AI) has become an oft and over-used catch-all phrase pervasive in maritime, and if you ask 100 peopleâ€¦",
+      "date": "2026-11-15T08:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Top South Korean exam scorer admits using AI to cheat",
+      "url": "https://punchng.com/top-south-korean-exam-scorer-admits-using-ai-to-cheat/",
+      "domain": "punchng.com",
+      "outlet": "Punch Newspapers",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/30103833/South-Korea-flag_1793353113-1024x630.webp",
+      "desc": "South Korean police are investigating after the top scorer in a national tax accountant exam confessed to using artificial intelligence to cheat during the",
+      "date": "2026-11-15T07:57:04+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "The Korea Times"
+      ]
+    },
+    {
+      "title": "FPIs turn aggressive buyers in India amid domestic market resilience, global AI shocks",
+      "url": "https://www.prokerala.com/news/articles/a1836867.html",
+      "domain": "prokerala.com",
+      "outlet": "prokerala.com",
+      "image": "",
+      "desc": "Foreign portfolio investors (FPIs) have turned aggressive buyers in India in a dramatic turn of market-related developments, and this month's total FPI inflows are likely to be an all-time high, according to analysts on Sunday.The trend of FPI ...",
+      "date": "2026-11-15T06:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "IANS News"
+      ]
+    },
+    {
+      "title": "How the AI boom is changing the outlook for UAE energy stocks",
+      "url": "https://tradearabia.com:443/News/489395/How-the-AI-boom-is-changing-the-outlook-for-UAE-energy-stocks/REAL",
+      "domain": "tradearabia.com",
+      "outlet": "TradeArabia",
+      "image": "https://img.tradearabia.com//source/TA/2026/11/09/TA_20261109130749.jpg",
+      "desc": "The growing relationship between artificial intelligence and energy is reshaping the UAE's investment landscape, as rising electricity demand and advances in AI technology create new opportunities for energy companies and investors",
+      "date": "2026-11-15T05:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "AI and humanity",
+      "url": "https://www.geo.tv/latest/691142-ai-and-humanity",
+      "domain": "geo.tv",
+      "outlet": "Geo News",
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-11-15/691142_083754_updates.jpg",
+      "desc": "Artificial intelligence is rapidly transforming the world, challenging established notions of knowledge, intelligence, productivity and even human identity. What was once confined to scientific imagination is now influencing almost every sphere...",
+      "date": "2026-11-15T03:39:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "Pakistan Observer"
+      ]
+    },
+    {
+      "title": "A secret transit hub for Nvidia AI chips? Minister says Malaysian police on the case since last April",
+      "url": "https://www.asiaone.com/malaysia/malaysia-police-investigations-nvidia-transit-hub-nasution",
+      "domain": "asiaone.com",
+      "outlet": "AsiaOne",
+      "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Nov2026/Nasution%20on%20Megaspeed%20investigations.png?itok=sR6jdYB2",
+      "desc": "SITIAWAN - The Royal Malaysia Police (PDRM) opened an investigation as early as April 2025 into US allegations that Malaysia is being used as a transit point for illicitly diverted advanced chips, Home Minister Datuk Seri Saifuddin Nasution Ismail said today.Speaking to reporters here, Saifuddin was asked whether Malaysia had been affected by the issue involving Nvidia, whose chips power...",
+      "date": "2026-11-15T02:00:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+      "url": "https://freerepublic.com/focus/f-bloggers/4403056/posts",
+      "domain": "freerepublic.com",
+      "outlet": "freerepublic.com",
+      "image": "",
+      "desc": "",
+      "date": "2026-11-15T01:31:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "Jensen Huang’s affair will shut back-door trade of AI chips to China",
+      "url": "https://www.afr.com/world/asia/jensen-huang-s-affair-will-shut-back-door-trade-of-ai-chips-to-china-20261115-p61d8g",
+      "domain": "afr.com",
+      "outlet": "Australian Financial Review",
+      "image": "https://static.ffx.io/images/$zoom_0.4533%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_158%2C$y_85/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/69794393eb2881aa4a5e9551c8d13ac31fe8113e027ddedaa117c574a453b720",
+      "desc": "The revelations about the former Nvidia boss raise the prospect of a tougher approach from Washington, potentially threatening billions of dollars in investment.",
+      "date": "2026-11-15T01:22:15+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "ChinaTechNews.com"
+      ]
+    },
+    {
+      "title": "Marcos creates national AI council, adopts governance framework",
+      "url": "https://qa.philstar.com/headlines/2026/11/15/2570133/marcos-creates-national-ai-council-adopts-governance-framework",
+      "domain": "qa.philstar.com",
+      "outlet": "Philstar.com",
+      "image": "https://media.philstar.com/photos/2026/11/14/bongbong-marcos-asean-2026-1_2026-11-14_19-26-50.jpg",
+      "desc": "President Ferdinand Marcos Jr. has signed an executive order adopting a national framework for artificial intelligence governance and creating an inter-agency council to oversee its implementation.",
+      "date": "2026-11-15T01:16:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    },
+    {
+      "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076 - AOL",
+      "url": "https://www.aol.com/articles/thinks-200-000-p-500-230346000.html",
+      "domain": "aol.com",
+      "outlet": "AOL.com",
+      "image": "https://hermes.media.static.aol.com/media/2026/11/14/61a31a0d-74ea-3a0a-abd0-f1c4ff710fda/1ec9212e-afac-4aa5-a203-19ccfbe60004.jpg",
+      "desc": "He bought an S&P 500 index fund to avoid betting on any single AI winner. One quirk in how the fund lists its holdings means he may be carrying far more risk in one company than he realizes.",
+      "date": "2026-11-15T00:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": [
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "title": "World Insights: Dublin summits advance Europe's role in Ukraine talks, expose AI challenges",
+      "url": "https://english.news.cn/20261115/8391f85941874bfaa544c0ea957c3503/c.html",
+      "domain": "english.news.cn",
+      "outlet": "english.news.cn",
+      "image": "",
+      "desc": "World Insights: Dublin summits advance Europe's role in Ukraine talks, expose AI challenges-",
+      "date": "2026-11-14T23:01:00+00:00",
+      "tier": "longtail",
+      "cluster_size": 2,
+      "other_outlets": []
+    }
+  ]
+}
